@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+</head>
+<body>
+    <h3>Swift 传递的值：<span id="show_value" style="color:red">暂无</span></h3>
+
+    <!-- 场景1：JS 按钮点击 → 发消息给 Swift -->
+    <button onclick="sendMsgToSwift()">JS 按钮：发送数据给 Swift</button>
+
+    <script>
+
+        // ==========================
+        // 场景1：JS 主动发送消息给 Swift
+        // ==========================
+        function sendMsgToSwift() {
+            window.webkit.messageHandlers.jsToSwift.postMessage({
+                "method": "jsBtnClick",
+                "msg": "JS给swift原生传数据",
+                "data": { "user_id": 10086, "nickname": "凯多" }
+            });
+        }
+
+        // ==========================
+        // 场景2：Swift 调用 JS → 更新界面
+        // ==========================
+        function updateViewFromSwift(text) {
+            document.getElementById("show_value").innerText = text;
+            alert("收到原生数据：" + text);
+        }
+    </script>
+</body>
+</html>

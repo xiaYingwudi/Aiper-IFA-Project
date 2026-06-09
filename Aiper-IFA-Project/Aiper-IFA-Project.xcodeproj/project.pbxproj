@@ -1,0 +1,560 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 63;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9B5B5D86568BCFA652877F90 /* Pods_Aiper_IFA_Project.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80DEEA68F40FBA12FA0C4061 /* Pods_Aiper_IFA_Project.framework */; };
+		E1BCC3D42FD27CC7007C459E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */; };
+		E1BCC3D62FD27CC7007C459E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3CE2FD27CC7007C459E /* LaunchScreen.storyboard */; };
+		E1BCC3D82FD27CC7007C459E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */; };
+		E1BCC3DC2FD2995E007C459E /* AIFRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */; };
+		E1BCC3E32FD2AC09007C459E /* AIFSocketManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */; };
+		E1BCC3F42FD2B3C2007C459E /* AIFWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */; };
+		E1BCC3F62FD2B4E2007C459E /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3F52FD2B4E2007C459E /* test.html */; };
+		E1BCC4032FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */; };
+		E1E747462FD7A2B0009E7D9B /* ImportFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747452FD7A2B0009E7D9B /* ImportFile.swift */; };
+		E1E7474A2FD7A452009E7D9B /* Dictionary+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */; };
+		E1E7474B2FD7A452009E7D9B /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747482FD7A452009E7D9B /* String+Extension.swift */; };
+		E1E7474D2FD7A519009E7D9B /* AppConfigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */; };
+		E1E747512FD7A581009E7D9B /* Data+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0D406DEFAA6BA6BEEDF5DF67 /* Pods-Aiper-IFA-Project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiper-IFA-Project.release.xcconfig"; path = "Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project.release.xcconfig"; sourceTree = "<group>"; };
+		18F42CBB3C24E4A2E8983789 /* Pods-Aiper-IFA-Project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiper-IFA-Project.debug.xcconfig"; path = "Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project.debug.xcconfig"; sourceTree = "<group>"; };
+		80DEEA68F40FBA12FA0C4061 /* Pods_Aiper_IFA_Project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aiper_IFA_Project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1BCC3922FD27C5B007C459E /* Aiper-IFA-Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aiper-IFA-Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E1BCC3CC2FD27CC7007C459E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1BCC3CD2FD27CC7007C459E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFRootViewController.swift; sourceTree = "<group>"; };
+		E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFSocketManager.swift; sourceTree = "<group>"; };
+		E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFWebView.swift; sourceTree = "<group>"; };
+		E1BCC3F52FD2B4E2007C459E /* test.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
+		E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIBluetoothProvisioningVC.swift; sourceTree = "<group>"; };
+		E1E747452FD7A2B0009E7D9B /* ImportFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportFile.swift; sourceTree = "<group>"; };
+		E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dictionary+Extension.swift"; sourceTree = "<group>"; };
+		E1E747482FD7A452009E7D9B /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigs.swift; sourceTree = "<group>"; };
+		E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+Extension.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E1BCC38F2FD27C5B007C459E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9B5B5D86568BCFA652877F90 /* Pods_Aiper_IFA_Project.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5857A14CE149D42F11B7E4F4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				80DEEA68F40FBA12FA0C4061 /* Pods_Aiper_IFA_Project.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AA41B495BFCE1537E6804444 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				18F42CBB3C24E4A2E8983789 /* Pods-Aiper-IFA-Project.debug.xcconfig */,
+				0D406DEFAA6BA6BEEDF5DF67 /* Pods-Aiper-IFA-Project.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		E1BCC3892FD27C5A007C459E = {
+			isa = PBXGroup;
+			children = (
+				E1BCC3D32FD27CC7007C459E /* Aiper-IFA-Project */,
+				E1BCC3932FD27C5B007C459E /* Products */,
+				AA41B495BFCE1537E6804444 /* Pods */,
+				5857A14CE149D42F11B7E4F4 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		E1BCC3932FD27C5B007C459E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1BCC3922FD27C5B007C459E /* Aiper-IFA-Project.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E1BCC3D32FD27CC7007C459E /* Aiper-IFA-Project */ = {
+			isa = PBXGroup;
+			children = (
+				E1E747492FD7A452009E7D9B /* IFA */,
+				E1BCC3DD2FD29D9C007C459E /* Other */,
+				E1BCC3DE2FD29D9C007C459E /* Tools */,
+				E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */,
+				E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */,
+				E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */,
+				E1E747452FD7A2B0009E7D9B /* ImportFile.swift */,
+				E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */,
+				E1BCC3CC2FD27CC7007C459E /* Info.plist */,
+				E1BCC3CE2FD27CC7007C459E /* LaunchScreen.storyboard */,
+			);
+			path = "Aiper-IFA-Project";
+			sourceTree = "<group>";
+		};
+		E1BCC3DD2FD29D9C007C459E /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */,
+				E1BCC3F52FD2B4E2007C459E /* test.html */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		E1BCC3DE2FD29D9C007C459E /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				E1BCC3E02FD29F29007C459E /* Manager */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		E1BCC3E02FD29F29007C459E /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */,
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		E1E747492FD7A452009E7D9B /* IFA */ = {
+			isa = PBXGroup;
+			children = (
+				E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */,
+				E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */,
+				E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */,
+				E1E747482FD7A452009E7D9B /* String+Extension.swift */,
+			);
+			path = IFA;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E1BCC3912FD27C5B007C459E /* Aiper-IFA-Project */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1BCC3A52FD27C5F007C459E /* Build configuration list for PBXNativeTarget "Aiper-IFA-Project" */;
+			buildPhases = (
+				CC2F55B7668A5381CEB6B4B4 /* [CP] Check Pods Manifest.lock */,
+				E1BCC38E2FD27C5B007C459E /* Sources */,
+				E1BCC38F2FD27C5B007C459E /* Frameworks */,
+				E1BCC3902FD27C5B007C459E /* Resources */,
+				D64666FCFECCF1FB5AD59B05 /* [CP] Embed Pods Frameworks */,
+				A5FACA2FAB6C2123E88D2A97 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Aiper-IFA-Project";
+			productName = "Aiper-IFA-Project";
+			productReference = E1BCC3922FD27C5B007C459E /* Aiper-IFA-Project.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E1BCC38A2FD27C5A007C459E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = AIF;
+				LastSwiftUpdateCheck = 2640;
+				LastUpgradeCheck = 2640;
+				TargetAttributes = {
+					E1BCC3912FD27C5B007C459E = {
+						CreatedOnToolsVersion = 26.4.1;
+					};
+				};
+			};
+			buildConfigurationList = E1BCC38D2FD27C5A007C459E /* Build configuration list for PBXProject "Aiper-IFA-Project" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1BCC3892FD27C5A007C459E;
+			minimizedProjectReferenceProxies = 1;
+			productRefGroup = E1BCC3932FD27C5B007C459E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E1BCC3912FD27C5B007C459E /* Aiper-IFA-Project */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E1BCC3902FD27C5B007C459E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1BCC3D42FD27CC7007C459E /* Assets.xcassets in Resources */,
+				E1BCC3D62FD27CC7007C459E /* LaunchScreen.storyboard in Resources */,
+				E1BCC3F62FD2B4E2007C459E /* test.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A5FACA2FAB6C2123E88D2A97 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CC2F55B7668A5381CEB6B4B4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Aiper-IFA-Project-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D64666FCFECCF1FB5AD59B05 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E1BCC38E2FD27C5B007C459E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1BCC3DC2FD2995E007C459E /* AIFRootViewController.swift in Sources */,
+				E1BCC3D82FD27CC7007C459E /* AppDelegate.swift in Sources */,
+				E1BCC3F42FD2B3C2007C459E /* AIFWebView.swift in Sources */,
+				E1BCC4032FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift in Sources */,
+				E1E747512FD7A581009E7D9B /* Data+Extension.swift in Sources */,
+				E1E747462FD7A2B0009E7D9B /* ImportFile.swift in Sources */,
+				E1E7474A2FD7A452009E7D9B /* Dictionary+Extension.swift in Sources */,
+				E1E7474B2FD7A452009E7D9B /* String+Extension.swift in Sources */,
+				E1BCC3E32FD2AC09007C459E /* AIFSocketManager.swift in Sources */,
+				E1E7474D2FD7A519009E7D9B /* AppConfigs.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E1BCC3CE2FD27CC7007C459E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E1BCC3CD2FD27CC7007C459E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E1BCC3A62FD27C5F007C459E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18F42CBB3C24E4A2E8983789 /* Pods-Aiper-IFA-Project.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6R8TBAHW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Aiper-IFA-Project/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "APP需要您的同意，才能获取媒体库权限";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "APP需要您的同意，才能使用蓝牙";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "APP需要您的同意，才能访问日历，以便于获取更好的使用体验";
+				INFOPLIST_KEY_NSCameraUsageDescription = "APP需要您的同意，才能使用摄像头，以便于相机拍摄、上传、发布照片";
+				INFOPLIST_KEY_NSContactsUsageDescription = "APP需要您的同意，才能访问通讯录（信息仅用于查找联系人，并会严格保密）";
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "APP需要您的同意，才能使用人脸识别";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "APP需要您的同意，才能始终访问位置信息";
+				INFOPLIST_KEY_NSLocationUsageDescription = "APP需要您的同意，才能访问位置信息，以便搜索附近位置";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "APP需要您的同意，才能在使用时获取位置信息";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "APP需要您的同意，才能使用麦克风，用于视频录制、语音识别、语音聊天";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "APP需要您的同意，才能访问相册，用于图片选取、上传、发布";
+				INFOPLIST_KEY_NSRemindersUsageDescription = "APP需要您的同意，才能访问提醒事项";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "APP需要您的同意，才能进行语音识别";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aiper.testit.ifa;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E1BCC3A72FD27C5F007C459E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0D406DEFAA6BA6BEEDF5DF67 /* Pods-Aiper-IFA-Project.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6R8TBAHW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Aiper-IFA-Project/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "APP需要您的同意，才能获取媒体库权限";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "APP需要您的同意，才能使用蓝牙";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "APP需要您的同意，才能访问日历，以便于获取更好的使用体验";
+				INFOPLIST_KEY_NSCameraUsageDescription = "APP需要您的同意，才能使用摄像头，以便于相机拍摄、上传、发布照片";
+				INFOPLIST_KEY_NSContactsUsageDescription = "APP需要您的同意，才能访问通讯录（信息仅用于查找联系人，并会严格保密）";
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "APP需要您的同意，才能使用人脸识别";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "APP需要您的同意，才能始终访问位置信息";
+				INFOPLIST_KEY_NSLocationUsageDescription = "APP需要您的同意，才能访问位置信息，以便搜索附近位置";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "APP需要您的同意，才能在使用时获取位置信息";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "APP需要您的同意，才能使用麦克风，用于视频录制、语音识别、语音聊天";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "APP需要您的同意，才能访问相册，用于图片选取、上传、发布";
+				INFOPLIST_KEY_NSRemindersUsageDescription = "APP需要您的同意，才能访问提醒事项";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "APP需要您的同意，才能进行语音识别";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aiper.testit.ifa;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E1BCC3A82FD27C5F007C459E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E1BCC3A92FD27C5F007C459E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1BCC38D2FD27C5A007C459E /* Build configuration list for PBXProject "Aiper-IFA-Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1BCC3A82FD27C5F007C459E /* Debug */,
+				E1BCC3A92FD27C5F007C459E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E1BCC3A52FD27C5F007C459E /* Build configuration list for PBXNativeTarget "Aiper-IFA-Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1BCC3A62FD27C5F007C459E /* Debug */,
+				E1BCC3A72FD27C5F007C459E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1BCC38A2FD27C5A007C459E /* Project object */;
+}

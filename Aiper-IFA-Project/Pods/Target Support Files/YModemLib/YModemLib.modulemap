@@ -1,0 +1,6 @@
+framework module YModemLib {
+  umbrella header "YModemLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,322 @@
+PODS:
+  - Alamofire (5.11.2)
+  - AWSAuthCore (2.41.0):
+    - AWSCore (= 2.41.0)
+  - AWSCognitoIdentityProvider (2.41.0):
+    - AWSCognitoIdentityProviderASF (= 2.41.0)
+    - AWSCore (= 2.41.0)
+  - AWSCognitoIdentityProviderASF (2.41.0):
+    - AWSCore (= 2.41.0)
+  - AWSCore (2.41.0)
+  - AWSIoT (2.41.0):
+    - AWSCore (= 2.41.0)
+  - AWSMobileClient (2.41.0):
+    - AWSAuthCore (= 2.41.0)
+    - AWSCognitoIdentityProvider (= 2.41.0)
+    - AWSCognitoIdentityProviderASF (= 2.41.0)
+    - AWSCore (= 2.41.0)
+  - CleanJSON (1.0.9)
+  - CocoaAsyncSocket (7.6.5)
+  - CocoaDebug (1.7.7)
+  - CocoaLumberjack (3.9.1):
+    - CocoaLumberjack/Core (= 3.9.1)
+  - CocoaLumberjack/Core (3.9.1)
+  - CryptoSwift (1.8.4)
+  - DefaultsKit (0.3.2)
+  - DGCharts (5.0.0):
+    - DGCharts/Core (= 5.0.0)
+  - DGCharts/Core (5.0.0)
+  - Differentiator (5.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - EmptyDataSet-Swift (5.0.0)
+  - FSCalendar (2.8.4)
+  - GKNavigationBarSwift (1.7.3)
+  - iOSDFULibrary (4.15.3):
+    - ZIPFoundation (= 0.9.19)
+  - IQKeyboardManagerSwift (6.5.16)
+  - Jelly (2.3.0)
+  - JXPhotoBrowser (4.0.3)
+  - Kingfisher (8.9.0)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - LookinServer (1.2.8):
+    - LookinServer/Core (= 1.2.8)
+  - LookinServer/Core (1.2.8)
+  - lottie-ios (4.6.0)
+  - MJRefresh (3.7.9)
+  - MLeaksFinder (1.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - "NSObject+Rx (5.2.2)":
+    - RxSwift (~> 6.2)
+  - Protobuf (3.29.6)
+  - R.swift (7.8.0)
+  - ReachabilitySwift (5.2.4)
+  - RxActivityIndicator (2.0.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.9.0):
+    - RxRelay (= 6.9.0)
+    - RxSwift (= 6.9.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxOptional (5.0.6):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxReachability (1.2.1):
+    - ReachabilitySwift (< 6.0, >= 5.0)
+    - RxCocoa (~> 6)
+    - RxSwift (~> 6)
+  - RxRelay (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxSwift (6.9.0)
+  - RxURLNavigator (3.0.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+    - URLNavigator
+  - RxViewController (2.0.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - SensorsAnalyticsSDK (5.0.0):
+    - SensorsAnalyticsSDK/Core (= 5.0.0)
+  - SensorsAnalyticsSDK/Core (5.0.0)
+  - SGQRCode (4.1.0)
+  - SnapKit (5.7.1)
+  - SSZipArchive (2.4.3)
+  - SVGAPlayer (2.5.7):
+    - SVGAPlayer/Core (= 2.5.7)
+    - SVGAPlayer/ProtoFiles (= 2.5.7)
+  - SVGAPlayer/Core (2.5.7):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.5.7):
+    - Protobuf (~> 3.4)
+  - SVGKit (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - SwiftDate (7.0.0)
+  - SwiftProtobuf (1.38.0)
+  - SwiftyAttributes (5.4.0)
+  - SwiftyBeaver (2.1.1)
+  - SwiftyRSA (1.7.0):
+    - SwiftyRSA/ObjC (= 1.7.0)
+  - SwiftyRSA/ObjC (1.7.0)
+  - Toast-Swift (5.1.1)
+  - TZImagePickerController/Basic (3.8.12)
+  - URLNavigator (2.5.1)
+  - YModemLib (1.0.2)
+  - YYCache (1.0.4)
+  - ZIPFoundation (0.9.19)
+
+DEPENDENCIES:
+  - AWSIoT (= 2.41.0)
+  - AWSMobileClient (= 2.41.0)
+  - CleanJSON (= 1.0.9)
+  - CocoaAsyncSocket (= 7.6.5)
+  - CocoaDebug (= 1.7.7)
+  - CryptoSwift (= 1.8.4)
+  - DefaultsKit (= 0.3.2)
+  - DGCharts (from `https://github.com/ad-Jun/Charts`, commit `4d4955ef251a8b309b04b712ccf2792ce4cbd379`)
+  - DZNEmptyDataSet (= 1.8.1)
+  - EmptyDataSet-Swift (= 5.0.0)
+  - FSCalendar (= 2.8.4)
+  - GKNavigationBarSwift (= 1.7.3)
+  - iOSDFULibrary (= 4.15.3)
+  - IQKeyboardManagerSwift (= 6.5.16)
+  - Jelly (= 2.3.0)
+  - JXPhotoBrowser (= 4.0.3)
+  - Kingfisher (= 8.9.0)
+  - Localize-Swift (= 3.2.0)
+  - LookinServer (= 1.2.8)
+  - lottie-ios (= 4.6.0)
+  - MJRefresh (= 3.7.9)
+  - MLeaksFinder (from `https://github.com/Tencent/MLeaksFinder.git`, commit `d598dd8644aa48ee63e40d88ecbd69598cc7adf1`)
+  - Moya/RxSwift (= 15.0.0)
+  - "NSObject+Rx (= 5.2.2)"
+  - Protobuf (= 3.29.6)
+  - R.swift (= 7.8.0)
+  - RxActivityIndicator (= 2.0.0)
+  - RxCocoa (= 6.9.0)
+  - RxDataSources (= 5.0.0)
+  - RxOptional (= 5.0.6)
+  - RxReachability (= 1.2.1)
+  - RxSwift (= 6.9.0)
+  - RxURLNavigator (= 3.0.0)
+  - RxViewController (= 2.0.0)
+  - SensorsAnalyticsSDK (= 5.0.0)
+  - SGQRCode (= 4.1.0)
+  - SnapKit (= 5.7.1)
+  - SSZipArchive (= 2.4.3)
+  - SVGAPlayer (from `https://github.com/ad-Jun/SVGAPlayer-iOS`, commit `8b02e1c20d8692e29cfb86e0303feb0f7b91d6d7`)
+  - SVGKit (= 3.0.0)
+  - SVProgressHUD (= 2.3.1)
+  - SwiftDate (= 7.0.0)
+  - SwiftProtobuf (= 1.38.0)
+  - SwiftyAttributes (= 5.4.0)
+  - SwiftyBeaver (= 2.1.1)
+  - SwiftyRSA (= 1.7.0)
+  - Toast-Swift (= 5.1.1)
+  - TZImagePickerController/Basic (= 3.8.12)
+  - YModemLib (= 1.0.2)
+  - YYCache (= 1.0.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AWSAuthCore
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - AWSIoT
+    - AWSMobileClient
+    - CleanJSON
+    - CocoaAsyncSocket
+    - CocoaDebug
+    - CocoaLumberjack
+    - CryptoSwift
+    - DefaultsKit
+    - Differentiator
+    - DZNEmptyDataSet
+    - EmptyDataSet-Swift
+    - FSCalendar
+    - GKNavigationBarSwift
+    - iOSDFULibrary
+    - IQKeyboardManagerSwift
+    - Jelly
+    - JXPhotoBrowser
+    - Kingfisher
+    - Localize-Swift
+    - LookinServer
+    - lottie-ios
+    - MJRefresh
+    - Moya
+    - "NSObject+Rx"
+    - Protobuf
+    - R.swift
+    - ReachabilitySwift
+    - RxActivityIndicator
+    - RxCocoa
+    - RxDataSources
+    - RxOptional
+    - RxReachability
+    - RxRelay
+    - RxSwift
+    - RxURLNavigator
+    - RxViewController
+    - SensorsAnalyticsSDK
+    - SGQRCode
+    - SnapKit
+    - SSZipArchive
+    - SVGKit
+    - SVProgressHUD
+    - SwiftDate
+    - SwiftProtobuf
+    - SwiftyAttributes
+    - SwiftyBeaver
+    - SwiftyRSA
+    - Toast-Swift
+    - TZImagePickerController
+    - URLNavigator
+    - YModemLib
+    - YYCache
+    - ZIPFoundation
+
+EXTERNAL SOURCES:
+  DGCharts:
+    :commit: 4d4955ef251a8b309b04b712ccf2792ce4cbd379
+    :git: https://github.com/ad-Jun/Charts
+  MLeaksFinder:
+    :commit: d598dd8644aa48ee63e40d88ecbd69598cc7adf1
+    :git: https://github.com/Tencent/MLeaksFinder.git
+  SVGAPlayer:
+    :commit: 8b02e1c20d8692e29cfb86e0303feb0f7b91d6d7
+    :git: https://github.com/ad-Jun/SVGAPlayer-iOS
+
+CHECKOUT OPTIONS:
+  DGCharts:
+    :commit: 4d4955ef251a8b309b04b712ccf2792ce4cbd379
+    :git: https://github.com/ad-Jun/Charts
+  MLeaksFinder:
+    :commit: d598dd8644aa48ee63e40d88ecbd69598cc7adf1
+    :git: https://github.com/Tencent/MLeaksFinder.git
+  SVGAPlayer:
+    :commit: 8b02e1c20d8692e29cfb86e0303feb0f7b91d6d7
+    :git: https://github.com/ad-Jun/SVGAPlayer-iOS
+
+SPEC CHECKSUMS:
+  Alamofire: 400275dd1c6d87d95a041861d2a59da4b520a203
+  AWSAuthCore: d02cf2eec71144b65e7985bd7142478f09b7d519
+  AWSCognitoIdentityProvider: b7e2471bec75137ce392b9a8c60f3cee465c61bd
+  AWSCognitoIdentityProviderASF: d26fedd80485c2f0f308741e02c4a9093921ad22
+  AWSCore: ee7594bda3132cde8666328bf9a09d8770c1c100
+  AWSIoT: 186bd5c758b3331f2ad20e52477800ed7316399b
+  AWSMobileClient: 41f55548030e3898f51db407c727b5e133214222
+  CleanJSON: 910a36465ce4829e264a902ccf6d1455fdd9f980
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CocoaDebug: b38d31464b91a9775928f8667d114db07b136565
+  CocoaLumberjack: e4ba3b414dfca8c1916c6303d37f63b3a95134c6
+  CryptoSwift: e64e11850ede528a02a0f3e768cec8e9d92ecb90
+  DefaultsKit: ff9b29089d6fc08651b81be2d2387bee6eb98b75
+  DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  GKNavigationBarSwift: a7815e2f2b25a3f19b6f6baa49e47a39aa1b2ebd
+  iOSDFULibrary: 198c36ebe5a31bf2ca04ee8fb40837176a423e85
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  Jelly: 5c6315db07d392b178ebf9edf27072a294d4f434
+  JXPhotoBrowser: b5fadfb263e20308cb180d629a0856ccabd98ffc
+  Kingfisher: 90f3a3c2871a71e01d5493c1c196fc2d3ff132cf
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  LookinServer: 1b2b61c6402ae29fa22182d48f5cd067b4e99e80
+  lottie-ios: 8f959969761e9c45d70353667d00af0e5b9cadb3
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  MLeaksFinder: 89eb3142bf1bbd0a3d1849543b629399c5da74c5
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  "NSObject+Rx": 61cf1f7306a73dcef8b36649198af0813ec18dfd
+  Protobuf: 8d5596f7468be5400861a6bbfb2dfe9d0d1cde34
+  R.swift: f573269ca45b2ab066c082e363dd4c2b297b0d71
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+  RxActivityIndicator: 2cc25088cfb3fda3c89848ad7a6f79017bb94a5b
+  RxCocoa: ac16414696ae706516be3e1ab00fcce5bdc9be8a
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxOptional: 337ba615992ffdeffea02d6a5a242358757bbfcd
+  RxReachability: bfd13548bf1dac7a877082d13918a9f39bdb5c18
+  RxRelay: 6b0c930e5cef57d5fe2032571e5e65b78e3cbdb1
+  RxSwift: 31649ace6aceeb422e16ff71c60804f9c3281ed9
+  RxURLNavigator: 31bf8ab1ae0bf497a4f85e42bf416c2f7365ceed
+  RxViewController: 56486fa0afd629a1d6b5ba077f3b8cd9dc31b5d2
+  SensorsAnalyticsSDK: 2e8200627a7be4ea028fe899252e9e7faf7cdd8b
+  SGQRCode: 6ad664d63f38f2842503bc5087812c5a3136d924
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  SVGAPlayer: 78d079558d2d8a25c467a7fc0c17444d916283db
+  SVGKit: 1ad7513f8c74d9652f94ed64ddecda1a23864dea
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  SwiftDate: bbc26e26fc8c0c33fbee8c140c5e8a68293a148a
+  SwiftProtobuf: d724b5145bfc609d9a49c1e3e3a3dabb07273ffb
+  SwiftyAttributes: 45fae22b22a246a0b7f0a8d2157a02bf89fb2e9a
+  SwiftyBeaver: ade157e4f857812e7d7f15f2e3396bb8733f8a1c
+  SwiftyRSA: 8c6dd1ea7db1b8dc4fb517a202f88bb1354bc2c6
+  Toast-Swift: 7a03a532afe3a560d4044bc7c237e2864d295173
+  TZImagePickerController: 3751b9b850d00802e9f4f7bd8e1365ee5c4f0990
+  URLNavigator: e9c0426ba6e6ac57f34d018bbf3df840797f984d
+  YModemLib: a995cb5b9b9d6cfeca57f38471978a41d6ee48e9
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  ZIPFoundation: b8c29ea7ae353b309bc810586181fd073cb3312c
+
+PODFILE CHECKSUM: 0747243518e3e842c7701cdfdf778654ba845eec
+
+COCOAPODS: 1.16.2
