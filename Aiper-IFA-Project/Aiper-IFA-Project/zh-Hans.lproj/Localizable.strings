@@ -1,0 +1,7049 @@
+//
+//  Localizable.strings
+//  Aiper-IFA-Project
+//
+//  Created by King on 2026/6/9.
+//
+
+// 继续
+"common_continue" = "继续";
+// 请输入邮箱
+"account_input_email" = "请输入邮箱";
+// 注册Aiper账号
+"account_register_aiper_account" = "注册Aiper账号";
+// 邮箱格式不正确，请重新输入
+"account_email_incorrect_format_toast" = "邮箱格式不正确，请重新输入";
+// 温馨提示
+"common_tips" = "温馨提示";
+// 该邮箱已有注册账号，是否前往登录
+"account_email_registered" = "该邮箱已有注册账号，是否前往登录";
+// 该邮箱已被使用,请重新输入
+"account_email_did_use" = "该邮箱已被使用,请重新输入";
+// 取消
+"common_cancel" = "取消";
+// 去登录
+"account_go_login" = "去登录";
+// 选择国家地区
+"common_country_select" = "选择国家地区";
+// 搜索
+"common_search" = "搜索";
+// 未找到您所在国家与地区
+"account_country_not_found" = "未找到您所在国家与地区";
+// 我已知晓并同意用户协议和隐私的相关条款内容
+"account_i_agree_agreement" = "我已知晓并同意用户协议和隐私的相关条款内容";
+// 8-16位数字、字母组合
+"account_pwd_rule" = "8-16位数字、字母组合";
+// 确认密码
+"account_comfirm_pwd" = "确认密码";
+// 密码格式错误，请重新输入 不符合8-16位数字、字母组合格式
+"account_pwd_incorrect_format_toast" = "密码格式错误，请重新输入 不符合8-16位数字、字母组合格式";
+// 确认
+"common_confirm" = "确认";
+// 好的
+"common_ok" = "好的";
+// 两次输入的密码不一致，请重新输入
+"account_input_passwords_differ_toast" = "两次输入的密码不一致，请重新输入";
+// 请点击同意协议
+"account_click_to_agree_agreement_toast" = "请勾选以同意服务条款及隐私声明";
+// 登录Aiper账号
+"account_login_aiper_account" = "登录Aiper账号";
+// 忘记密码
+"account_forget_pwd" = "忘记密码";
+// 忘记密码？
+"account_forget_pwd_?" = "忘记密码？";
+// 注册 - 国内版创建Aiper账户
+"account_register" = "创建账户";
+// 登录
+"account_login" = "登录";
+// 请输入密码
+"account_input_pwd" = "请输入密码";
+// 登录成功
+"account_login_success_toast" = "登录成功";
+// 账户与密码不匹配
+"account_account_not_match_pwd_toast" = "账户与密码不匹配";
+// 当前网络不可用
+"common_current_net_unavailable_toast" = "当前网络不可用";
+// 网络请求超时
+"common_current_net_timeout_toast" = "网络请求超时";
+// 去注册
+"account_go_register" = "去注册";
+// 隐私协议更新通知
+"account_privacy_policy_update_dialog_title" = "隐私政策更新通知";
+// 用户协议更新通知
+"account_user_policy_update_dialog_title" = "用户协议更新通知";
+// 更新通知
+"account_update_dialog_title" = "更新通知";
+// 我已知晓并同意
+"common_i_known_and_agree" = "我已知晓并同意";
+// 的相关条款内容
+"common_about_privacy_content" = "的相关条款内容";
+// 我已阅读并同意【terms of service】和【privacy notice】
+"common_i_known_and_agree_privacy" = "我已阅读并同意 %@ 和 %@";
+// 拒绝并退出
+"account_refuse_and_exit" = "拒绝并退出";
+// 检测到您的手机未安装Google服务GMS，这可能会影响Aiper中的部分功能的使用。建议您安装GMS以获得最佳的体验
+"common_no_google_service_dialog_message" = "检测到您的手机未安装Google服务GMS，这可能会影响Aiper中的部分功能的使用。建议您安装GMS以获得最佳的体验";
+// 邮箱账号不可为空
+"common_email_no_empty" = "邮箱账号不可为空";
+// 账号在其他设备登录，请重新登录
+"service_error_code_5007" = "账号在其他设备登录，请重新登录";
+// 请输入新密码
+"account_input_new_pwd" = "请输入新密码";
+// 请再次确认密码
+"account_input_pwd_again" = "请再次确认密码";
+// 请输入6位验证码
+"account_input_verification_code" = "请输入6位验证码";
+// 获取验证码
+"account_get_verification_code" = "获取验证码";
+// 获取
+"account_get_code" = "获取";
+// 验证码
+"account_verification_code" = "验证码";
+// 请先获取验证码
+"account_get_verification_code_toast" = "请先获取验证码";
+// 验证码已发送，请检查邮箱
+"account_verification_code_sent_toast" = "验证码已发送，请检查邮箱";
+// 重新发送
+"common_resend" = "重新发送";
+// 消息中心
+"common_message_center" = "消息中心";
+// 设备分享
+"common_device_share" = "设备分享";
+// 使用帮助
+"common_usinghelp" = "使用帮助";
+// 设置
+"common_settings" = "设置";
+// 首页
+"common_home" = "首页";
+// 我的
+"common_mine" = "我的";
+// 个人信息
+"common_personal_info" = "个人信息";
+// 头像
+"common_head_portrait" = "头像";
+// ID
+"common_id" = "ID";
+// 昵称
+"common_nickname" = "昵称";
+// 邮箱
+"common_email" = "邮箱";
+// 密码
+"common_pwd" = "密码";
+// 修改密码
+"common_change_pwd" = "修改密码";
+// 注销账号
+"common_delete_account" = "注销账号";
+// 修改昵称
+"common_change_nickname" = "修改昵称";
+// 请输入昵称
+"common_input_nickname" = "请输入昵称";
+// 修改成功
+"common_change_success_toast" = "修改成功";
+// 昵称不能为空
+"common_nickname_empty_toast" = "昵称不能为空";
+// 最长25个字符
+"common_maximum_25_chars_toast" = "最长25个字符";
+//最长%@个字符
+"common_maximum_custom_chars_toast" = "最长%d个字符";
+
+// 最长25个英文、数字
+"common_maximum_25_letterAndNumber_toast" = "最长25个英文、数字";
+// 拍照
+"common_take_picture" = "拍照";
+// 我的相册
+"common_my_photo_album" = "我的相册";
+// 账号验证
+"common_account_verification" = "账号验证";
+// 点击将验证码发送到下面的邮箱
+"common_click_and_send_email" = "点击获取验证码将验证码发送到下面的电子邮箱";
+// 继续
+"common_continue" = "继续";
+//为了您的账号安全，需要输入密码完成账户验证
+"common_change_email_verify_pw_tip" = "为了您的账号安全，需要输入密码完成账户验证";
+// 当前账户绑定邮箱为：
+"common_current_email_is" = "当前账户绑定邮箱为：";
+// 若要更换邮箱请在下方输入新邮箱地址并确认进行验证
+"common_change_email_tip" = "若要更换邮箱请在下方输入新邮箱地址并确认进行验证";
+// 邮箱修改成功，请使用新邮箱进行登录
+"common_change_email_success_relogin" = "邮箱修改成功，请使用新邮箱进行登录";
+// 注销
+"common_logout_account" = "注销";
+// 确定
+"common_sure" = "确定";
+// 本人已阅读知晓注销协议
+"common_sure_read_logout_privacy" = "本人已阅读知晓注销协议";
+// 确认注销
+"common_confirm_delete_account" = "确认注销";
+// 放弃注销
+"common_abandon_delete_account" = "放弃注销";
+// 注销Aiper App账户
+"common_delete_aiper_account" = "注销Aiper App账户";
+// 您将放弃以下资产或权益
+"common_delete_aiper_account_tip" = "您将放弃以下资产或权益";
+
+//1. 数据清空
+//Aiper App账户中的数据将被清空，App占用手机的缓存将被释放
+//2. 设备解除绑定
+//Aiper App账户中的所有设备将与当前账户解除绑定，并清除设备储存在服务端的数据
+//3. 其他
+//撤销您对Aiper App用户协议和隐私协议的同意，并退出Aiper App应用
+"common_delete_aiper_account_details" = "1. 数据清空
+Aiper App账户中的数据将被清空，App占用手机的缓存将被释放
+2. 设备解除绑定
+Aiper App账户中的所有设备将与当前账户解除绑定，并清除设备储存在服务端的数据
+3. 其他
+撤销您对Aiper App用户协议和隐私协议的同意，并退出Aiper App应用";
+
+// 注销邮件已发送，请查看你的邮件已完成注销流才能
+"common_delete_account_tip" = "注销邮件已发送，请查看你的邮件已完成注销流才能";
+
+// 系统消息
+"common_system_message" = "系统消息";
+// 机器人消息
+"common_robot_message" = "机器人消息";
+// 全部已读
+"common_all_read" = "全部已读";
+// 暂无机器人消息
+"common_no_robot_message" = "暂无机器人消息";
+// 暂无系统消息
+"common_no_system_message" = "暂无系统消息";
+// 允许消息推送功能以免错过重要信息
+"common_allow_message_tip" = "允许消息推送功能以免错过重要信息";
+// App语言
+"common_app_language" = "App语言";
+// 用户协议
+"common_user_policy" = "用户协议";
+//服务条款
+"common_terms_server" = "服务条款";
+// 隐私协议
+"common_privacy_policy" = "隐私政策";
+//隐私声明
+"common_privacy_notice" = "隐私声明";
+// 评价
+"common_evaluation" = "评价";
+// 清除缓存
+"common_clear_cache" = "清除缓存";
+// 关于我们
+"common_about_us" = "关于我们";
+// 退出登录
+"common_logout" = "退出登录";
+// 英语
+"common_english" = "英语";
+// 法语
+"common_french" = "法语";
+// 德语
+"common_german" = "德语";
+// 西班牙语
+"common_spaish" = "西班牙语";
+// 意大利语
+"common_italian" = "意大利语";
+// 葡萄牙语
+"common_portuguese" = "葡萄牙语";
+// 完成
+"common_complete" = "完成";
+// 正在设置语言中...
+"common_setting_language" = "正在设置语言中...";
+// 撤回用户协议
+"common_withdraw_user_policy" = "撤回用户协议";
+// 撤回
+"common_withdraw" = "撤回";
+// 您确定要撤回用户协议吗？
+"common_withdraw_user_policy_dialog_title" = "您确定要撤回用户协议吗？";
+// 撤回后，您的Aiper账户将被终止，关联设备将会被解绑，账户信息就会被从Aiper服务器中永久删除
+"common_withdraw_user_policy_dialog_" = "撤回后，您的Aiper账户将被终止，关联设备将会被解绑，账户信息就会被从Aiper服务器中永久删除";
+// 撤回隐私协议
+"common_withdraw_privacy_policy" = "撤回隐私政策";
+// 您确定要撤回隐私协议吗？
+"common_withdraw_privacy_policy_dialog_title" = "您确定要撤回隐私政策吗？";
+// 已更新
+"common_did_update" = "已更新";
+// 您对Aiper的评价如何？
+"common_withdraw_privacy_policy_dialog_message" = "您对Aiper的评价如何？";
+// 提交
+"common_submit" = "提交";
+// APP问题反馈
+"common_app_issue" = "APP问题反馈";
+// 请提供您的建议，我们将做的更好：
+"common_please_provide_suggestions" = "请提供您的建议，我们将做的更好：";
+// 上传图片
+"common_upload_image" = "上传图片";
+// 请输入问题详情
+"common_input_issue_detials" = "请输入问题详情";
+// 确定将要清除所有缓存
+"common_clear_cache_dialog_message" = "确定将要清除所有缓存";
+// APP版本
+"common_app_version" = "APP版本";
+// 复制成功
+"common_copy_success" = "复制成功";
+// 复制
+"common_copy" = "复制";
+// 新版本更新
+"common_new_version_update" = "新版本更新";
+// 是否退出登录
+"common_logout_dialog_message" = "是否退出登录";
+// 蓝牙添加
+"common_bluetooth_add" = "蓝牙添加";
+// 扫码添加
+"common_scan_code_add" = "扫码添加";
+// 蓝牙权限
+"common_bluetooth_permission" = "蓝牙权限";
+// 未授权蓝牙权限
+"common_forbid_bluetooth_permission" = "未授权蓝牙权限";
+// 去设置
+"common_go_setting" = "去设置";
+// 开启蓝牙
+"common_open_bluetooth_dialog_title" = "开启蓝牙";
+// 开启蓝牙可继续使用此功能
+"common_open_bluetooth_dialog_message" = "开启蓝牙可继续使用此功能";
+// 开启蓝牙，以便查找附近蓝牙设备
+"common_open_bluetooth_search_message" = "开启蓝牙，以便查找附近蓝牙设备";
+// 定位权限
+"common_open_location_dialog_title" = "定位权限";
+// 请打开精确位置以便获取手机当前连接的WiFi信息
+"common_open_location_dialog_message" = "请打开精确位置以便获取手机当前连接的Wi-Fi信息";
+// 立即开启
+"common_open_now" = "立即开启";
+// 不允许
+"common_not_allow" = "不允许";
+// 允许
+"common_allow" = "允许";
+// 去设置
+"common_go_setting" = "去设置";
+// 请打开蓝牙权限以完成配网
+"common_bluetooth_permission_dialog_message" = "请打开蓝牙权限以完成配网";
+// 向下滑动开启蓝牙
+"common_bluetooth_open_tip" = "向下滑动开启蓝牙";
+// 蓝牙未打开
+"common_bluetooth_switch_off_dialog_title" = "蓝牙未打开";
+// 请从屏幕右上角下滑，打开控制中心，通过控制中心打开蓝牙
+"common_bluetooth_switch_off_dialog_message" = "请从屏幕右上角下滑，打开控制中心，通过控制中心打开蓝牙";
+// 重置设备
+"common_device_power_on" = "重置设备";
+// 已确认上述操作
+"common_confirm_above_action" = "已确认上述操作";
+// 下一步
+"common_next_step" = "下一步";
+// 正在搜索中...
+"common_searching" = "正在搜索中...";
+// 搜索附近设备
+"common_search_nearby_device" = "搜索附近设备";
+// 找不到设备？
+"common_device_not_found_tip" = "找不到设备？";
+// 前往扫码添加
+"common_go_scan_code_add" = "前往扫码添加";
+// 没找到设备！
+"common_search_device_failure" = "没找到设备！";
+// 重试
+"common_retry" = "重试";
+
+//请保持您的设备处于开机状态
+//请将手机靠近设备
+//确保您的设备处于配对模式
+"common_search_bluetooth_failure_tip" = "• 请保持您的设备处于开机状态.
+• 请将手机靠近设备.
+• 确保您的设备处于配对模式.";
+
+// 请输入搜索内容
+"common_please_search" = "请输入搜索内容";
+// 搜索结束
+"common_search_end" = "搜索结束";
+// 蓝牙配对
+"common_bluetooth_pairing" = "蓝牙配对";
+// 正在配对...
+"common_pairing" = "正在配对...";
+// 配对成功
+"common_pair_success" = "配对成功";
+// 设备配对失败！
+"common_robot_pair_failure" = "设备配对失败！";
+// 请开启手机网络以便完成蓝牙配对
+"common_open_netwotk_to_pairing" = "请开启手机网络以便完成蓝牙配对";
+// 设备配对失败
+"common_device_pair_failure" = "设备配对失败";
+// 蓝牙已断开连接，请重新进行蓝牙配对
+"common_bluetooth_disconnect_retry" = "蓝牙已断开连接，请重新进行蓝牙配对";
+// 相册
+"common_album" = "相册";
+// 相机
+"common_camera" = "相机";
+// 未授权XXX权限
+"common_not_authorized" = "未授权%@权限";
+// 选择设备类型
+"common_select_device_type" = "选择设备类型";
+// 扫描机器人条形码/二维码
+"common_scan_robot_bar_code_or_qrcode" = "扫描机器人条形码/二维码";
+// 手电筒
+"common_torch" = "手电筒";
+// 相机权限
+"common_camera_permission_dialog_title" = "相机权限";
+// 请打开相机权限以完成配网
+"common_camera_permission_dialog_message" = "请打开相机权限以完成配网";
+// 扫描超时，未找到设备，请重试
+"common_scan_timeout_dialog_message" = "扫描超时，未找到设备，请重试";
+// 扫描超时，请重试
+"common_scan_timeout_dialog_message" = "扫描超时，请重试";
+// 未能识别，请确认商品二维码
+"common_scan_bar_failure_dialog_message" = "未能识别，请确认商品二维码";
+// 识别失败，请扫描Aiper二维码
+"common_scan_code_failure_dialog_message" = "识别失败，请扫描Aiper二维码";
+// 设备类型
+"common_device_type" = "设备类型";
+// 添加
+"common_add" = "添加";
+
+// 首次连接请使用密码12345678。
+"common_ap_connect_wifi_password" = "首次连接请使用密码12345678。";
+
+// 请将手机成功连接到设备Wi-Fi【ssid】后，手动返回至Aiper App
+"common_ap_connect_wifi_description_infix" = "请将手机成功连接到设备Wi-Fi %@后，手动返回至Aiper App";
+// 连接设备wifi
+"common_connect_device_wifi" = "连接设备Wi-Fi";
+// 热点连接成功
+"common_connect_hotspot_success" = "热点连接成功";
+// 热点连接成功，请勿将软件切换至后台
+"common_connect_hotspot_success_tip" = "热点连接成功，请勿将软件切换至后台";
+// 连接家庭WIFI
+"common_input_family_wifi" = "连接家庭Wi-Fi";
+// 连接家庭WiFi，输入WiFi密码，点击下一步
+"common_input_family_wifi_tip" = "连接家庭Wi-Fi，输入Wi-Fi密码，点击下一步";
+// 输入wifi名称和密码以完成设备连接互联网
+"common_input_family_wifi_tip_2" = "输入Wi-Fi名称和密码以完成设备连接互联网";
+// 请输入wifi名字
+"common_input_wifi" = "请输入Wi-Fi名字";
+// 仅支持2.4GHz下使用
+"common_only_use_24g_hz" = "仅支持2.4GHz下使用";
+// WiFi列表
+"common_wifi_list" = "Wi-Fi列表";
+// 正在连接网络...
+"common_connecting_internet" = "正在连接网络...";
+// 连接失败
+"common_connect_failure" = "连接失败";
+
+//请将手机靠近机器人
+//请确认您输入了正确的Wi-Fi密码
+//请确保您连接的是2.4GHz的Wi-Fi
+"common_connect_wifi_failure_tip" = "• 连接超时.
+• 请检查设备状态，重新尝试连接.";
+
+// 请将手机靠近机器人\n没有联网成功？尝试
+"common_networking_failure_and_retry" = "没有联网成功？尝试";
+
+// 连接网络成功
+"common_networking_success" = "连接网络成功";
+// 设备命名
+"common_device_naming" = "设备命名";
+// 请输入设备名称
+"common_input_device_name" = "请输入设备名称";
+// 您长时间未登录,需要重新登录
+"common_http_error_need_login" = "您长时间未登录,需要重新登录";
+// 请求失败
+"common_http_error_function" = "请求失败";
+// 网络异常，请您检查网络连接！
+"common_http_error_no_network" = "网络异常，请您检查网络连接！";
+// 点击重试
+"common_tap_retry" = "点击重试";
+
+// 待机
+"device_work_status_standby" = "待机";
+// 充电中
+"device_work_status_charging" = "充电中";
+// 电池已充满
+"device_work_status_full_charged" = "充电完成";
+// OTA更新中
+"device_work_status_ota_updating" = "固件更新中";
+// 断联
+"device_work_status_offline" = "断联";
+// 向阳模式（Intermittent Mode）
+"device_work_status_intermittent_mode" = "向阳模式";
+// 运行时间
+"device_work_time" = "运行时间";
+// 故障
+"device_work_status_failure" = "故障";
+// 设备已断联
+"device_disconnect_dialog_title" = "设备已断联";
+
+//您的设备已断联，您可以尝试一下排查断联原因：
+     //Wi-Fi连接
+     //1. 请确保您的设备电量充足并且处于开机状态
+     //2. 请确认您的路由器能正常工作，设备在Wi-Fi覆盖范围内
+     //3. 升级过程中会短暂断联，请勿操作机器，升级结束后会自动恢复联网
+      //连接蓝牙：
+      //1. 确认您的手机蓝牙已开启
+      //2. 确保设备与您的手机在25米的距离范围内
+"device_disconnect_dialog_message" = "您的设备已断联，您可以尝试一下排:
+
+Wi-Fi连接
+1. 请确保您的设备电量充足并且处于开机状态
+2. 请确认您的路由器能正常工作，设备在Wi-Fi覆盖范围内
+3. 升级过程中会短暂断联，请勿操作机器，升级结束后会自动恢复联网
+
+连接蓝牙:
+1. 确认您的手机蓝牙已开启
+2. 确保设备与您的手机在25米的距离范围内";
+// 您的设备已断联，您可以尝试一下排查断联原因：\n设备断联，无法进行清洁任务
+"device_clean_not_available_while_disconnect" = "设备断联，无法进行清洁任务";
+// 升级中，无法进行清洁任务
+"device_clean_not_available_while_ota" = "升级中，无法进行清洁任务";
+// 充电中，无法进行清洁任务
+"device_clean_not_available_while_charging" = "充电中，无法进行清洁任务";
+// 故障中，无法进行清洁任务
+"device_clean_not_available_while_warning" = "故障中，无法进行清洁任务";
+// 蓝牙已断联，无法进行遥控清洁
+"device_clean_not_available_while_ble_disconnect" = "蓝牙已断联，无法进行遥控清洁";
+// Wifi已断联，无法进行固件升级
+"device_ota_not_available_while_wifi_disconnect" = "Wi-Fi已断联，无法进行固件升级";
+// 电池异常
+"device_s1_warning_0x0000000000000001" = "电池异常";
+// 电池异常
+"device_s1_warning_0x0000000000000100" = "电池异常";
+// 电池温度过高
+"device_s1_warning_0x0000000000000010" = "电池温度过高";
+// 电池温度低
+"device_s1_warning_0x0000000000000020" = "电池温度低";
+// 适配器电压异常，请接入官方的适配器
+"device_s1_warning_0x0000000000000200" = "适配器电压异常，请接入官方的适配器";
+// 适配器电压异常，请接入官方的适配器
+"device_s1_warning_0x0000000000000400" = "适配器电压异常，请接入官方的适配器";
+// 电池无法充电
+"device_s1_warning_0x0000000000000800" = "电池无法充电";
+// 【螺旋桨】被卡住，请清理
+"device_s1_warning_0x0000000000010000" = "【螺旋桨】被卡住，请清理";
+// 【螺旋桨】被卡住，请清理
+"device_s1_warning_0x0000000000020000" = "【螺旋桨】被卡住，请清理";
+// 【电机】异常
+"device_s1_warning_0x0000000000100000" = "【电机】异常";
+// 【电机】异常
+"device_s1_warning_0x0000000000200000" = "【电机】异常";
+// 【电机】异常
+"device_s1_warning_0x0000000001000000" = "【电机】异常";
+// 【波轮】被卡住，请清理
+"device_s1_warning_0x0000000000400000" = "【波轮】被卡住，请清理";
+// 【超声波传感器】被遮挡，请清理
+"device_s1_warning_0x0000000200000000" = "【超声波传感器】被遮挡，请清理";
+// 【传感器】异常
+"device_s1_warning_0x0000000100000000" = "【传感器】异常";
+// 【传感器】异常
+"device_s1_warning_0x0000000400000000" = "【传感器】异常";
+// 设备脱困失败
+"device_s1_warning_0x0000010000000000" = "设备脱困失败";
+// 设备脱困失败
+"device_s1_warning_0x0000020000000000" = "设备脱困失败";
+// 设备充电中，无法进行清洁任务
+"device_s1_warning_0x0001000000000000" = "设备充电中，无法进行清洁任务";
+// 电池温度低
+"device_s1_warning_0x0020000000000000" = "电池温度低";
+// 错误码
+"device_error_code" = "错误码";
+// 蓝牙名称
+"device_bluetooth_name" = "蓝牙名称";
+// 固件版本
+"device_firmware_version" = "固件版本";
+// 总清洁时间
+"device_total_clean_time" = "总清洁时间";
+// 设备信息
+"device_info" = "设备信息";
+// 固件升级
+"device_firmware_upgrade" = "固件升级";
+// 使用说明
+"device_use_instructions" = "使用说明";
+// 解绑设备
+"device_unbind_device" = "解绑设备";
+// 小时
+"common_hour" = "小时";
+// 分钟
+"common_minute" = "分钟";
+// 温度单位
+"common_temperature_unit" = "温度单位";
+// 修改设备名称
+"device_change_name" = "修改设备名称";
+// 设备SN
+"device_sn" = "设备SN";
+// WiFi名称
+"device_wifi_name" = "AP热点";
+// 蓝牙名称
+"device_bluetooth_name" = "蓝牙名称";
+// 固件版本
+"device_firmware_version" = "固件版本";
+// 设备IP地址
+"device_ip" = "设备IP地址";
+// 蓝牙地址
+"device_bluetooth_address" = "蓝牙地址";
+// 复制成功
+"common_copy_success" = "复制成功";
+// 复制全部
+"common_copy_all" = "复制全部";
+// 检查更新
+"device_check_updates" = "检查更新";
+// 下载并更新
+"device_download_and_update" = "下载并更新";
+// 检查版本中...
+"device_check_version" = "检查版本中...";
+// 当前已是最新版本
+"device_current_version_is_latest" = "当前已是最新版本";
+// 发现新版本：【版本号】
+"device_exist_new_version_prefix" = "发现新版本：%@";
+// 当前版本：【版本号】
+"device_current_version_prefix" = "当前版本：%@";
+// 版本下载失败
+"device_version_download_failure" = "版本下载失败";
+// 版本安装失败
+"device_version_install_failure" = "版本安装失败";
+// 重新下载
+"device_download_again" = "重新下载";
+// 重新安装
+"device_reinstall" = "重新安装";
+// 升级检测
+"device_update_check_title" = "升级检测";
+// 下载中
+"device_downloading" = "下载中";
+// 安装中
+"device_installing" = "安装中";
+// 稍后重试
+"device_check_retry_later" = "稍后重试";
+
+//无法进行设备升级，升级需要在以下条件下进行：
+//1. 设备剩余电量≥25%
+//2. 设备网络连接稳定
+"device_update_check_message" = "无法进行设备升级，升级需要在以下条件下进行
+1. 设备剩余电量≥25%.
+2. 设备网络连接稳定. ";
+
+// 确定要解除绑定吗？
+"device_unbind_dialog_title" = "确定要解除绑定吗？";
+
+// 解除绑定后，设备相关的设定将被删除，若要再次使用需要重新绑定设备
+"device_unbind_dialog_message" = "解除绑定后，设备相关的设定将被删除，若要再次使用需要重新绑定设备";
+// 解绑设备
+"device_unbind_device" = "解绑设备";
+// 解绑成功
+"device_unbind_success" = "解绑成功";
+// 解绑失败
+"device_unbind_failure" = "解绑失败";
+// 总清洁次数
+"device_total_clean_times" = "总清洁次数";
+// 清洁记录
+"device_clean_record" = "清洁记录";
+// 自动清洁
+"device_clean_mode_auto_s1" = "自动清洁";
+// 遥控清洁
+"device_clean_mode_remote" = "遥控清洁";
+// 本周记录
+"device_record_of_week" = "本周记录";
+// 清洁【时间】分钟
+"device_clean_minute_infix" = "清洁 %d 分钟";
+// 暂无清洁记录
+"device_no_cleaning_records" = "暂无清洁记录";
+
+// 安哥拉
+"angola" = "安哥拉";
+// 阿富汗
+"afghanistan" = "阿富汗";
+// 阿尔巴尼亚
+"albania" = "阿尔巴尼亚";
+// 阿尔及利亚
+"algeria" = "阿尔及利亚";
+// 安道尔
+"andorra" = "安道尔";
+// 安提瓜和巴布达
+"antigua_and_barbuda" = "安提瓜和巴布达";
+// 阿根廷
+"argentina" = "阿根廷";
+// 亚美尼亚
+"armenia" = "亚美尼亚";
+// 澳大利亚
+"australia" = "澳大利亚";
+// 奥地利
+"austria" = "奥地利";
+// 阿塞拜疆
+"azerbaijan" = "阿塞拜疆";
+// 巴哈马
+"bahamas" = "巴哈马";
+// 巴林
+"bahrain" = "巴林";
+// 孟加拉国
+"bangladesh" = "孟加拉国";
+// 巴巴多斯
+"barbados" = "巴巴多斯";
+// 白俄罗斯
+"belarus" = "白俄罗斯";
+// 比利时
+"belgium" = "比利时";
+// 伯利兹
+"belize" = "伯利兹";
+// 贝宁
+"benin" = "贝宁";
+// 玻利维亚
+"bolivia" = "玻利维亚";
+// 博茨瓦纳
+"botswana" = "博茨瓦纳";
+// 巴西
+"brazil" = "巴西";
+// 文莱
+"brunei" = "文莱";
+// 保加利亚
+"bulgaria" = "保加利亚";
+// 布基纳法索
+"burkina_faso" = "布基纳法索";
+// 缅甸
+"myanmar" = "缅甸";
+// 布隆迪
+"burundi" = "布隆迪";
+// 喀麦隆
+"cameroon" = "喀麦隆";
+// 加拿大
+"canada" = "加拿大";
+// 中非共和国
+"central_african_republic" = "中非共和国";
+// 乍得
+"chad" = "乍得";
+// 智利
+"chile" = "智利";
+// 中国
+"china" = "中国";
+// 哥伦比亚
+"colombia" = "哥伦比亚";
+// 刚果
+"congo" = "刚果";
+// 库克群岛
+"cook_islands" = "库克群岛";
+// 哥斯达黎加
+"costa_rica" = "哥斯达黎加";
+// 古巴
+"cuba" = "古巴";
+// 塞浦路斯
+"cyprus" = "塞浦路斯";
+// 捷克
+"czech" = "捷克";
+// 丹麦
+"denmark" = "丹麦";
+// 吉布提
+"djibouti" = "吉布提";
+// 多米尼加共和国
+"dominican_republic" = "多米尼加共和国";
+// 厄瓜多尔
+"ecuador" = "厄瓜多尔";
+// 埃及
+"egypt" = "埃及";
+// 萨尔瓦多
+"el_salvador" = "萨尔瓦多";
+// 爱沙尼亚
+"estonia" = "爱沙尼亚";
+// 埃塞俄比亚
+"ethiopia" = "埃塞俄比亚";
+// 斐济
+"fiji" = "斐济";
+// 芬兰
+"finland" = "芬兰";
+// 法国
+"france" = "法国";
+// 加蓬
+"gabon" = "加蓬";
+// 冈比亚
+"gambia" = "冈比亚";
+// 格鲁吉亚
+"georgia" = "格鲁吉亚";
+// 德国
+"germany" = "德国";
+// 加纳
+"ghana" = "加纳";
+// 希腊
+"greece" = "希腊";
+// 格林纳达
+"grenada" = "格林纳达";
+// 危地马拉
+"guatemala" = "危地马拉";
+// 几内亚
+"guinea" = "几内亚";
+// 圭亚那
+"guyana" = "圭亚那";
+// 海地
+"haiti" = "海地";
+// 洪都拉斯
+"honduras" = "洪都拉斯";
+// 中国香港
+"hong_kong,_china" = "中国香港";
+// 匈牙利
+"hungary" = "匈牙利";
+// 冰岛
+"iceland" = "冰岛";
+// 印度
+"india" = "印度";
+// 印度尼西亚
+"indonesia" = "印度尼西亚";
+// 伊朗
+"iran" = "伊朗";
+// 伊拉克
+"iraq" = "伊拉克";
+// 爱尔兰
+"ireland" = "爱尔兰";
+// 以色列
+"israel" = "以色列";
+// 意大利
+"italy" = "意大利";
+// 科特迪瓦
+"cote_d'ivoire" = "科特迪瓦";
+// 牙买加
+"jamaica" = "牙买加";
+// 日本
+"japan" = "日本";
+// 约旦
+"jordan" = "约旦";
+// 柬埔寨
+"cambodia" = "柬埔寨";
+// 哈萨克斯坦
+"kazakhstan" = "哈萨克斯坦";
+// 肯尼亚
+"kenya" = "肯尼亚";
+// 韩国
+"south_korea" = "韩国";
+// 科威特
+"kuwait" = "科威特";
+// 吉尔吉斯坦
+"kyrgyzstan" = "吉尔吉斯坦";
+// 老挝
+"laos" = "老挝";
+// 拉脱维亚
+"latvia" = "拉脱维亚";
+// 黎巴嫩
+"lebanon" = "黎巴嫩";
+// 莱索托
+"lesotho" = "莱索托";
+// 利比里亚
+"liberia" = "利比里亚";
+// 利比亚
+"libya" = "利比亚";
+// 列支敦士登
+"liechtenstein" = "列支敦士登";
+// 立陶宛
+"lithuania" = "立陶宛";
+// 卢森堡
+"luxembourg" = "卢森堡";
+// 中国澳门
+"macau,_china" = "中国澳门";
+// 马达加斯加
+"madagascar" = "马达加斯加";
+// 马拉维
+"malawi" = "马拉维";
+// 马来西亚
+"malaysia" = "马来西亚";
+// 马尔代夫
+"maldives" = "马尔代夫";
+// 马里
+"mali" = "马里";
+// 马耳他
+"malta" = "马耳他";
+// 毛里求斯
+"mauritius" = "毛里求斯";
+// 墨西哥
+"mexico" = "墨西哥";
+// 摩尔多瓦
+"moldova" = "摩尔多瓦";
+// 摩纳哥
+"monaco" = "摩纳哥";
+// 蒙古
+"mongolia" = "蒙古";
+// 摩洛哥
+"morocco" = "摩洛哥";
+// 莫桑比克
+"mozambique" = "莫桑比克";
+// 纳米比亚
+"namibia" = "纳米比亚";
+// 瑙鲁
+"nauru" = "瑙鲁";
+// 尼泊尔
+"nepal" = "尼泊尔";
+// 荷兰
+"netherlands" = "荷兰";
+// 新西兰
+"new_zealand" = "新西兰";
+// 尼加拉瓜
+"nicaragua" = "尼加拉瓜";
+// 尼日尔
+"niger" = "尼日尔";
+// 尼日利亚
+"nigeria" = "尼日利亚";
+// 朝鲜
+"north_korea" = "朝鲜";
+// 挪威
+"norway" = "挪威";
+// 阿曼
+"oman" = "阿曼";
+// 巴基斯坦
+"pakistan" = "巴基斯坦";
+// 巴拿马
+"panama" = "巴拿马";
+// 巴布亚新几内亚
+"papua_new_guinea" = "巴布亚新几内亚";
+// 巴拉圭
+"paraguay" = "巴拉圭";
+// 秘鲁
+"peru" = "秘鲁";
+// 菲律宾
+"philippines" = "菲律宾";
+// 波兰
+"poland" = "波兰";
+// 葡萄牙
+"portugal" = "葡萄牙";
+// 卡塔尔
+"qatar" = "卡塔尔";
+// 罗马尼亚
+"romania" = "罗马尼亚";
+// 俄罗斯
+"russia" = "俄罗斯";
+// 圣卢西亚
+"saint_lucia" = "圣卢西亚";
+// 圣文森特和格林纳丁斯
+"saint_vincent_and_the_grenadines" = "圣文森特和格林纳丁斯";
+// 萨摩亚
+"samoa" = "萨摩亚";
+// 圣马力诺
+"san_marino" = "圣马力诺";
+// 圣多美和普林西比
+"sao_tome_and_principe" = "圣多美和普林西比";
+// 沙特阿拉伯
+"saudi_arabia" = "沙特阿拉伯";
+// 塞内加尔
+"senegal" = "塞内加尔";
+// 塞舌尔
+"seychelles" = "塞舌尔";
+// 塞拉利昂
+"sierra_leone" = "塞拉利昂";
+// 新加坡
+"singapore" = "新加坡";
+// 斯洛伐克
+"slovakia" = "斯洛伐克";
+// 斯洛文尼亚
+"slovenia" = "斯洛文尼亚";
+// 所罗门群岛
+"solomon_islands" = "所罗门群岛";
+// 索马里
+"somalia" = "索马里";
+// 南非
+"south_africa" = "南非";
+// 西班牙
+"spain" = "西班牙";
+// 斯里兰卡
+"sri_lanka" = "斯里兰卡";
+// 苏丹
+"sudan" = "苏丹";
+// 苏里南
+"suriname" = "苏里南";
+// 斯威士兰
+"swaziland" = "斯威士兰";
+// 瑞典
+"sweden" = "瑞典";
+// 瑞士
+"switzerland" = "瑞士";
+// 叙利亚
+"syria" = "叙利亚";
+// 中国台湾
+"taiwan,_china" = "中国台湾";
+// 塔吉克斯坦
+"tajikistan" = "塔吉克斯坦";
+// 坦桑尼亚
+"tanzania" = "坦桑尼亚";
+// 泰国
+"thailand" = "泰国";
+// 多哥
+"togo" = "多哥";
+// 汤加
+"tonga" = "汤加";
+// 特立尼达和多巴哥
+"trinidad_and_tobago" = "特立尼达和多巴哥";
+// 突尼斯
+"tunisia" = "突尼斯";
+// 土耳其
+"turkey" = "土耳其";
+// 土库曼斯坦
+"turkmenistan" = "土库曼斯坦";
+// 乌干达
+"uganda" = "乌干达";
+// 乌克兰
+"ukraine" = "乌克兰";
+// 阿拉伯联合酋长国
+"united_arab_emirates" = "阿拉伯联合酋长国";
+// 英国
+"united_kingdom" = "英国";
+// 美国
+"united_states" = "美国";
+// 乌拉圭
+"uruguay" = "乌拉圭";
+// 乌兹别克斯坦
+"uzbekistan" = "乌兹别克斯坦";
+// 委内瑞拉
+"venezuela" = "委内瑞拉";
+// 越南
+"vietnam" = "越南";
+// 也门
+"yemen" = "也门";
+// 津巴布韦
+"zimbabwe" = "津巴布韦";
+// 赞比亚
+"zambia" = "赞比亚";
+// 巴勒斯坦
+"palestine" = "巴勒斯坦";
+// 不丹
+"bhutan" = "不丹";
+// 东帝汶
+"east_timor" = "东帝汶";
+// 塞尔维亚
+"serbia" = "塞尔维亚";
+// 梵蒂冈
+"vatican" = "梵蒂冈";
+// 黑山
+"montenegro" = "黑山";
+// 波黑
+"bosnia_and_herzegovina" = "波黑";
+// 克罗地亚
+"croatia" = "克罗地亚";
+// 卢旺达
+"rwanda" = "卢旺达";
+// 几内亚比绍
+"guinea-bissau" = "几内亚比绍";
+// 毛里塔尼亚
+"mauritania" = "毛里塔尼亚";
+// 赤道几内亚
+"equatorial_guinea" = "赤道几内亚";
+// 科摩罗
+"comoros" = "科摩罗";
+// 南苏丹
+"south_sudan" = "南苏丹";
+// 厄立特里亚
+"eritrea" = "厄立特里亚";
+// 密克罗尼西亚
+"micronesia" = "密克罗尼西亚";
+// 瓦努阿图
+"vanuatu" = "瓦努阿图";
+// 基里巴斯
+"kiribati" = "基里巴斯";
+// 马绍尔群岛
+"marshall_islands" = "马绍尔群岛";
+// 图瓦卢
+"tuvalu" = "图瓦卢";
+// 帕劳
+"palau" = "帕劳";
+// 纽埃
+"niue" = "纽埃";
+// 多米尼克
+"dominica" = "多米尼克";
+// 圣基茨和尼维斯
+"saint_kitts_and_nevis" = "圣基茨和尼维斯";
+
+// 通知设置
+"common_set_notification" = "通知设置";
+
+// Aiper消息通知
+"common_aiper_message_notification" = "Aiper消息通知";
+// 通知权限
+"common_notification_permission" = "通知权限";
+
+// App系统消息
+"common_system_notification" = "App系统消息";
+
+// 是否关闭App消息通知
+"common_turnoff_notification_tip" = "是否关闭App消息通知";
+
+// 关闭后将无法在消息中心接收消息
+"common_turnoff_notification_title" = "关闭后将无法在消息中心接收消息";
+
+// 仍然关闭
+"common_still_turn_of" = "仍然关闭";
+
+
+
+///--------------支持与指南  旧版，未翻译--------------///
+//持与指南
+"text_help_center" = "支持与指南";
+
+// 售后问题
+"common_after_sale_issues" = "售后问题";
+
+
+
+///--------------新版客服--------------///
+
+//帮助与支持
+"common_support_and_help" = "帮助与支持";
+
+// 支持
+"common_support" = "支持";
+
+// 更多帮助
+"common_more_help" = "更多帮助";
+
+// 联系我们
+"common_contact_us" = "联系我们";
+
+// 更多联系方式
+"common_more_contact_type" = "更多联系方式";
+
+// App使用帮助
+"common_more_help_app" = "App使用帮助";
+
+// 账户问题
+"common_more_help_account" = "账户问题";
+
+// 保修查询
+"common_more_help_warranty" = "保修查询";
+
+// 订单问题
+"common_more_help_order" = "订单问题";
+
+// 问题反馈
+"common_contact_feedback" = "问题反馈";
+
+// 在线客服
+"common_online_contact_service" = "在线客服";
+
+// 上午
+"common_AM" = "上午";
+
+// 下午
+"common_PM" = "下午";
+
+// 更多
+"common_more" = "更多";
+
+// 联系电话
+"common_contact_phone" = "联系电话";
+
+// 邮箱地址
+"common_contact_email" = "邮箱地址";
+
+// 周一 -
+"common_monday" = "周一";
+
+// 周五 -
+"common_friday" = "周五";
+
+// 常见问题
+"common_problem" = "常见问题";
+
+// 使用说明书
+"common_user_manual" = "使用说明书";
+
+// 下载说明书
+"common_download_manual" = "下载说明书";
+
+// 查看更多
+"common_show_more" = "查看更多";
+
+// 联系方式
+"common_contact_way" = "联系方式";
+
+// 设备使用帮助
+"common_device_usinghelp" = "设备使用帮助";
+
+// 暂无搜索结果
+"common_search_no_content" = "暂无搜索结果";
+
+
+//反馈记录
+"common_feedback_record" = "反馈记录";
+
+// 问题类型
+"common_feedback_problem_type" = "问题类型";
+
+// 选择问题类型
+"common_feedback_select_problem_type" = "选择问题类型";
+
+// 选择设备
+"common_feedback_select_device" = "选择设备";
+
+// 问题描述
+"common_feedback_problem_describe" = "问题描述";
+
+// 上传图片
+"common_feedback_uplod_image" = "上传图片";
+
+// 上传视频
+"common_feedback_upload_video" = "上传视频";
+
+// 联系邮箱
+"common_feedback_contact_email" = "联系邮箱";
+
+// 反馈时间
+"common_feedback_time" = "反馈时间";
+
+// 反馈描述
+"common_feedback_description" = "反馈描述";
+
+// 没有记录
+"common_no_record" = "没有记录";
+
+// 有用
+"common_like" = "有用";
+
+// 没用
+"common_unlike" = "没用";
+
+// 无
+"common_no" = "无";
+
+// 是否有解决您的问题？
+"common_tip_solve_problem" = "是否有解决您的问题？";
+
+// 联系客服
+"common_contact_service" = "联系客服";
+
+// 请选择问题类型
+"common_plachold_problem_type" = "请选择问题类型";
+
+// 请选择相关设备
+"common_plachold_about_device" = "请选择相关设备";
+
+// 请简述您的问题，我们将尽快回复您的问题
+"common_plachold_problem_describe" = "请简述您的问题，我们将尽快回复您的问题";
+
+// 请输入联系邮箱
+"common_plachold_contact_email" = "请输入联系邮箱";
+
+// 超出最大限制
+"common_toast_max_limit" = "超出最大限制";
+
+// 上传的视频大小不能超过【xx M】
+"common_upload_video_limit_exceed" = "上传的视频大小不能超过50M";
+
+// 待处理
+"common_status_awit" = "待处理";
+
+// 已处理
+"common_status_end" = "已处理";
+
+// 下载失败
+"common_download_failure" = "下载失败";
+
+// 保存成功
+"common_save_success" = "保存成功";
+
+// 下载成功
+"common_download_complete" = "下载成功";
+
+// 设备
+"common_device" = "设备";
+
+// 发送
+"common_send" = "发送";
+
+// 提交成功
+"common_submit_success" = "提交成功";
+
+// 提交失败，请重试
+"common_submit_failure" = "提交失败，请重试";
+
+// 导出失败
+"common_export_failure" = "导出失败";
+
+// 我们已收到您的反馈，并将在收到反馈的xx时间内向您的邮箱进行回复。
+"common_pending_customer_problem" = "我们已收到您的反馈，并将在收到反馈的xx时间内向您的邮箱进行回复。";
+
+///--------------新版客服结束--------------///
+//单位切换
+"common_unit_switch" = "单位切换";
+// 本地网络权限
+"common_local_network_dialog_title" = "本地网络权限";
+// 请开启您的本地网络权限以完成配网
+"common_network_permission_dialog_message" = "请开启您的本地网络权限以完成配网";
+// Aiper想要查找并连接到本地网络上的设备
+"common_local_network_dialog_message" = "Aiper想要查找并连接到本地网络上的设备";
+// 该设备已被绑定
+"common_device_bound_toast" = "该设备已被绑定";
+// 下拉可以刷新
+"common_pull_to_refresh" = "下拉可以刷新";
+// 正在刷新数据中...
+"common_refreshing" = "正在刷新数据中...";
+// 松开立即刷新
+"common_release_refresh" = "松开立即刷新";
+// 手动设置
+"common_set_manually" = "手动设置";
+// 已经全部加载完毕
+"common_all_loaded" = "已经全部加载完毕";
+// 网络请求失败，请检查您的网络设置
+"common_network_request_failed" = "网络请求失败，请检查您的网络设置";
+// 重新登录
+"common_login_again" = "重新登录";
+// Aiper请求使用定位权限以完成配网
+"common_location_permission_dialog_message" = "Aiper请求使用定位权限以完成配网";
+// 修改邮箱
+"common_change_email" = "修改邮箱";
+// 此账号尚未注册，是否前往注册
+"common_register_dialog_message" = "此账号尚未注册，是否前往注册";
+// 注册成功，请登录
+"common_register_success" = "注册成功，请登录";
+// 前往登录
+"common_go_login" = "前往登录";
+// 再按一次退出程序
+"common_tap_again_exit_app" = "再按一次退出程序";
+// 确定要注销您的账户吗？
+"common_delete_account_dialog_message" = "确定要注销您的账户吗？";
+// 好的
+"common_yes" = "好的";
+// 切换语言
+"common_change_language" = "切换语言";
+// 清除完成
+"common_clear_complete" = "清除完成";
+// 已找到设备
+"common_device_found" = "已找到设备";
+// 长按[开始停止键]10s，听到“哔哔”两声且状态灯闪烁后设备进入配网状态
+"device_s1_reset_operation" = "长按[开始停止键]10s，听到“哔哔”两声且状态灯闪烁后设备进入配网状态";
+// 升级中，请勿退出当前页面
+"common_updating_quit_tip" = "升级中，请勿退出当前页面";
+// 手动模式
+"device_manual_mode" = "手动模式";
+// 设备型号
+"common_device_model" = "设备型号";
+
+// / ----------- app升级 未翻译 ------------
+//发现新版本
+"common_alert_new_version" = "发现新版本";
+// 立即更新
+"common_now_update" = "立即更新";
+// 稍后
+"common_later" = "稍后";
+
+
+// / ----------- 水面基站 ------------ ///
+"app_name" = "水面基站";
+
+// 温度
+"b1_common_unit_temperature" = "温度";
+
+// 设备已断联
+"b1_main_dialog_device_disconnection_title" = "设备已断联";
+
+// 已离线
+"b1_main_device_off_line" = "已离线";
+
+// 未添加水质探头
+"b1_main_no_water_probe_is_added" = "未添加水质探头";
+
+// 水质检测
+"b1_main_water_quality_testing" = "水质检测";
+
+// 已关联设备(%1$s/1)
+"b1_main_bind_device_size" = "已关联设备";
+
+// 暂未关联设备
+"b1_main_no_bind_device" = "暂未关联设备";
+
+// 水质记录
+"b1_water_record" = "水质记录";
+
+// 温度
+"b1_water_record_item_temperature" = "温度";
+
+// 设置
+"b1_setting" = "设置";
+
+// 固件版本
+"b1_setting_firmware_version" = "固件版本";
+
+// 数据提醒
+"b1_setting_data_tips" = "数据提醒";
+
+// 更换探头
+"b1_setting_change_probe" = "更换探头";
+
+// 解除绑定后，设备相关的设定将被删除，再次使用需要重新绑定数据
+"b1_setting_unbind_dialog_content" = "解除绑定后，设备相关的设定将被删除，再次使用需要重新绑定数据";
+
+// 选择机器人
+"b1_robot" = "选择机器人";
+
+// 解除关联
+"b1_robot_unbind_dialog_tips" = "解除关联";
+
+// 解除链接，解除后将无法进行机器人的水下通信控制，再次使用需要关联
+"b1_robot_unbind_dialog_content" = "解除链接，解除后将无法进行机器人的水下通信控制，再次使用需要关联";
+
+// 关联机器人
+"b1_robot_bind_dialog_title" = "关联机器人";
+
+// 设备关联中
+"b1_robot_bind_dialog_binding" = "设备关联中";
+
+// 设备关联成功
+"b1_robot_bind_dialog_succeed" = "设备关联成功";
+
+// 关联失败
+"b1_robot_bind_dialog_fail" = "关联失败";
+
+// 开始关联
+"b1_robot_bind_dialog_start" = "开始关联";
+
+// 前往列表查看
+"b1_robot_bind_dialog_view" = "前往列表查看";
+
+// 添加探头
+"b1_probe_add_title" = "添加探头";
+
+// 请安装以下步骤添加探头：
+"b1_probe_add_tip_title" = "请安装以下步骤添加探头：";
+
+// 顺时针方向安装新探头
+"b1_probe_add_clockwise_install" = "顺时针方向安装新探头";
+
+// 我已安装
+"b1_probe_add_have_installed" = "我已安装";
+
+// 泳池水质
+"b1_water_quality_title" = "泳池水质";
+
+// 推荐
+"b1_water_quality_very_good" = "推荐";
+
+// 不推荐
+"b1_water_quality_bad" = "不推荐";
+
+// 强烈不推荐
+"b1_water_quality_very_bad" = "强烈不推荐";
+
+// 上次更新时间:
+"b1_water_quality_last_updated_time" = "上次更新时间:";
+
+// 标准
+"b1_water_quality_standard" = "标准";
+
+// 较差
+"b1_water_quality_state_bad" = "较差";
+
+// 严重
+"b1_water_quality_serious" = "严重";
+
+// 日视图
+"b1_water_quality_day_view" = "日视图";
+
+// 周视图
+"b1_water_quality_week_view" = "周视图";
+
+// 月视图
+"b1_water_quality_month_view" = "月视图";
+
+// 探头
+"b1_probe_update_probe" = "探头";
+
+// 更换
+"b1_probe_update_replace" = "更换";
+
+// 探头校准
+"b1_probe_update_calibration" = "探头校准";
+
+//若要进行探头的校准，请确保设备：
+//已放入装有标定溶液的容器内
+//标定过程将持续3min，这个过程期间请不要将设备移动，等待成功提示
+"b1_probe_update_calibration_tip" = "若要进行探头的校准，请确保设备:
+已放入装有标定溶液的容器内
+标定过程将持续3分钟，这个过程期间请不要将设备移动，等待成功提示";
+
+//开始校准
+"b1_probe_update_start_calibration" = "开始校准";
+
+// 校准中，请耐心等待…
+"b1_probe_update_calibrating" = "校准中，请耐心等待…";
+
+// 探头校准失败，请重试！
+"b1_probe_update_calibration_fail" = "探头校准失败，请重试！";
+
+// 更换探头
+"b1_probe_replace" = "更换探头";
+
+// 请安装以下步骤添加新探头：
+"b1_probe_replace_tips" = "请安装以下步骤添加新探头：";
+
+// 第一步
+"b1_probe_replace_one_step" = "第一步";
+
+// 逆时针方向旋出旧探头
+"b1_probe_replace_one_step_tips" = "逆时针方向旋出旧探头";
+
+// 第二步
+"b1_probe_replace_two_step" = "第二步";
+
+// 取下旧探头，顺时针方向安装新探头
+"b1_probe_replace_two_step_tips" = "取下旧探头，顺时针方向安装新探头";
+
+// 确认安装
+"b1_probe_replace_confirm_install" = "确认安装";
+
+// 您安装的检测探头非新探头，可能会影响测量精度，您可以按更换步骤重新安装新探头
+"b1_probe_replace_dialog_content" = "您安装的检测探头非新探头，可能会影响测量精度，您可以按更换步骤重新安装新探头";
+
+// 关机
+"b1_main_device_power_off" = "关机";
+
+// 与机器人链接超时，请重试
+"device_link_timeout" = "与机器人链接超时，请重试";
+
+// 设备升级提示
+"device_upgrade_tip" = "设备升级提示";
+
+// 设备关联
+"b1_main_devices_linked" = "设备关联";
+
+// 探头添加成功
+"b1_probe_add_succeed" = "探头添加成功";
+
+// 初始化
+"b1_main_device_initialize" = "初始化";
+
+// 工作中
+"b1_main_device_working" = "工作中";
+
+// 休眠
+"device_status_sleeping" = "休眠中";
+
+// 充电中
+"b1_main_device_charging" = "充电中";
+
+// 已充满
+"b1_main_device_battery_full" = "已充满";
+
+// OTA更新中
+"b1_main_device_ota_upgrade" = "固件更新中";
+
+// 设备MAC地址
+"b1_device_info_mac_address" = "设备MAC地址";
+
+// 耗材未通过验证,请联系客服
+"b1_probe_update_dialog_error_probe_tip_content" = "耗材未通过验证,请联系客服";
+
+// 正在检查是否安装水质探头
+"b1_main_probe_verify" = "正在检查是否安装水质探头";
+
+// 剩余【xx%】
+"b1_probe_update_progress" = "剩余 %d%%";
+
+// 未检测到水质检测模块，请确认是否正确安装.
+"b1_probe_add_no_probe" = "未检测到水质检测模块，请确认是否正确安装.";
+
+// 探头校准成功
+"b1_probe_update_calibration_succeed" = "探头校准成功";
+
+// 请确认满足一下条件开始升级，否则将存在升级失败的情况
+// 1.设备甚于电量大于30%或处于充电中；
+// 2.设备处于网络稳定的联网状态
+"b1_ota_update" = "请确认满足一下条件开始升级，否则将存在升级失败的情况
+1. 设备甚于电量大于30%或处于充电中
+2. 设备处于网络稳定的联网状态";
+
+// 探头连接成功
+"b1_probe_connected_successfully" = "探头连接成功";
+
+// 安装成功
+"b1_successful_installation" = "安装成功";
+
+// 没有设备
+"common_no_device" = "没有设备";
+
+// 长按「开始」按钮10秒，灯光闪烁后设备进入配网状态
+"common_device_r1_reset_operation" = "长按「开始」按钮10秒，灯光闪烁后设备进入配网状态";
+
+// 良好
+"b1_main_good" = "良好";
+
+// 一般
+"b1_main_ordinary" = "一般";
+
+// 待改善
+"b1_main_need_to_improved" = "待改善";
+
+// 享受游泳的好时机
+"b1_main_good_desc" = "享受游泳的好时机";
+
+// 建议谨慎使用
+"b1_main_ordinary_desc" = "建议谨慎使用";
+
+// 请注意水质问题并采取适当措施
+"b1_main_need_to_improved_desc" = "请注意水质问题并采取适当措施";
+
+// 【基站名称】断联，请确认基站开机并使手机靠近基站连接设备蓝牙以完成关联
+"device_link_failure_gateway_offline2" = "【HydroComm】断联，请确认基站开机并使手机靠近基站连接设备蓝牙以完成关联";
+
+// 寒冷
+"b1_main_cold" = "寒冷";
+
+// 凉爽
+"b1_main_nice_cold" = "凉爽";
+
+// 舒适
+"b1_main_comfort" = "舒适";
+
+// 暖
+"b1_main_warm" = "暖";
+
+// 很热
+"b1_main_very_hot" = "很热";
+
+// / ----------- 2024.1.12 ------------
+///请确认是否连接【device-APname】WiFi
+"common_confirm_wifi_dialog_message" = "请确认是否连接 %@ Wi-Fi";
+
+// 下一次清洁时间
+"device_next_clean_time" = "下一次清洁时间";
+// 清洁计划
+"device_clean_plan" = "清洁计划";
+// 手动模式
+"device_manual_mode" = "手动模式";
+// 清洁时间
+"device_clean_time" = "清洁时间";
+// 确认开始
+"device_confirm_start" = "确认开始";
+// 周期清洁
+"device_clean_cycle" = "周期清洁";
+// 清洁档位
+"device_clean_gear" = "清洁档位";
+// 池底池壁
+"device_clean_gear_floor_wall" = "池底池壁";
+// 清洁池底，池壁
+"device_clean_gear_floor_wall_description" = "清洁池底，池壁";
+// 池底清洁
+"device_clean_gear_floor_only" = "池底清洁";
+// 仅清洁池底
+"device_clean_gear_floor_only_description" = "仅清洁池底";
+// 池壁清洁
+"device_clean_gear_wall_only" = "池壁清洁";
+// 仅清洁池壁
+"device_clean_gear_wall_only_description" = "仅清洁池壁";
+// 水线清洁
+"device_clean_gear_waterline_only" = "水线清洁";
+// 仅水线清洁
+"device_clean_gear_waterline_only_description" = "仅水线清洁";
+// 使用提示
+"device_use_tips" = "使用提示";
+// 请保证在无人的泳池内使用机器人清洁,请在确认后开始机器人工作
+"device_clean_in_unoccupied_pool_tip" = "请保证在无人的泳池内使用机器人清洁，请在确认后开始机器人工作";
+
+// 关联水面基站
+"device_link_base_station" = "关联水面基站";
+// 选择网关
+"device_select_gateway" = "选择网关";
+// 水面基站
+"base_station" = "水面基站";
+// 开始关联
+"device_start_link" = "开始关联";
+// 关联成功
+"device_link_success" = "关联成功";
+// 前往列表查看
+"device_view_in_list" = "前往列表查看";
+// 连接失败
+"device_link_failure" = "连接失败";
+// 请重试
+"common_try_again" = "请重试";
+// 长按可调节设备上岸方向
+"device_land_oriention" = "长按可调节设备上岸方向";
+// 设备定点清洁中
+"device_position_clean" = "设备定点清洁中";
+// 设备正在调节上岸方向，停止长按后设备将自动上岸
+"device_land_oriention_changing" = "设备正在调节上岸方向，停止长按后设备将自动上岸";
+// 本次定点清洁完成
+"device_position_clean_complete" = "本次定点清洁完成";
+// 初始化
+"common_device_initial" = "初始化";
+// 清洁中
+"common_device_cleaning" = "清洁中";
+
+// / ----------- X5 ------------
+///\n行走电机被卡住，请清理履带
+"x5_main_warn_wcp" = "行走电机被卡住，请清理履带";
+
+// 排水电机被卡住，请清理排水口
+"x5_main_warn_pcp" = "排水电机被卡住，请清理排水口";
+
+// 电池温度过高
+"x5_main_warn_dht" = "电池温度过高";
+
+// 电池温度过高
+"x5_main_warn_cht" = "电池温度过高";
+
+// 确认以下条件后开始升级，否则可能导致升级失败
+//1.设备处于充电状态中
+//2.设备与手机处于稳定的连接
+"x5_upgrade_dialog_desc" = "确认以下条件后开始升级，否则可能导致升级失败.
+1. 设备处于充电状态中.
+2. 设备与手机处于稳定的连接.";
+
+// 删除设备
+"x5_main_delete_device" = "删除设备";
+
+// 解除绑定后,设备相关的设定将被删除,若要再次使用,需要重新绑定设备
+"x5_main_dialog_delete_desc" = "解除绑定后,设备相关的设定将被删除,若要再次使用,需要重新绑定设备";
+
+// 连接设备热点
+"x5_connect_success_title" = "连接设备热点";
+
+// 成功连接到设备
+"x5_connect_success_desc" = "成功连接到设备";
+
+// 检查更新中…
+"x5_upgrade_checking" = "检查更新中…";
+
+// 升级
+"x5_upgrade_upgrade" = "升级";
+
+// 升级检查
+"x5_upgrade_dialog_title" = "升级检查";
+
+// 稍后重试
+"x5_upgrade_dialog_retry" = "稍后重试";
+
+// 确保设备开机且不在水中，设备与手机距离置于3米之内
+"device_x5_reset_operation" = "确保设备开机且不在水中，设备与手机距离置于3米之内";
+
+// 设备开机
+"x5_device_power_on" = "设备开机";
+
+// 请确认是否连接【xx】设备热点
+"x5_main_dialog_offLine_desc" = "请确认是否连接 %@ 设备热点";
+
+// [型号] 固件升级
+"device_firmware_upgrade_suffix" = "%@ 固件升级";
+
+// 成功升级至vxx.xx
+"device_successful_upgrade_prefix" = "成功升级至%@";
+
+// 您可以手动关闭与设备的WiFi连接
+"device_successful_close_wifi" = "您可以手动关闭与设备的Wi-Fi连接";
+
+
+// / ----------- 2024.2.1 - 客服P1、P2  ------------
+///\n验真与保修
+"common_title_VerifyAndWarranty" = "验真与保修";
+// 产品验真
+"common_verify_product" = "产品验真";
+// 通过产品SN查询
+"common_pass_product_sn_inquire" = "通过产品SN查询";
+// 通过订单号查询
+"common_pass_order_number_inquire" = "通过订单号查询";
+// 输入产品SN
+"common_product_sn_input" = "输入产品SN";
+// 输入订单号
+"common_order_number_input" = "输入订单号";
+// 查询
+"common_inquire" = "查询";
+// 重新查询
+"common_inquire_again" = "重新查询";
+// 您的保修信息
+"common_title_warranty_information" = "您的保修信息";
+// 您的设备为
+"common_title_device_information" = "您的设备为";
+// 未能查询到订单信息
+"common_nofind_order_information" = "未能查询到订单信息";
+// 未能查询到设备信息
+"common_nofind_device_information" = "未能查询到设备信息";
+// 未能查询到相关信息
+"common_nofind_relate_information" = "未能查询到相关信息";
+// 报修记录
+"common_repair_record" = "报修记录";
+// 我要报修
+"common_button_repair" = "我要报修";
+// 订单号
+"common_order_number" = "订单号";
+// 购买凭证
+"common_purchase_voucher" = "购买凭证";
+// 购买时间
+"common_purchase_time" = "购买时间";
+// 购买渠道
+"common_purchase_channel" = "购买渠道";
+// 选择购买时间
+"common_purchase_time_select" = "选择购买时间";
+// 选择购买渠道
+"common_purchase_channel_select" = "选择购买渠道";
+// 选择或输入设备的SN
+"common_device_sn_SelectOrInput" = "选择或输入设备的SN";
+// 报修订单信息
+"common_repair_order_information" = "报修订单信息";
+// 简述您的报修问题
+"common_repair_problem_description" = "简述您的报修问题";
+// 故障描述
+"common_fault_description" = "故障描述";
+// 姓名
+"common_name" = "姓名";
+// 电话
+"common_phone" = "电话";
+// 地址
+"common_address" = "地址";
+// 邮编
+"common_zipcode" = "邮编";
+// 国家
+"common_country" = "国家";
+// 室, 单元
+"common_address_room" = "室, 单元";
+// 路, 区域
+"common_address_road" = "路, 区域";
+// 城市，州/省
+"common_address_state" = "城市，州/省";
+// 请输入姓名
+"common_name_input" = "请输入姓名";
+// 联系电话
+"common_phone_input" = "联系电话";
+// 邮编
+"common_zipcode_input" = "邮编";
+// 设备报修预览
+"common_device_repair_preview" = "报修详情";
+// 订单信息
+"common_order_information" = "订单信息";
+// 设备问题描述
+"common_device_problem_description" = "设备问题描述";
+// 我们将使用上述信息提供售后服务，关于您个人信息的使用情况请参考【隐私协议】。勾选表示您知悉上述内容。
+"common_repair_privacy_statement_first" = "我们将使用上述信息提供售后服务，关于您个人信息的使用情况请参考 %@。勾选表示您知悉上述内容。";
+// 寄送地址
+"common_send_address" = "寄送地址";
+// 设备保修记录
+"common_device_warranty_record" = "设备保修记录";
+// 报修详情
+"common_repair_details" = "报修详情";
+// 报修时间
+"common_repair_time" = "报修时间";
+// 报修单号
+"common_repair_order_number" = "报修单号";
+// 报修进度
+"common_repair_progress" = "报修进度";
+// 报修审核
+"common_repair_verify" = "报修审核";
+// 维修处理
+"common_repair_handle" = "维修处理";
+// 报修完成
+"common_repair_complete" = "报修完成";
+// 通常需要1~2个工作日审核您的报修
+"common_repair_state_date_verify" = "通常需要1~2个工作日审核您的报修";
+// 通常需要5个工作日处理您的设备
+"common_repair_state_date_handle" = "通常需要5个工作日处理您的设备";
+// 通常需要10个工作日完成寄送
+"common_repair_state_date_send" = "通常需要10个工作日完成寄送";
+// 报修审核未通过
+"common_repair_verify_failure" = "报修审核未通过";
+// 报修处理中，请等待结果。
+"common_error_repair_again_submit" = "报修处理中，请等待结果。";
+// 输入渠道名称
+"common_channel_name_input" = "输入渠道名称";
+// 序列号
+"common_serial_number" = "序列号";
+// 保修截止日期
+"common_warranty_expairation_time" = "保修截止日期";
+
+// 拍摄
+"common_shooting" = "拍摄";
+
+// 其他
+"common_other" = "其他";
+
+
+// / ----------- 客服结束 ------------ ///\n/ ----------- 下方为设备相关 ------------
+///\n网络配置
+"common_net_configration" = "网络配置";
+// 自动更新
+"common_auto_update" = "自动更新";
+// 修改家庭WiFi信息
+"common_wifi_modify" = "修改家庭Wi-Fi信息";
+// 输入新家庭WiFi信息，点击“确定”进行网络配置更换
+"common_wifi_modify_desc" = "输入新家庭Wi-Fi信息，点击“确定”进行网络配置更换";
+// 修改网络配置
+"common_net_configration_modify" = "修改网络配置";
+// 检查蓝牙连接状态
+"common_ble_connect_status_check" = "检查蓝牙连接状态";
+// 请确认设备开机并处于待机状态
+"common_device_pow_on_tip" = "请确认设备开机并处于待机状态";
+// 请确认您的手机连接到 %@
+"common_ble_connect_status_confirm" = "请确认您的手机连接到【%@】";
+
+//请保持您的设备处于开机状态
+//请将手机靠近设备
+"common_search_bluetooth_failure_tip_2" = "• 请保持您的设备处于开机状态.
+• 请将手机靠近设备.";
+
+// 更换
+"device_replace" = "更换";
+// 滚刷
+"device_rolling_brush" = "滚刷";
+// 滤网
+"device_strainer" = "滤网";
+// 网关绑定
+"device_gateway_binding" = "网关绑定";
+// 设备关联中
+"device_linking" = "设备关联中";
+// 解除关联
+"device_unlink" = "解除关联";
+// 水下通讯地址
+"device_wr_addr" = "水下通讯地址";
+// 异常
+"device_abnormal" = "异常";
+// 关联水面基站
+"device_station_link" = "关联水面基站";
+// 网关关联
+"device_gateway_link" = "网关关联";
+// 耗材管理 -> 部件管理
+"device_consumables_manage" = "部件管理";
+// 更换新耗材后点击“确定”
+"device_replace_consumables_dialog_message" = "更换新耗材后点击“确定”";
+// 将设备置于水中方可对设备进行控制
+"device_out_of_water_tip" = "将设备置于水中方可对设备进行控制";
+// 基站处于休眠状态，请通过蓝牙进行控制
+"base_station_hibernate_tip" = "基站处于休眠状态，请通过蓝牙进行控制";
+// 无法连接设备，请连接后再试
+"device_offline_tip" = "无法连接设备，请连接后再试";
+// 将设备拿出水中方可进行升级
+"device_in_water_tip" = "将设备拿出水中方可进行升级";
+// 水线清洁
+"device_clean_gear_waterline_only" = "水线清洁";
+// 仅水线清洁
+"device_clean_gear_waterline_only_description" = "仅水线清洁";
+// 池底+池壁
+"device_auto_mode" = "池底+池壁";
+// 池底
+"device_floor_mode" = "池底";
+// 池壁
+"device_wall_mode" = "池壁";
+// 水线
+"device_waterline_mode" = "水线";
+// 周期
+"deivce_eco_mode" = "周期";
+
+// 长按[电源]10s，听到一声“哔”且状态灯闪烁后设备进入配网状态
+"x6_net_config_tip" = "长按[电源]10s，听到一声“哔”且状态灯闪烁后设备进入配网状态";
+
+
+// / ----------- 2024.2.24 ------------
+///\n没有消息
+"common_no_message" = "没有消息";
+
+// 请开启相册访问功能
+"common_dialog_premission_open_album" = "请开启相册访问功能";
+
+// 请开启相机访问功能
+"common_dialog_premission_open_camera" = "请开启相机访问功能";
+
+// 密码修改成功，请使用新密码进行登录
+"Common_modify_password_suc" = "密码修改成功，请使用新密码进行登录";
+
+
+// / ----------- 2024.2.24 - 设备相关 未翻译 ------------
+///\n设备不存在，请核实
+"common_deivce_not_exist" = "设备不存在，请核实";
+// 池底+池壁模式（Auto mode）
+"device_clean_mode_auto" = "池底+池壁";
+// 池底模式
+"device_clean_mode_floor" = "池底";
+// 池壁模式
+"device_clean_mode_wall" = "池壁";
+// 水线模式
+"device_clean_mode_waterline" = "水线";
+// 周期清洁模式
+"device_clean_mode_eco" = "节能清洁";
+
+// 池底和池壁清洁
+"device_clean_mode_auto_description" = "池底和池壁清洁";
+// 每48h清洁一次池底
+"device_clean_mode_eco_description" = "每48小时清洁一次池底";
+// 机器人未入水
+"device_not_in_water" = "机器人未入水";
+// 【行走电机】被卡住，请清理【履带】
+"device_x6_warning_0x02" = "【行走电机】被卡住，请清理【履带】";
+// 【排水电机】被卡住，请清理【排水口】
+"device_x6_warning_0x04" = "【排水电机】被卡住，请清理【排水口】";
+// 电池温度过高
+"device_x6_warning_0x10" = "电池温度过高";
+// 电池温度过高
+"device_s1_warning_0x20" = "电池温度过高";
+// 校准失败，请在平稳处重启设备
+"device_x6_warning_0x40" = "校准失败，请在平稳处重启设备";
+// 您的设备正在工作中，此操作会终止当前清洁任务
+"device_unbind_dialog_message2" = "您的设备正在工作中，此操作会终止当前清洁任务";
+// 设备正在出水
+"device_landing" = "设备正在出水";
+
+
+
+// / ----------- 2024.3.18 需提交翻译 ------------
+///\n和
+"common_and" = "和";
+
+// 是否再次下载说明书
+"common_tip_download_manual_again" = "是否再次下载说明书";
+
+// LiveChat
+"common_livechat" = "LiveChat";
+
+// 问题反馈
+"common_email_us" = "问题反馈";
+
+// 问题反馈提交页面标题
+"common_issue_submission" = "问题反馈";
+
+// 问题反馈列表页面标题
+"common_submitted_issues" = "问题反馈";
+
+// 设备当前连接WiFi:
+"device_current_connect_wifi" = "设备当前连接Wi-Fi:";
+// 剩余【xx%】
+"device_left_suffix" = "剩余 %@";
+// 正在检查蓝牙连接状态
+"device_checking_ble_connect" = "正在检查蓝牙连接状态";
+// 设备升级中，无法变更网络配置信息，请稍后重试
+"device_unable_change_wifi_when_ota" = "设备升级中，无法变更网络配置信息，请稍后重试";
+// 设备故障中，无法变更网络配置信息，请稍后重试
+"device_unable_change_wifi_when_abnormal" = "设备故障中，无法变更网络配置信息，请稍后重试";
+// 设备工作中，无法变更网络配置信息，请稍后重试
+"device_unable_change_wifi_when_working" = "设备工作中，无法变更网络配置信息，请稍后重试";
+// 设备固件版本不支持当前功能，请将固件升级至最新版本。
+"device_firmware_should_ota_tip" = "设备固件版本不支持当前功能，请将固件升级至最新版本。";
+
+// 请保持您的设备处于开机状态
+"common_keep_device_power_on" = "请保持您的设备处于开机状态";
+
+// 开启蓝牙权限以体验更丰富的功能
+"common_bluetooth_power_on_tip" = "开启蓝牙权限以体验更丰富的功能";
+
+// 在线
+"common_device_online" = "在线";
+// 水中作业时设备将会失去连接，设备上岸后方可重连
+"x6_offline_tip" = "水中作业时设备将会失去连接，设备上岸后方可重连";
+// 在岸上连接设备后再切换模式
+"x6_mode_change_tip" = "在岸上连接设备后再切换模式";
+// 充电中不可选择模式
+"x6_charging_mode_change_tip" = "充电中不可选择模式";
+
+// 为什么我的设备会在空旷无障碍的区域原地转圈？
+"s1_questionsFAQ_title" = "为什么我的设备会在空旷无障碍的区域原地转圈？";
+// 当设备在空旷无障碍的区域旋转时，请尝试打开以下运动校准设置。通过选择运动模式一或运动模式二进行校准。
+"s1_questionsFAQ_content" = "当设备在空旷无障碍的区域旋转时，请尝试打开以下运动校准设置。通过选择运动模式一或运动模式二进行校准。";
+
+// 运动校准
+"device_motion_calibration" = "运动校准";
+// 运动模式1
+"device_motion_mode_1" = "运动模式1";
+// 运动模式2
+"device_motion_mode_2" = "运动模式2";
+// 设备名称
+"device_name" = "设备名称";
+// 请选择设备
+"device_please_select_device" = "请选择设备";
+// 开启后对设备进行运动校准，以获得更加体验
+"device_motion_calibration_desc" = "开启后对设备进行运动校准，以获得更加体验";
+// 相关设备
+"common_related_device" = "相关设备";
+
+// WiFi断联，请连接后重试
+"common_device_offline_tip" = "Wi-Fi断联，请连接后重试";
+
+// 输入国家名称
+"common_input_country_name" = "输入国家名称";
+// 加载中
+"common_loading" = "加载中";
+
+
+// / ----------- 2024.7.15 ------------
+///\n可输入设备名字，长度限制25字符
+"common_device_max_25_chars_tip" = "可输入设备名字，长度限制25字符";
+// 跳过
+"common_jump_over" = "跳过";
+// 请输入泳池名称
+"common_input_swimmingPool_name_please" = "请输入泳池名称";
+// 请先选择信息
+"common_select_SwimmingPool_info_please" = "请先选择信息";
+// 上报泳池信息失败
+"common_report_swimmingPool_info_failure" = "上报泳池信息失败";
+// 您的泳池信息
+"common_your_pool_information" = "您的泳池信息";
+// 泳池信息管理
+"common_pool_information_management" = "泳池信息管理";
+// 为了提供更好的服务，请完善您的泳池基础信息
+"common_provider_service_pool_basic_infomation" = "为了提供更好的服务，请完善您的泳池基础信息";
+// 泳池名称
+"common_pool_name" = "泳池名称";
+// 请填写泳池大小条件
+"common_fill_pool_size" = "请填写泳池大小条件";
+// 长
+"common_length" = "长";
+// 宽
+"common_width" = "宽";
+// 高度
+"common_height" = "高度";
+
+// 不要再提醒我
+"common_no_show_tip" = "不要再提醒我";
+// 主版本号
+"common_main_firmware_version" = "主版本号";
+// MCU版本号
+"common_mcu_firmware_version" = "MCU版本号";
+// 蓝牙版本号
+"common_ble_firmware_version" = "蓝牙版本号";
+//充电坞固件
+"common_charging_dock_version" = "充电坞固件";
+//Wi-Fi固件
+"common_wifi_firmware_version" = "Wi-Fi固件";
+//SOC固件
+"common_soc_firmware_version" = "SOC固件";
+/**
+ • 升级过程中请勿退出此页面
+ • 升级过程中勿关机或操作机器
+ • 升级过程中保持手机距离设备10米以内
+ */
+"device_firmware_upgrade_in_progress_tips" = " • 升级过程中请勿退出此页面
+ • 升级过程中勿关机或操作机器
+ • 升级过程中保持手机距离设备10米以内";
+// 退出本页面后设备仍将继续完成固件升级，请勿关闭设备电源，耐心等待升级完成并自动重启。
+"device_firmware_wifi_upgrade_in_progress_tips" = "退出本页面后设备仍将继续完成固件升级，请勿关闭设备电源，耐心等待升级完成并自动重启。";
+
+// 开始
+"common_start" = "开始";
+// 停止
+"common_stop" = "停止";
+// 正在寻阳充电
+"common_in_intermittent_mode_tip" = "正在寻阳充电";
+// 当前设备电量低，机器人正在自动寻找合适的位置进行太阳能充电，直到设备电量恢复至23%。
+"common_in_intermittent_mode_content" = "当前设备电量低，机器人正在自动寻找合适的位置进行太阳能充电，直到设备电量恢复至23%。";
+
+// / ----------- W1 ----2024.7.26 ------------ /
+//\n游泳适宜判断
+"water_swimming_suitability" = "游泳适宜判断";
+// 不适合游泳
+"device_w1_swimming_not_suitable" = "不适合游泳";
+// 根据水质指标的检测数值，水质指标正常,适合游泳
+"device_w1_swimming_suitability_tip" = "根据水质指标的检测数值，水质指标正常,适合游泳";
+// 根据检测结果，水质指标（pH 值、ORP 值、TDS 值、温度）异常，不适合游泳。 请确保及时维护泳池，以恢复水质。
+"device_w1_poor_water_quality_bad_tips" = "根据检测结果，水质指标（pH 值、ORP 值、TDS 值、温度）异常，不适合游泳。 请确保及时维护泳池，以恢复水质。";
+// 勉强适合游泳
+"device_w1_swimming_not_good" = "勉强适合游泳";
+// 根据水质指标的检测数值，水质指标有较差波动，勉强适合游泳。请及时维护水质恢复正常，避免影响身体健康。
+"device_w1_poor_water_quality_tips" = "根据水质指标的检测数值，水质指标有较差波动，勉强适合游泳。请及时维护水质恢复正常，避免影响身体健康。";
+// 不建议游泳
+"device_w1_swimming_discouraged" = "不建议游泳";
+// 适合游泳
+"device_w1_swimming_suitable" = "适合游泳";
+// 水质指标变化
+"device_w1_water_quality_indicator_changes" = "水质指标变化";
+// 数值异常
+"device_w1_value_anomalies" = "数值异常";
+// 探头异常状态，请及时检查
+"device_w1_value_anomal_state" = "探头异常状态，请及时检查";
+// 探头异常，请及时检查
+"device_w1_probe_abnormal" = "探头异常，请及时检查";
+// 已知晓
+"common_known" = "已知晓";
+// 已连接
+"common_online" = "已连接";
+// 未连接
+"common_offline" = "未连接";
+// 水质数据提醒
+"water_quality_data_alert" = "水质数据提醒";
+// 指标变化范围
+"water_indicator_variation_range" = "指标变化范围";
+// 水质检测时检测范围如下，当不在绿色范围时，将会进行检测结果的提醒
+"water_indicator_variation_range_tip" = "水质检测时检测范围如下，当不在绿色范围时，将会进行检测结果的提醒";
+// 水中有轻微污染物质，建议谨慎游泳
+"device_w1_warn_message" = "水中有轻微污染物质，建议谨慎游泳";
+// 已完成治理的水质
+"device_w1_water_quality_treated" = "已完成治理的水质";
+// 本次治理建议
+"device_w1_suggestions" = "本次治理建议";
+// 根据最新的水质指标检测结果，提供以下治理意见
+"device_w1_suggestions_result_tip" = "根据最新的水质指标检测结果，提供以下治理意见";
+// 水中游轻微污染物，建议谨慎游泳。
+"device_w1_suggestions_result_one" = "水中游轻微污染物，建议谨慎游泳。";
+// 使用pH降低剂量，降低泳池pH值，使其恢复到理想范围。
+"device_w1_suggestions_result_two" = "使用pH降低剂量，降低泳池pH值，使其恢复到理想范围。";
+// "1.减少消毒药剂用量；\n2.低pH值时可考虑使用pH值增加剂适当增加pH值以降低ORP;\n3.适当升温以降低ORP"
+"device_w1_suggestions_result_three" = "1.减少消毒药剂用量；
+2.低pH值时可考虑使用pH值增加剂适当增加pH值以降低ORP;
+3.适当升温以降低ORP";
+// 检测到您的泳池水质pH值指标有较差波动，请您及时注意水质波动变化，避免水质恶化
+"device_w1_ph_tips" = "检测到您的泳池水质pH值指标有较差波动，请您及时注意水质波动变化，避免水质恶化";
+// 检测到您的泳池水质温度指标有较差波动，请您及时注意水质波动变化，避免水质恶化
+"device_w1_temp_tips" = "检测到您的泳池水质温度指标有较差波动，请您及时注意水质波动变化，避免水质恶化";
+// 检测到您的泳池水质TDS指标有较差波动，请您及时注意水质波动变化，避免水质恶化
+"device_w1_tds_tips" = "检测到您的泳池水质TDS指标有较差波动，请您及时注意水质波动变化，避免水质恶化";
+// 检测到您的泳池水质ORP值指标有较差波动，请您及时水质指标波动变化，避免水质恶化
+"device_w1_orp_tips" = "检测到您的泳池水质ORP值指标有较差波动，请您及时水质指标波动变化，避免水质恶化";
+// 影响；:降低药剂消毒效率，刺激游泳者皮肤及腐蚀泳池设备
+"device_w1_ph_tips_Two" = "影响；:降低药剂消毒效率，刺激游泳者皮肤及腐蚀泳池设备";
+// 影响：降低药剂消毒效率，泳池表面易生成水垢
+"device_w1_ph_tips_three" = "影响：降低药剂消毒效率，泳池表面易生成水垢";
+// 影响：降低舒适度，影响人员健康
+"device_w1_temp_tips_Two" = "影响：降低舒适度，影响人员健康";
+// 影响：池水会变浑浊、变色及产生异味，消毒效果下降
+"device_w1_tds_tips_Two" = "影响：池水会变浑浊、变色及产生异味，消毒效果下降";
+// 影响:消毒不充分，增加池水传播疾病的风险
+"device_w1_orp_tips_Two" = "影响:消毒不充分，增加池水传播疾病的风险";
+// 影响:刺激游泳者的皮肤和眼睛，同时腐蚀泳池设备
+"device_w1_orp_tips_three" = "影响:刺激游泳者的皮肤和眼睛，同时腐蚀泳池设备";
+
+
+// / ----------- 2024.7.15 V1.2.8 ------------
+///\n账户管理
+"common_account_manager" = "账户管理";
+// 消息设置
+"common_setting_message" = "消息设置";
+// 通知设置
+"common_setting_notification" = "通知设置";
+// 单位设置
+"common_setting_unit" = "单位设置";
+// 长度单位
+"common_length_unit" = "长度单位";
+// 面积单位
+"common_area_unit" = "面积单位";
+// 时间规则
+"common_hour_format" = "时间规则";
+// 消息通知
+"common_message_notify" = "消息通知";
+// 系统通知权限未打开，可能错过重要信息，请前往设置-允许通知
+"common_message_notify_tip" = "系统通知权限未打开，可能错过重要信息，请前往设置-允许通知";
+// App版本更新、协议更新等系统消息
+"common_system_message_detail" = "App版本更新、协议更新等系统消息";
+// 设备告警、任务状态、固件更新等设备相关消息
+"common_robat_message_detail" = "设备告警、任务状态、固件更新等设备相关消息";
+// 12小时制
+"common_hour_format_12" = "12小时制";
+// 24小时制
+"common_hour_format_24" = "24小时制";
+// 可输入设备名字，长度限制25字符
+"common_device_max_25_chars_tip" = "可输入设备名字，长度限制25字符";
+
+// / ----------- 2024.07.22 - 天气相关 ------------ ///
+// 今天
+"common_today" = "今天";
+
+// 紫外线指数
+"common_uv" = "UV-index";
+
+// 风力
+"common_wind" = "Wind";
+
+// 湿度
+"common_humidity" = "Vochtigheid";
+
+// 日落
+"common_sunset" = "Zonnesondergang";
+
+// 日出
+"common_sunrise" = "Zonnesopgang";
+
+// 温度
+"common_temperature" = "Temperatuur";
+
+// 低
+"common_low" = "Laag";
+
+// 中
+"common_medium" = "Middel";
+
+// 高
+"common_high" = "Hoog";
+
+// 很高
+"common_veryhigh" = "Zeer hoog";
+
+// 极高
+"common_extreme" = "Extreem";
+
+// 最高
+"common_highest" = "Hoogste";
+
+// 天气信息
+"common_weather_title" = "Weerinformatie";
+
+// 需要获取你的位置信息，以显示你附近的天气
+"common_weather_location_tips" = "Uw locatiegegevens zijn vereist om het weer in uw omgeving weer te geven";
+
+// 目前露点温度为xx℃
+"common_dewpoint_now" = "De huidige temperatuurtaupunkt is %@";
+
+// 未来 7 天
+"common_next_7_days" = "Komende 7 dagen";
+
+
+// / ----------- 2024.08.22 - 1.3.0 ------------
+///\n您所在的国家将在【日期】停止服务，若不及时修改账户账户将被自动注销，是否继续退出？
+"common_change_country_delay_tip" = "您所在的国家将在 %@ 停止服务，若不及时修改账户账户将被自动注销，是否继续退出？";
+// 国家修改后设备将被解绑且无法变更，是否继续保存？ - 修改大区情况
+"common_change_area_country_tip" = "国家修改后设备将被解绑且无法变更，是否继续保存？ - 修改大区情况";
+// 国家修改后将无法变更，是否继续保存？
+"common_change_country_tip" = "国家修改后将无法变更，是否继续保存？";
+// 请选择国家后保存
+"common_please_select_country" = "请选择国家后保存";
+// 欢迎使用Aiper
+"common_welcome_aiper" = "欢迎使用Aiper";
+// 为了更好地保障您的个人权益，请您审慎阅读并理解Aiper相关服务协议，以便您了解我们如何向您提供服务和保护您的数据隐私。
+"common_privacy_policy_explain" = "为了更好地保障您的个人权益，请您审慎阅读并理解Aiper相关服务协议，以便您了解我们如何向您提供服务和保护您的数据隐私。";
+// 查看Aiper和你的数据隐私
+"common_view_protocol" = "查看Aiper和你的数据隐私";
+// 还没有账户？现在注册
+"common_pilot_registration" = "还没有账户？";
+// 还没有账户？现在注册
+"common_pilot_registration_now" = "现在注册";
+// 保存
+"common_save" = "保存";
+// 设备故障，操作失败
+"common_device_malfunction_tip" = "设备故障，操作失败";
+
+
+
+
+/**
+//蓝牙配对失败
+//查询设备信息失败
+//请检查手机网络连接情况后重试
+*/
+"common_ble_pairing_failure_failed_no_network_connection" = "• 蓝牙配对失败
+• 查询设备信息失败
+• 请检查手机网络连接情况后重试";
+
+/**
+未查询到设备信息
+请联系客服支持
+*/
+"common_ble_pairing_failure_not_found_device" = "• 未查询到设备信息
+• 请联系客服支持";
+
+/**
+当前设备已经被绑定
+请重置设备后重试
+*/
+"common_ble_pairing_failure_device_has_bound" = "• 当前设备已经被绑定.
+• 请重置设备后重试.";
+
+
+
+/**
+无法连接设备蓝牙
+请保持手机蓝牙打开
+请保持设备开机并处于配网模式
+请将手机靠近设备以保持蓝牙通讯正常
+*/
+"common_ble_pairing_failure_not_connect" = "• 无法连接设备蓝牙
+• 请保持手机蓝牙打开
+• 请保持设备开机并处于配网模式
+• 请将手机靠近设备以保持蓝牙通讯正常";
+
+
+/** 二代机器连不上蓝牙
+无法连接设备蓝牙
+请保持手机蓝牙打开
+请保持设备开机
+请将手机靠近设备以保持蓝牙通讯正常
+*/
+"common_ble_pairing_failure_not_connect2" = "• 无法连接设备蓝牙
+• 请保持手机蓝牙打开
+• 请保持设备开机
+• 请将手机靠近设备以保持蓝牙通讯正常";
+
+/** 设备未收到网络信息
+Wi-Fi信息传输失败
+请保持手机蓝牙打开
+请保持设备开机并处于配网模式
+请将手机靠近设备以保持蓝牙通讯正常
+*/
+"common_ble_pairing_failure_not_response" = "• Wi-Fi信息传输失败
+• 请保持手机蓝牙打开
+• 请保持设备开机并处于配网模式
+• 请将手机靠近设备以保持蓝牙通讯正常";
+
+/** 二代设备未收到网络信息
+Wi-Fi信息传输失败
+请保持手机蓝牙打开
+请保持设备开机
+请将手机靠近设备以保持蓝牙通讯正常
+*/
+"common_ble_pairing_failure_not_response2" = "• Wi-Fi信息传输失败
+• 请保持手机蓝牙打开
+• 请保持设备开机
+• 请将手机靠近设备以保持蓝牙通讯正常";
+
+/** 搜不到Wi-Fi
+无法找到输入的WiFi名称
+请确认输入了正确的WiFi的名称
+请确认连接为2.4G的WiFi
+*/
+"common_ble_pairing_failure_not_found_wifi" = "• 无法找到输入的Wi-Fi名称
+• 请确认输入了正确的Wi-Fi的名称
+• 请确认连接为2.4G的Wi-Fi";
+
+/** Wi-Fi名称密码不匹配
+WiFi密码错误
+请确认输入了正确的WiFi密码
+*/
+"common_ble_pairing_failure_wrong_password" = "• WiFi密码错误
+• 请确认输入了正确的WiFi密码";
+
+// 请确认输入了正确的 WiFi 的名称，设备仅支持 2.4GHz
+"common_netconfig_fail_error_wifi_name_hz_24" = "请确认输入了正确的 WiFi 的名称，设备仅支持 2.4GHz";
+
+
+/** 连不上请求证书的接口
+无法连接到服务器
+请将设备靠近路由器以保证信号质量
+*/
+"common_ble_pairing_failure_unable_connect_server" = "• 无法连接到服务器
+• 请将设备靠近路由器以保证信号质量";
+
+/** 设备上报的密钥错误
+当前设备无法通过验证
+请联系客服
+*/
+"common_ble_pairing_failure_unable_pass_verification" = "• 当前设备无法通过验证
+• 请联系客服";
+
+/** 设备未收到证书
+服务器连接超时
+请将设备靠近路由器以保证信号质量
+*/
+"common_ble_pairing_failure_connect_server_timeout" = "• 服务器连接超时
+• 请将设备靠近路由器以保证信号质量";
+
+/** 无法连接aws
+无法解析Aiper服务器地址
+请检查网络配置
+*/
+"common_ble_pairing_failure_unable_resolve_server" = "• 无法解析Aiper服务器地址
+• 请检查网络配置";
+
+/** 设备上报的证书错误
+设备认证错误
+请联系客服
+*/
+"common_ble_pairing_failure_device_authentication_error" = "• 设备认证失败
+• 请联系客服";
+
+/** 设备连接aws服务器超时
+无法连接到Aiper服务器
+请将设备靠近路由器以保证信号质量
+*/
+"common_ble_pairing_failure_device_aws_timeout" = "• 无法连接到Aiper服务器
+• 请将设备靠近路由器以保证信号质量";
+
+/** 设备获取ip失败
+获取IP失败
+请重新配网
+*/
+"common_ble_pairing_failure_device_ip_fail" = "• 获取IP失败
+• 请重新配网";
+
+/** 设备正在配网
+设备正在配网
+*/
+// / ----------- 2024.08.27 - 蓝牙配对 ------------ ///\n/ ----------- 2024.08.28 - 配网节点 ------------ ///
+
+"common_ble_pairing_failure_device_netconfiging" = "设备正在配网";
+
+// 路由器设备连接过多
+"netconfig_fail_router_connected_devices_too_much" = "路由器设备连接过多.";
+                    
+
+// 当前服务繁忙，请稍后重试
+"common_netconfig_fail_service_busy" = "当前服务繁忙，请稍后重试";
+
+
+// 准备好你的设备
+"common_device_ready" = "准备好你的设备";
+// 配网成功
+"common_configuration_successful" = "配网成功";
+
+
+// / ----------- 2024.09.12 - T1 ------------
+///\n耗材名称
+"device_consume_name" = "耗材名称";
+
+// 耗材型号
+"device_consume_model" = "耗材型号";
+
+// 最近更换时间
+"device_consume_last_replacement_time" = "最近更换时间";
+
+// 耗材详情
+"device_consume_detail" = "耗材详情";
+
+// 池底&池壁清洁
+"t1_floor_wall_cleaning" = "清洁池底&池壁";
+
+// 池底
+"t1_floor" = "池底";
+
+// 仅地板清洁
+"t1_floor_cleaning_only" = "仅清洁池底";
+
+// 池壁
+"t1_wall" = "池壁";
+
+// 仅清洁池壁
+"t1_wall_cleaning_only" = "仅清洁池壁";
+
+// 水线
+"t1_waterline" = "水线";
+
+// 仅水线清洁
+"t1_waterline_cleaning_only" = "仅清洁水线";
+
+// 不要再提醒我
+"t1_common_no_show_tip" = "不要再提醒我";
+
+// 每48h
+"device_clean_mode_cycle_description" = "每48小时清洁一次池底";
+
+// 周期
+"t1_cycle" = "周期";
+
+// 周期清洁
+"device_clean_mode_cycle" = "周期清洁";
+
+// 标准
+"common_standard" = "标准";
+
+// 开始清洁
+"common_start_clean" = "开始清洁";
+
+/*
+// 1、机器人入水后开始50分钟池底清洁，然后休眠48小时，循环执行。
+
+2、当电量不足以完成循环清洁时，机器人将自动靠岸。
+
+3、若机器人被关机并重启，当前周期清洁任务自动结束。
+
+注意：机器人处于休眠阶段时，会停止通讯功能，期间APP无法连接设备
+*/
+"t1_first_start_cycle_tips" = "1. 机器人入水后开始池底清洁，持续50分钟，然后休眠48小时，循环执行。
+
+2. 当电量不足以完成循环清洁时，机器人将自动靠岸。
+
+3. 若机器人被关机并重启，当前周期清洁任务会自动结束。
+
+注意：机器人处于休眠阶段时，会停止通讯功能，期间App无法连接设备";
+
+/*
+// 您的设备已断开连接，可能是以下原因：
+
+设备在水中
+将设备从水中捞出，点击电源按钮重新启动，以恢复通讯。
+
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试。
+
+信号不稳定：
+1. 确认路由器工作正常，并且设备在 WiFi 的覆盖范围内。
+2. 确认手机蓝牙已启用，并且设备距离手机在 25 米以内。
+
+固件升级中：
+请等待,固件升级完成后网络连接将自动恢复。
+ */
+"t1_up_offLine_tips" = "您的设备已断开连接，可能是以下原因：
+
+设备在水中
+将设备从水中捞出，点击电源按钮重新启动，以恢复通讯.
+
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试.
+
+信号不稳定
+1.  确认路由器工作正常，并且设备在 Wi-Fi 的覆盖范围内.
+2.  确认手机蓝牙已启用，并且设备距离手机在 25 米以内.
+
+固件升级中
+请等待,固件升级完成后网络连接将自动恢复.";
+
+// 召回
+"common_recall" = "召回";
+
+// / ----------- 2024.09.13 - 1.3.1 ------------
+///\n选择网络
+"common_select_ssid" = "选择网络";
+// 创建新密码
+"common_create_new_pw" = "创建新密码";
+// 请输入注册时使用的邮箱，我们将发送验证码以验证您的身份
+"common_forget_tip_emailAndCode" = "请输入注册时使用的邮箱，我们将发送验证码以验证您的身份";
+// 输入您的帐户的电子邮件地址
+"common_register_tip_enter_email" = "输入您的帐户的电子邮件地址";
+// 邮箱验证
+"common_email_verify" = "邮箱验证";
+// 我们将验证码发送至
+"common_send_code_to" = "我们将验证码发送至";
+// 创建的密码需要满足以下条件：
+"common_create_pw_condition" = "创建的密码需要满足以下条件：";
+// 密码长度需要在8-16之间
+"common_pw_rule_length" = "密码长度需要在8-16之间";
+// 密码需要包含字母和数字
+"common_pw_rule_letterAndNumber" = "密码需要包含字母和数字";
+// 设置密码
+"common_set_pw" = "设置密码";
+// 重设密码
+"common_reset_pw" = "重设密码";
+// 确认并登录
+"common_confirmAndLogin" = "确认并登录";
+//订单
+"common_orders" = "订单";
+//订单列表
+"common_order_list" = "订单列表";
+
+
+// / ----------- 2024.10.09 - OTA ------------
+///\n机器人开机并连接到网络后，将自动下载和更新固件。
+"device_automatic_tips" = "机器人开机并连接到网络后，将自动下载和更新固件。";
+
+// 无法更新设备。更新必须在以下条件下进行
+"device_update_condication" = "无法更新设备。更新必须在以下条件下进行";
+
+// 设备剩余电量≥【XX】%，或处于DC充电中
+"device_update_check_message_power_and_charging" = "设备剩余电量≥%d%% ，或处于直流充电中";
+
+// 设备剩余电量≥【XX】%
+"device_update_check_message_power" = "设备剩余电量≥%d%% ";
+
+// 设备网络连接稳定
+"device_update_check_message_network_connection" = "设备网络连接稳定";
+
+// 插入电源适配器，并处于DC充电中
+"device_update_check_message_plugpower_charging" = "插入电源适配器，并处于直流充电中";
+
+// 机器人正在升级固件，请稍后再试
+"device_upgrading_tips" = "机器人正在升级固件，请稍后再试";
+
+// 操作失败，请重试
+"common_operation_failed_tip" = "操作失败，请重试";
+
+// 清洁路径偏好
+"x6_clean_path_preferences" = "清洁路径偏好";
+// 弓字型路径
+"x6_clean_path_s_shape_title" = "弓字型路径";
+// 适用于平底泳池，具有更好的清洁覆盖率，大部分泳池推荐选用这个路径
+"x6_clean_path_s_shape_desc" = "适用于平底泳池，具有更好的清洁覆盖率，大部分泳池推荐选用这个路径";
+// 随机型路径
+"x6_clean_path_random_shape_title" = "随机型路径";
+// 适用于碗形底或者复杂形状的泳池，若泳池的情况复杂，推荐选用这个路径
+"x6_clean_path_random_shape_desc" = "适用于碗形底或者复杂形状的泳池，若泳池的情况复杂，推荐选用这个路径";
+
+
+// / ----------- 2024.11.28 - 正式 ------------
+///\n设备
+"w2_panel_tab_device" = "设备";
+
+// 水质
+"w2_panel_tab_water" = "水质";
+
+// 水质评价：
+"w2_water_quilty_rating" = "水质评价：";
+
+// 传感器
+"w2_sensors" = "传感器";
+
+// 正常
+"w2_probe_normal" = "正常";
+
+// 未安装或虚拟探头
+"w2_probe_uninstalled" = "未安装或虚拟探头";
+
+// 需要更换
+"w2_need_to_replaced" = "需要更换";
+
+// 重复安装
+"w2_duplication_installation" = "重复安装";
+
+// 损坏
+"w2_probe_damage" = "损坏";
+
+// 虚拟探头
+"w2_dummy_probe" = "虚拟探头";
+
+/*
+// 您的设备已断开连接，可能是以下原因：
+
+信号不稳定：
+1. 确认路由器和家庭网络工作正常，并且设备在 WiFi 的覆盖范围内。
+2、尝试开启手机蓝牙并且将手机靠近设备基站，以通过蓝牙连接设备。
+
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试。
+
+固件升级中：
+请等待,固件升级完成后网络连接将自动恢复。
+ */
+"w2_offline_tips" = "您的设备已断开连接，可能是以下原因:
+
+信号不稳定
+1. 确认路由器和家庭网络工作正常，并且设备在 Wi-Fi 的覆盖范围内.
+2. 尝试开启手机蓝牙并且将手机靠近设备基站，以通过蓝牙连接设备.
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试.
+
+固件升级中:
+请等待,固件升级完成后网络连接将自动恢复.";
+
+// 添加关联设备
+"common_add_bound_link" = "添加关联设备";
+
+// 关联基站或机器人，解锁更多功能。
+"common_bound_link_unlock_more_features" = "关联基站或机器人，解锁更多功能。";
+
+// 关联设备
+"common_bound_link_device" = "关联设备";
+
+// 以后
+"common_after" = "以后";
+
+// 关联
+"common_associated" = "关联";
+
+// 附近可以关联的设备
+"common_nearby_link_device" = "附近可以关联的设备";
+
+// 没有合适的设备
+"common_empty_suitable_devices" = "没有合适的设备";
+
+// 正在关联设备...
+"common_bound_link_loading" = "正在关联设备...";
+
+// 购买
+"common_buy" = "购买";
+
+// 泳池水类型
+"w2_pool_water_type" = "泳池水类型";
+
+// 更换泳池
+"common_w2_switch_swimming_pool" = "更换泳池";
+
+// 当前设备所属泳池
+"common_w2_current_swimming_pool" = "当前设备所属泳池";
+
+// 选择泳池
+"common_w2_select_swimming_pool" = "选择泳池";
+
+// 盐分类型
+"w2_pool_water_type_of_salinity" = "盐分类型";
+
+// 淡水池
+"w2_indicator_range_fresh_water_pool" = "淡水池";
+
+// 盐水池
+"w2_indicator_range_brine_water_pool" = "盐水池";
+
+// 温度类型
+"w2_pool_water_type_of_temp" = "温度类型";
+
+// 常温池
+"w2_indicator_range_normal_temp_pool" = "常温池";
+
+// SPA池
+"w2_indicator_range_spa_pool" = "SPA池";
+
+// 消毒剂类型
+"w2_pool_water_type_of_disinfectants" = "消毒剂类型";
+
+// 未使用消毒剂
+"w2_no_disinfectants" = "未使用消毒剂";
+
+// 含氯消毒剂
+"w2_chlorine_disinfectants" = "含氯消毒剂";
+
+// 含溴消毒剂
+"w2_indicator_range_has_bromine_disinfectant" = "含溴消毒剂";
+
+// 未使用稳定剂
+"common_w2_pool_unused_stabilizer" = "未使用稳定剂";
+
+// 稳定剂
+"common_w2_pool_stabilizer" = "稳定剂";
+
+// 氰尿酸（CYA）
+"common_w2_pool_cya" = "氰尿酸（CYA）";
+
+// 氰尿酸会干扰ORP传感器的读数准确性，如泳池中含有氰尿酸，水质检测结果可能存在一定误差，建议您将其作为趋势参考
+"common_w2_pool_cya_desc" = "氰尿酸会干扰ORP传感器的读数准确性，如泳池中含有氰尿酸，水质检测结果可能存在一定误差，建议您将其作为趋势参考";
+
+// 未安装探头
+"w2_probe_uninstall" = "未安装探头";
+
+// 未安装
+"w2_uninstall" = "未安装";
+
+// 未安装探头，请检查后再试。
+"w2_probe_uninstall_tip" = "未安装探头，请检查后再试。";
+
+// 指标参考范围
+"w2_water_quilty_indicator_range_title" = "指标参考范围";
+
+// 好
+"w2_water_quilty_result_good" = "好";
+
+// 水质检测时检测范围如下，当不在绿色范围时，将会进行检测结果的提醒
+"w2_water_quilty_indicator_range_desc" = "水质检测时检测范围如下，当不在绿色范围时，将会进行检测结果的提醒";
+
+// 非常适合游泳
+"w2_swimming_perfectly_suitable" = "非常适合游泳";
+
+// 一般
+"w2_water_quilty_result_medium" = "一般";
+
+// 勉强适合游泳
+"w2_swimming_sufficiently" = "勉强适合游泳";
+
+// 差
+"w2_water_quilty_result_poor" = "差";
+
+// 不适合游泳
+"w2_swimming_not_suitable" = "不适合游泳";
+
+// 数值异常
+"w2_water_quilty_data_anomaly" = "数值异常";
+
+// 探头损坏或未正确安装
+"w2_probe_incorrectly_install" = "探头损坏或未正确安装";
+
+// 检测到探头重复安装
+"w2_probe_install_detected" = "检测到探头重复安装";
+
+// 检测到探头数值异常
+"w2_probe_values_detected" = "检测到探头数值异常";
+
+// 检测数据已更新
+"w2_water_quilty_deticetion_success" = "检测数据已更新";
+
+// 检测失败，请重试
+"w2_water_quilty_deticetion_fail" = "检测失败，请重试";
+
+// 重新检测
+"w2_water_quilty_retest" = "重新检测";
+
+// 正在检测...
+"w2_water_quilty_dececting" = "正在检测...";
+
+// 正在检测...
+"w2_water_quilty_dececting_countdown" = "正在检测...(%ds)";
+
+
+// 水质指标
+"w2_water_quilty_index" = "水质指标";
+
+// 水质趋势
+"w2_water_quilty_tendencies" = "水质趋势";
+
+// 历史记录
+"w2_water_quilty_history" = "历史记录";
+
+// 暂无数据
+"common_no_data" = "暂无数据";
+
+// 回到今天
+"common_back_to_today" = "回到今天";
+
+// 治理建议
+"w2_water_quilty_recommed_title" = "治理建议";
+
+// 根据最新的水质指标检测结果，提供以下治理意见：
+"w2_water_quilty_recommed_subject" = "根据最新的水质指标检测结果，提供以下治理意见：";
+
+// 收起
+"w2_water_quilty_recommed_unexpand" = "收起";
+
+// 展开
+"w2_water_quilty_recommed_expand" = "展开";
+
+// 探头校准中
+"w2_probe_calitrate_progress" = "探头校准中";
+
+// 校准需要3-5min，请勿晃动溶液或取出探头，直到校准完成。
+"w2_probe_calibrate_loading" = "校准需要3-5分钟，请勿晃动溶液或取出探头，直到校准完成。";
+
+// 校准
+"w2_calibrations" = "校准";
+
+// 终止校准
+"w2_finish_calibrate_calling" = "终止校准";
+
+// 继续校准
+"w2_continue_calibrate_calling" = "继续校准";
+
+/*
+// 1、用配置的杯量倒入饮用纯净水250ml
+2、将1包pH粉剂包加入，并用搅拌棒搅拌，直到粉剂充分溶解
+ */
+"w2_start_probe_calibrate_next" = "1. 用配置的杯量倒入饮用纯净水250ml
+2. 将1包pH粉剂包加入，并用搅拌棒搅拌，直到粉剂充分溶解";
+
+/*
+// 1、将探头浸入溶液中，开始校准
+2、校准需要3-5min，期间请勿晃动溶液或取出探头，直到校准完成。
+ */
+"w2_start_probe_calibrate_start" = "1.将探头浸入溶液中，开始校准.
+2. 校准需要3-5分钟，期间请勿晃动溶液或取出探头，直到校准完成.";
+
+// 校准成功
+"w2_probe_calitrate_result_success" = "校准成功";
+
+// 校准失败
+"w2_probe_calitrate_result_fail" = "校准失败";
+
+// 探头正在校准中，确定终止校准吗？
+"w2_calibrate_calling_message" = "探头正在校准中，确定终止校准吗？";
+
+// 继续等待
+"w2_waiting_calibrate_calling" = "继续等待";
+
+// 正在校准...
+"device_calibrating" = "正在校准...";
+
+// 未关联设备
+"common_unassociated_devices" = "未关联设备";
+
+// 关联的设备
+"common_aleady_bounk_link" = "关联的设备";
+
+// 解除关联设备？
+"common_unassociate_device" = "解除关联设备？";
+
+// 解除关联
+"device_unlink" = "解除关联";
+
+// 修改关联设备
+"common_modify_bound_link" = "修改关联设备";
+
+// 池水信息
+"w2_pool_water_info" = "池水信息";
+
+// 上次校准时间
+"device_consume_last_calibration_time" = "上次校准时间";
+
+// 首次使用时间
+"device_consume_date_of_first_use" = "首次使用时间";
+
+// 耗材SN
+"device_consume_sn" = "耗材SN";
+
+// 水质数据提醒
+"w2_water_quilty_data_notice" = "水质数据提醒";
+
+/*
+时间向您的手机推送通知
+*/
+// 打开提醒后将在水质发生变化后，在您设置的通知
+"w2_water_quilty_data_notice_desc" = "打开提醒后将在水质发生变化后，在您设置的通知";
+
+// 通知时间
+"w2_notice_time" = "通知时间";
+
+// 水质健康通知
+"w2_water_quilty_health_notice" = "水质健康通知";
+
+// 水质一般
+"w2_water_quilty_general" = "水质一般";
+
+// 水质差
+"w2_water_quilty_pool" = "水质差";
+
+// 结束时间不能早于开始时间
+"w2_water_notify_start_time_earlier_end_time" = "结束时间不能早于开始时间";
+
+// 通知提醒
+"w2_notification_title" = "通知提醒";
+
+// 非溴消毒剂
+"w2_indicator_range_none_bromine_disinfectant" = "非溴消毒剂";
+
+// 溴消毒剂
+"device_non_bromine_disinfectant" = "溴消毒剂";
+
+// 普通泳池
+"common_swimming_pool" = "普通泳池";
+
+// 关联的设备
+"w2_bound_link_associated_devices" = "关联的设备";
+
+// 剩余%d天
+"w2_station_consume_day_left" = "剩余%d天";
+
+// 检测记录
+"w2_detection_records" = "检测记录";
+
+// 水质探头
+"w2_water_quilty_sonde" = "水质探头";
+
+// 检测探头
+"w2_water_quilty_sensor" = "检测探头";
+
+// 水质检测
+"w2_water_quality_testing" = "水质检测";
+
+// 传感器异常
+"w2_sensors_anomaly" = "传感器异常";
+
+// 【探头-1】异常，为确保您的设备正常运行及数据准确性，请尽快检查您的设备。
+"w2_sensors_anomaly_message" = "【探头-1】异常，为确保您的设备正常运行及数据准确性，请尽快检查您的设备。";
+
+// 【探头-2】异常，为确保您的设备正常运行及数据准确性，请尽快检查您的设备。
+"w2_sensors_anomaly_message_two" = "【探头-2】异常，为确保您的设备正常运行及数据准确性，请尽快检查您的设备。";
+
+// 知道了
+"w2_sensor_iknow" = "知道了";
+
+// 评分
+"w2_water_quilty_line_chart_score" = "评分";
+
+// 开始关联
+"w2_start_bound_link" = "开始关联";
+
+// 水质记录
+"w2_indicator_records" = "水质记录";
+
+// 开始时间
+"w2_notify_start_time" = "开始时间";
+
+// 结束时间
+"w2_notify_end_time" = "结束时间";
+
+// 耗材类型
+"device_consume_type" = "耗材类型";
+
+// 探头需要校准
+"w2_need_to_calibrated" = "探头需要校准";
+
+// 以后再说
+"w2_update_calibrated_later" = "以后再说";
+
+// 为避免影响检测准确度，请及时校准水质检测探头
+"w2_need_to_calibrated_message" = "为避免影响检测准确度，请及时校准水质检测探头";
+
+// 远程唤醒
+"w2_remote_wakeup" = "远程唤醒";
+
+// 允许设备在休眠中通过WiFi网络远程唤醒，但会降低电池续航能力。
+"w2_deep_sleep_desc" = "允许设备在休眠中通过Wi-Fi网络远程唤醒，但会降低电池续航能力。";
+
+// 设备处于深度休眠状态，请打开手机蓝牙并靠近设备将其唤醒。
+"w2_deep_sleep_warn" = "设备处于深度休眠状态，请打开手机蓝牙并靠近设备将其唤醒。";
+
+// 休眠中
+"w2_deep_sleep_state" = "休眠中";
+
+// 调节pH
+"w2_adjust_ph" = "调节pH";
+
+// 盐度
+"water_common_unit_tds_salt" = "盐度";
+
+
+
+// 根据池水污浊程度调节抽吸功率和速度
+"common_device_clean_power_tip" = "根据池水污浊程度调节抽吸功率和速度";
+// 清洁能力
+"common_device_clean_power_title" = "清洁能力";
+// 设备自检
+"common_device_self_check" = "设备自检";
+// 设备调试
+"common_device_debug_mode" = "设备调试";
+// 线速度
+"common_line_speed" = "线速度";
+// 已启用清洁计划
+"common_clean_plan_enabled" = "已启用清洁计划";
+// 已关闭清洁计划
+"common_clean_plan_disabled" = "已关闭清洁计划";
+//计划任务正在执行，是否终止当前任
+"common_clean_plan_excuting_tip" = "计划任务正在执行，是否终止当前任";
+
+
+// 计划任务正在执行，是否终止当前任\n/ ----------- 2024.11.11 - APP框架 ------------ /
+//\n前往系统设置选择
+"common_go_system_setting" = "前往系统设置选择";
+
+// 请将手机靠近要添加的设备
+"common_ble_serch_device_tips_two" = "请将手机靠近要添加的设备";
+
+// 请保持设备处于开机状态
+"common_ble_serch_device_tips_one" = "请保持设备处于开机状态";
+
+
+// 机器人正在升级固件，请稍后再试
+"common_device_ota_tip" = "机器人正在升级固件，请稍后再试";
+// 根据池水污浊程度调节抽吸功率和速度
+"common_device_clean_power_tip" = "根据池水污浊程度调节抽吸功率和速度";
+// 清洁能力
+"common_device_clean_power_title" = "清洁能力";
+// 设备自检
+"common_device_self_check" = "设备自检";
+// 设备调试
+"common_device_debug_mode" = "设备调试";
+// 线速度
+"common_line_speed" = "线速度";
+// 已启用清洁计划
+"common_clean_plan_enabled" = "已启用清洁计划";
+// 已关闭清洁计划
+"common_clean_plan_disabled" = "已关闭清洁计划";
+//计划任务正在执行，是否终止当前任
+"common_clean_plan_excuting_tip" = "计划任务正在执行，是否终止当前任";
+
+// 下一次任务
+"common_next_task" = "下一次任务";
+
+/*
+您的设备已断开连接，可能是以下原因：
+
+设备在水下
+将设备从水中捞出，点击电源按钮重新启动，以恢复通讯。
+
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试。
+
+信号不稳定
+1. 确认路由器工作正常，并且设备在 Wi-Fi 的覆盖范围内。
+2. 确认手机蓝牙已启用，并且设备距离手机在 25 米以内。
+
+固件升级中
+请等待，固件升级完成后网络连接将自动恢复。
+ */
+"x9_disconnect_dialog_message" = "您的设备已断开连接，可能是以下原因：
+
+设备在水下
+将设备从水中捞出，按下电源按钮重新启动，以恢复通讯。
+
+电量不足
+如果按下设备的电源按钮时无法开机，请充电后重试。
+
+信号不稳定
+1. 确认路由器工作正常，并且设备在 Wi-Fi 的覆盖范围内。
+2. 确认手机蓝牙已启用，并且设备距离手机在 25 米以内。
+
+固件升级中
+请等待，固件升级完成后网络连接将自动恢复。";
+
+// 垃圾篓堵塞
+"basket_blockage_title" = "垃圾篓堵塞";
+// 垃圾篓未安装
+"basket_not_install_title" = "垃圾篓未安装";
+// 请倒出杂物并清理后重新安装垃圾篓
+"basket_blockage_message" = "请倒出杂物并清理后重新安装垃圾篓";
+// 请正确安装垃圾篓后重新尝试
+"basket_not_install_message" = "请正确安装垃圾篓后重新尝试";
+
+// 计划执行中
+"cycle_task_in_progress" = "计划执行中";
+
+// 清洁次数
+"device_clean_times" = "清洁次数";
+// 智能
+"device_clean_mode_smart" = "智能";
+// 全局
+"device_ultra_mode" = "全局";
+// 水面
+"device_surface_mode" = "水面";
+// 节能
+"device_clean_mode_eco_short" = "节能";
+// 强劲
+"device_clean_mode_max" = "强劲";
+// 正在召回
+"device_status_recalling" = "正在召回";
+// 停靠中
+"device_status_docking" = "停靠中";
+
+// 清洁完成
+"record_clean_complete" = "清洁完成";
+// 未完成-异常终止
+"record_clean_abnormal" = "未完成-异常终止";
+// 未完成-低电中止
+"record_clean_low_battery" = "未完成-低电中止";
+// 未完成-手动结束
+"record_clean_manual_termination" = "未完成-手动结束";
+// 清洁时长
+"record_clean_duration" = "清洁时长";
+// 清洁面积
+"record_clean_area" = "清洁面积";
+// 清洁速度
+"record_clean_speed" = "清洁速度";
+// 异常次数
+"record_anomalies_occurred" = "异常次数";
+// 避障次数
+"record_obstacle_avoidance" = "避障次数";
+// 脱困次数
+"record_rescues" = "脱困次数";
+// 消耗电量
+"record_power_consumption" = "消耗电量";
+
+
+// / ----------- 2024.12.05 - APP框架 ------------
+///\n二维码扫描异常，请联系客服后重试
+"common_ap_scanning_anomalies_tip" = "二维码扫描异常，请联系客服后重试";
+
+// 版本更新说明
+"common_version_update_notes" = "版本更新说明";
+///\n立方米
+"common_volume_cubic_meter" = "立方米";
+// 升
+"common_volume_lift" = "升";
+// 加仑
+"common_volume_gallon" = "加仑";
+// 体积单位
+"common_volume_unit" = "体积单位";
+// 我们对应用进行了重要更新，以提升您的使用体验。请您立即更新到最新版本，以继续使用我们的服务
+"common_alert_new_version_forceUpgrade_title" = "我们对应用进行了重要更新，以提升您的使用体验。请您立即更新到最新版本，以继续使用我们的服务";
+// 撤回后，您的Aiper账户将被登出，再次同意协议后登录可正常使用账号
+"common_withdraw_user_policy_dialog_content" = "撤回后，您的Aiper账户将被登出，再次同意协议后登录可正常使用账号";
+// 发起售后
+"common_start_after_sales" = "发起售后";
+// 输入序列号以验证设备.
+"common_authentication_content" = "输入序列号以验证设备";
+// 输入订单信息和设备序列号以查看设备保修期限.
+"common_warranty_content" = "输入订单信息和设备序列号以查看设备保修期限";
+// 设备支持
+"common_device_support" = "设备支持";
+// 产品验真
+"common_Authentication" = "产品验真";
+// 保修查询
+"common_Warranty" = "保修查询";
+// 报修订单信息
+"common_after_sale_Info" = "报修订单信息";
+
+// 通讯模块
+"common_communication_module" = "通讯模块";
+// 感知模块
+"common_perception_module" = "感知模块";
+// 行动模块
+"common_action_module" = "行动模块";
+// 清洁模块
+"common_cleaning_module" = "清洁模块";
+// 电源模块
+"common_power_module" = "电源模块";
+// 系统软件
+"common_system_software" = "系统软件";
+// 正常
+"common_normal" = "正常";
+// 异常
+"common_abnormal" = "异常";
+// 已成功接收命令，请等待机器人准备就绪。
+"common_air_flation_tip" = "已成功接收命令，请等待机器人准备就绪。";
+// 水下无法编辑清洁计划
+"cycle_plan_iot_disconnect_tip" = "水下无法编辑清洁计划";
+// 开始
+"common_task_start" = "开始";
+// 停止
+"common_task_stop" = "停止";
+// 请结束当前任务后切换
+"common_finish_current_task_tip" = "请结束当前任务后切换";
+// 周期计划/清洁计划
+"cycle_plan_title" = "清洁计划";
+// 当前清洁模式不支持此功能
+"device_feature_not_support" = "当前清洁模式不支持此功能";
+// 请将机器人捞出水面后操作
+"common_device_inwater_operation_disable" = "请将机器人捞出水面后操作";
+// 选择开始时间
+"select_start_time" = "开始时间";
+// 部件管理
+"device_component_management" = "部件管理";
+// 固件升级中，请勿拔出设备电源或关机、点击设备物理按钮，以避免设备升级失败而造成损失
+"common_otaing_tip" = "固件升级中，请勿拔出设备电源或关机、点击设备物理按钮，以避免设备升级失败而造成损失";
+// 正在召回机器人，请稍后再试
+"common_recalled_tip" = "正在召回机器人，请稍后再试";
+
+// 请先选择清洁模式
+"device_clean_mode_unselect_tip" = "请先选择清洁模式";
+// 设备相关的设定将被删除，若要再次使用需要重新绑定设备
+"device_factory_retore_tip" = "设备相关的设定将被删除，若要再次使用需要重新绑定设备";
+// 功能实验室
+"device_feature_lab" = "功能实验室";
+// 水面清洁时长
+"surface_cleaning_duration" = "水面清洁时长";
+// 入水方向
+"device_entry_direction" = "入水方向";
+// 召回至机器人入水时的方位
+"device_entry_direction_desc" = "召回至机器人入水时的方位";
+// 召回至机器人入水的精准位置
+"device_entry_point_desc" = "召回至机器人入水的精准位置";
+// 入水点
+"device_entry_point" = "入水点";
+// 池底清洁路径
+"device_bottom_clean_setting" = "池底清洁路径";
+// 召回位置偏好
+"device_callback_setting" = "召回位置偏好";
+// 多平台清洁
+"device_multiplatform_title" = "多平台清洁";
+// 启用多平台清洁模式，适用于具有多个大型
+"device_multiplatform_desc" = "启用多平台清洁模式，适用于具有多个大型台阶或平台区域的泳池。";
+// 设备健康监控
+"device_health_monitor" = "设备健康监控";
+// 清洁设置
+"device_cleaning_setting" = "清洁设置";
+// 十字弓型路径
+"x9_crossbow_clean_title" = "十字弓型路径";
+// 自适应
+"x9_random_clean_title" = "自适应";
+// 适用于复杂的泳池形状，清洁覆盖率高，但智能清洁能力偏弱，清洁效率一般。
+"x9_crossbow_clean_tip" = "适用于复杂的泳池形状，清洁覆盖率高，但智能清洁能力偏弱，清洁效率一般。";
+// 拥有更好的智能清洁能力，同时具备高效的清洁速率和覆盖率，但在复杂形状的泳池中作中作业时存在一些限制。
+"x9_random_clean_tip" = "拥有更好的智能清洁能力，同时具备高效的清洁速率和覆盖率，但在复杂形状的泳池中作中作业时存在一些限制。";
+
+// 清洁体积
+"common_clean_volume" = "清洁体积";
+// 最大深度
+"common_max_depth" = "最大深度";
+// 最浅深度
+"commin_min_depth" = "最浅深度";
+
+// 清洁模式
+"device_clean_mode_title" = "清洁模式";
+// 周一
+"common_weekday_mon" = "周一";
+// 周二
+"common_weekday_tue" = "周二";
+// 周三
+"common_weekday_wed" = "周三";
+// 周四
+"common_weekday_thur" = "周四";
+// 周五
+"common_weekday_fri" = "周五";
+// 周六
+"common_weekday_sat" = "周六";
+// 周日
+"common_weekday_sun" = "周日";
+// 每天
+"clean_plan_every_day" = "每天";
+// 每2天
+"clean_plan_every_2day" = "每2天";
+// 每3天
+"clean_plan_every_3day" = "每3天";
+// 每天一次智能清洁
+"clean_plan_every_day_desc" = "每天一次智能清洁";
+// 每2天一次智能清洁
+"clean_plan_every_2day_desc" = "每2天一次智能清洁";
+// 每3天一次智能清洁
+"clean_plan_every_3day_desc" = "每3天一次智能清洁";
+// 自定义清洁计划
+"custom_cycle_plan_title" = "自定义清洁计划";
+
+// 多平台
+"device_multizone_mode" = "多平台";
+
+// 任务过期
+"record_clean_expired" = "任务过期";
+// 计划任务
+"common_scheduled_task" = "计划任务";
+// 即时任务
+"common_immediate_task" = "即时任务";
+// 手动模式
+"common_manual_task" = "手动模式";
+
+// / ----------- 2024.12.18 - 框架 ------------
+///\n若需使用该设备，请先升级设备固件
+"common_device_force_ota_alert" = "若需使用该设备，请先升级设备固件";
+// 如需使用当前设备，需升级到当前版本，退出OTA后将返回首页，是否继续退出？
+"common_no_save_ota_alert" = "如需使用当前设备，需升级到当前版本，退出固件升级后将返回首页，是否继续退出？";
+// 去升级
+"common_goto_ota" = "去升级";
+// 继续升级
+"common_continue_ota" = "继续升级";
+// 返回首页
+"common_back_home" = "返回首页";
+
+// / ----------- 2024.12.18 - WR ------------
+///\nstep1
+"commont_step_1" = "第一步";
+
+// 固定位置
+"common_wr_install_guide_title_1" = "固定位置";
+
+// 为确保灌溉效果和信号强度，请严格遵守如下要求安装指引，否则可能需要重新安装。
+"common_wr_install_guide_tip_1" = "为确保灌溉效果和信号强度，请严格遵守如下要求安装指引，否则可能需要重新安装。";
+
+// 请安装无斜坡不凹陷的平整地面，无障码物，可以连接到水管和接通电源的位置上
+"common_wr_install_guide_content_1_1" = "请安装无斜坡不凹陷的平整地面，无障码物，可以连接到水管和接通电源的位置上";
+
+// 注意:如果您的房子有前院和后院，或者有遮挡物体，有可能影响IrriSense的信号接收
+"common_wr_install_guide_content_1_2" = "注意:如果您的房子有前院和后院，或者有遮挡物体，有可能影响IrriSense的信号接收";
+
+// 第二步
+"commont_step_2" = "第二步";
+
+// 固定IrriSense
+"common_wr_install_guide_title_2" = "固定IrriSense";
+
+// • 按图示将IrriSense固定在您选择的安装位置，确保稳固（定位器箭头方向朝向喷灌区域）
+"common_wr_install_guide_tip_2" = "• 按图示将IrriSense固定在您选择的安装位置，确保稳固（定位器箭头方向朝向喷灌区域）";
+
+// 有关完整的安装固定说明，请参阅《用户手册》
+"common_wr_install_guide_notice_2" = "有关完整的安装固定说明，请参阅《用户手册》";
+
+// step3
+"commont_step_3" = "第三步";
+
+// 检查水管连接
+"common_wr_install_guide_title_3" = "检查水管连接";
+
+// 1.你可以选择一种方式连接水管，随后完全地打开水龙头检查确保不漏水
+"common_wr_install_guide_content_3_1" = "1.你可以选择一种方式连接水管，随后完全地打开水龙头检查确保不漏水";
+
+// 方式一：接3/4GHT螺纹花园水管
+"common_wr_install_guide_content_type_3_1" = "方式一：接3/4GHT螺纹花园水管";
+
+// 方式二：旋上快接套件
+"common_wr_install_guide_content_type_3_2" = "方式二：旋上快接套件";
+
+// step4
+"commont_step_4" = "第四步";
+
+// 接电源&配网
+"common_wr_install_guide_title_4" = "接电源&配网";
+
+// 建议使用带防水罩的户外插座
+"common_wr_install_guide_content_4_1" = "建议使用带防水罩的户外插座";
+
+// 通电后长按开关2s，直到蓝色灯闪烁进入配对模式
+"common_wr_install_guide_content_4_2" = "通电后长按开关2s，直到蓝色灯闪烁进入配对模式";
+
+// 点击开始配对，进入配对过程，绿色灯常亮则蓝牙连接成功
+"common_wr_install_guide_content_4_3" = "点击开始配对，进入配对过程，绿色灯常亮则蓝牙连接成功";
+
+// 已完成上述操作
+"common_complete_all_operate" = "已完成上述操作";
+
+// 开始配对
+"common_start_config" = "开始配对";
+
+// 找不到可用的WiFi？
+"common_config_no_found_wifi" = "找不到可用的Wi-Fi？";
+
+// 解决方案
+"common_config_solution" = "解决方案";
+
+// 更换lrrisense位置，使其处于wifi信号盖范围内
+"common_config_solution_wr_content_1" = "更换lrrisense位置，使其处于Wi-Fi信号盖范围内";
+
+// 配置wifi信号增强器wif放大器以增大信号的覆盖范围
+"common_config_solution_wr_content_2" = "配置Wi-Fi信号增强器wif放大器以增大信号的覆盖范围";
+
+// 暂时跳过wifi连接，您可以通过蓝牙使用各功能
+"common_config_solution_wr_content_3" = "暂时跳过Wi-Fi连接，您可以通过蓝牙使用各功能";
+
+// 跳过wifi连接
+"common_skip_connect_wifi" = "跳过Wi-Fi连接";
+
+// 尝试重新连接
+"common_retry_connect" = "尝试重新连接";
+
+// 设备离线，操作失败
+"common_device_offline_operation_failed_tip" = "设备离线，操作失败";
+
+/* 设备已断联
+您的设备已断开连接，可能是以下原因：
+
+信号不稳定：
+1.确认路由器和家庭网络工作正常，并且设备在wifi的覆盖范围内。
+2.尝试开启手机蓝牙并且将手机靠近IrriSense，以通过蓝牙连接设备。
+
+电源断开
+请查看IrriSense电源是否连接正常，处于通电状态
+
+固件升级中：
+请等待固件升级完成后网络连接将自动恢复。
+ */
+"wr_up_offLine_tips" = "设备已断联.
+您的设备已断开连接，可能是以下原因:
+
+信号不稳定
+1. 确认路由器和家庭网络工作正常，并且设备在Wi-Fi的覆盖范围内.
+2. 尝试开启手机蓝牙并且将手机靠近IrriSense，以通过蓝牙连接设备.
+
+电源断开
+请查看IrriSense电源是否连接正常，处于通电状态.
+
+固件升级中:
+请等待固件升级完成后网络连接将自动恢复.";
+
+// 启动中
+"device_status_starting" = "启动中";
+
+// 恢复出厂设置
+"device_status_factory_restore" = "恢复出厂设置";
+
+// 关机中
+"device_status_shutdowning" = "关机中";
+
+// 故障中
+"device_status_in_trouble" = "故障中";
+
+// 待机
+"device_status_standby" = "待机";
+
+// 遥控中
+"device_status_remoting" = "遥控中";
+
+// 运行中
+"device_status_irrigating" = "运行中";
+
+// 暂停中
+"device_status_pause" = "暂停中";
+
+// 升级中
+"device_status_updating" = "升级中";
+
+// 缺水提醒
+"device_status_shortage_water_reminder" = "缺水提醒";
+
+// 在线
+"common_device_online" = "在线";
+
+// 离线
+"b1_main_device_off_line" = "离线";
+
+// IrriSense
+"common_irrigation_sense" = "IrriSense";
+
+// 请先创建一张用于灌溉的区域
+"common_wr_please_create_map" = "请先创建一张用于灌溉的区域";
+
+// 跳过
+"common_jump_over" = "跳过";
+
+// 1.为了更准确的建图效果请在无风天气进行区域绘制
+"wr_map_guide_content_1_1" = "1.为了更准确的建图效果请在无风天气进行区域绘制";
+
+// 遥控选择灌溉的点位
+"wr_map_guide_explain_2" = "遥控选择灌溉的点位";
+
+// 1.前后遥控调整IrriSense水流喷射的距离
+"wr_map_guide_content_2_1" = "1.前后遥控调整IrriSense水流喷射的距离";
+
+// 2.左右遥控调整IrriSense水流喷射的角度
+"wr_map_guide_content_2_2" = "2.左右遥控调整IrriSense水流喷射的角度";
+
+// 1.点击“加号”时将会生成一个灌溉点位，此时可以继续遥控选择点位创建
+"wr_map_guide_content_3_1" = "1.点击“加号”时将会生成一个灌溉点位，此时可以继续遥控选择点位创建";
+
+// 2.点击“后退”将取消最新灌溉点位的设置
+"wr_map_guide_content_3_2" = "2.点击“后退”将取消最新灌溉点位的设置";
+
+// 3.点击添加”√”完成灌溉区域的创建
+"wr_map_guide_content_3_3" = "3.点击添加”√”完成灌溉区域的创建";
+
+// 保存灌溉区域
+"wr_map_guide_explain_4" = "保存灌溉区域";
+
+// 1.保存灌溉区域时必须要把灌溉点位链接成闭合图形
+"wr_map_guide_content_4_1" = "1.保存灌溉区域时必须要把灌溉点位链接成闭合图形";
+
+// 2.保存过程中需要IrriSense保持与手机蓝牙连接，手机保持网络链接中否则会导致保存失败
+"wr_map_guide_content_4_2" = "2.保存过程中需要IrriSense保持与手机蓝牙连接，手机保持网络链接中否则会导致保存失败";
+
+// 进入建图
+"common_join_create_map" = "进入建图";
+
+// 点击开始建图将会打开设备水源，请在建图过程中保持IrriSense的正常出水
+"wr_map_create_tip_content" = "点击开始建图将会打开设备水源，请在建图过程中保持IrriSense的正常出水";
+
+// 开始建图
+"common_start_create_map" = "开始建图";
+
+// 还未完成区域的创建，确认返回将在下一次重新创建区域
+"wr_map_create_no_save_back_alert" = "还未完成区域的创建，确认返回将在下一次重新创建区域";
+
+// 请先选择区域上动效点位将区域链接成封闭图形后保存
+"wr_map_create_no_closed_alert" = "请先选择区域上动效点位将区域链接成封闭图形后保存";
+
+// 不可创建相交的点位，请继续移动
+"wr_map_create_path_corss_toast" = "不可创建相交的点位，请继续移动";
+
+// 喷灌距离已经调整到最大值
+"wr_map_create_distance_max_toast" = "喷灌距离已经调整到最大值";
+
+// 喷灌距离已经调整到最小值
+"wr_map_create_distance_min_toast" = "喷灌距离已经调整到最小值";
+
+// 添加成功
+"common_add_succeed" = "添加成功";
+
+// 保存区域
+"common_save_map" = "保存区域";
+
+// 保存区域异常，请重新尝试保存区域到IrriSense
+"wr_map_create_save_fail_retry_to_irri_toast" = "保存区域异常，请重新尝试保存区域到IrriSense";
+
+// 保存区域失败，请重新尝试
+"wr_map_create_save_fail_retry_toast" = "保存区域失败，请重新尝试";
+
+// 保存区域中，请耐心等候
+"wr_map_create_saving_toast" = "保存区域中，请耐心等候";
+
+// 还没有保存灌溉区域
+"wr_map_create_no_save_toast" = "还没有保存灌溉区域";
+
+// 去保存
+"common_to_save" = "去保存";
+
+// 重置区域
+"wr_reset_map" = "重置区域";
+
+// 请先链接IrriSense后，重新尝试
+"common_please_connect_wr_alert" = "请先链接IrriSense后，重新尝试";
+
+// 去设置连接【名称】的蓝牙
+"common_to_connect_wr_alert" = "去设置连接 %@ 的蓝牙";
+
+// 正在执行灌溉计划，请停止任务后尝试
+"common_stop_task_alert" = "正在执行灌溉计划，请停止任务后尝试";
+
+// 删除区域须知
+"common_delete_map_title" = "删除区域须知";
+
+// 删除区域后不影响正在执行的灌溉计划，不会执行已设置未来的灌溉计划
+"common_delete_map_content" = "删除区域后不影响正在执行的灌溉计划，不会执行已设置未来的灌溉计划";
+
+// None
+"None" = "None";
+
+// 删除区域成功
+"common_delete_map_success" = "删除区域成功";
+
+// 获取天气
+"common_get_weather" = "获取天气";
+
+// 定位权限（天气）
+"common_weather_authorty" = "定位权限";
+
+// 请打开定位权限以完成天气信息获取
+"common_open_location_permission_alert" = "请打开定位权限以完成天气信息获取";
+
+//检测到水压不足，请确保水源开关为全开，水管无弯折，连接处没有水流泄露
+"device_status_shortage_water_reminder_content" ="检测到水压不足，请确保水源开关为全开，水管无弯折，连接处没有水流泄露";
+
+// 冬季即将来临，我们可以帮助您排水并防止水管和 IrriSense 管道结冰。
+"wr_winter_mode_reminder_content" = "冬季即将来临，我们可以帮助您排水并防止水管和 IrriSense 管道结冰。";
+
+// 取消本次提醒
+"common_cancel_once_reminder" = "取消本次提醒";
+
+// 排水模式
+"device_mode_drainage" = "排水模式";
+
+// 请先关闭水源开关并保持电源连接，确认以上操作后击开始排水
+"wr_winter_mode_reminder_content_tip" = "请先关闭水源开关并保持电源连接，确认以上操作后击开始排水";
+
+// 开始排水
+"wr_start_drainage" = "开始排水";
+
+// 排水中
+"wr_drainage_in_progress" = "排水中";
+
+// IrriSense阀门全开，将会在区域范围内排水
+"wr_irrigation_machine_drain_desc" = "IrriSense阀门全开，将会在区域范围内排水";
+
+// 排水超时
+"wr_drain_timeout" = "排水超时";
+
+// 你的水源开关可能没有完全关闭，请检查关闭水源
+"wr_may_not_be_close_water_please_check" = "你的水源开关可能没有完全关闭，请检查关闭水源";
+
+// 排水完成
+"wr_drain_completed" = "排水完成";
+
+// 排水完成后管路仍会有残余水流，请拆卸水管后手动排出
+"wr_drain_completed_remove_pipe" = "排水完成后管路仍会有残余水流，请拆卸水管后手动排出";
+
+// 取消本次排水
+"wr_cancel_drain_water" = "取消本次排水";
+
+// 您还没有灌溉计划，点击前往创建
+"wr_click_position_to_create_a_cycle_task" = "您还没有灌溉计划，点击前往创建";
+
+// 您还没有灌溉计划，点击前往创建
+"wr_click_to_create_a_cycle_task" = "您还没有灌溉计划，点击前往创建";
+
+// 下次灌溉
+"wr_next_task" = "下次灌溉";
+
+// 当前进度
+"common_current_progress" = "当前进度";
+
+// 剩余时长
+"common_remaining_time" = "剩余时长";
+
+// 灌溉深度
+"wr_irrigation_water_volume" = "灌溉深度";
+
+// 灌溉计划
+"wr_irrigation_plan" = "灌溉计划";
+
+// IrriSense会自动执行已设置的灌溉计划
+"wr_irrigation_plan_desc" = "IrriSense会自动执行已设置的灌溉计划";
+
+// 暂无灌溉计划
+"wr_no_cycle_plan" = "暂无灌溉计划";
+
+// 开启
+"wr_enable" = "开启";
+
+// 关闭
+"wr_disable" = "关闭";
+
+// 创建计划
+"wr_create_plan" = "创建计划";
+
+// 1. IrriSense 会自动执行设定的浇水计划，支持早上、下午各一次浇水计划。
+"wr_irrigation_plan_rule" = "1. IrriSense 会自动执行设定的浇水计划，支持早上、下午各一次浇水计划。";
+
+// 全选
+"common_select_all" = "全选";
+
+// 选择时间
+"common_select_time" = "选择时间";
+
+// 天气感应
+"wr_weather_reminder" = "天气感应";
+
+// 是
+"common_affirm" = "是";
+
+// 否
+"common_negate" = "否";
+
+// 取消
+"common_cancel" = "取消";
+
+// 应用
+"common_apply" = "应用";
+
+// 1.开启后，IrriSense联网时将在遇到（降雨，大风）等天气，自动跳过灌溉计划
+"common_weather_sensing_explain" = "1.开启后，IrriSense联网时将在遇到（降雨，大风）等天气，自动跳过灌溉计划";
+
+// 您已经有相同时间段的任务，重复创建仅执行第一个任务
+"wr_you_already_have_tasks_hint" = "您已经有相同时间段的任务，重复创建仅执行第一个任务";
+
+// 灌溉计划已启用，删除计划请先关闭本次计划
+"wr_delete_task_rules" = "灌溉计划已启用，删除计划请先关闭本次计划";
+
+// 选择灌溉深度
+"wr_select_the_amount_of_water" = "选择灌溉深度";
+
+// 遥控灌溉
+"wr_remote_control_irrigation" = "遥控灌溉";
+
+// 正在执行灌溉任务，请勿遥控
+"wr_remote_control_rule" = "正在执行灌溉任务，请勿遥控";
+
+// 请在浇灌任务完成后升级
+"wr_OTA_tip_task" = "请在浇灌任务完成后升级";
+
+// 升级过程中，不要退出当前界面或熄灭屏幕
+"wr_ota_update_tips" = "升级过程中，不要退出当前界面或熄灭屏幕";
+
+// 去设置连接【名称】的蓝牙
+"wr_go_to_settings_to_connect_to_the_bluetooth_of" = "去设置连接 %@ 的蓝牙";
+
+// 正在进行灌溉任务，请结束任务后尝试
+"wr_vegetation_irrigation_rule" = "正在进行灌溉任务，请结束任务后尝试";
+
+// IrriSense消息
+"wr_irrigating_machine_message" = "IrriSense消息";
+
+// 缺水提醒
+"wr_shortage_water_reminder" = "缺水提醒";
+
+// 排水提醒
+"wr_drainage_alert" = "排水提醒";
+
+// [XXX]设备水压不足，请确保水龙头全开，水管无弯折，连接处没有水流溢出
+"wr_water_pressure_insufficient_please_check" = "设备水压不足，请确保水龙头全开，水管无弯折，连接处没有水流溢出";
+
+// 灌溉记录
+"wr_irrigation_records" = "灌溉记录";
+
+// 区域管理
+"wr_map_management" = "区域管理";
+
+// 灌溉距离校准
+"wr_nozzle_calibration" = "灌溉距离校准";
+
+// 灌溉设置
+"wr_irrigation_setting" = "灌溉设置";
+
+// 排水模式
+"wr_winter_mode" = "排水模式";
+
+// IrriSense通知
+"wr_irrigating_machine_reminder" = "IrriSense通知";
+
+// 打开提醒后，当检查水源并“水压不足，无水时“通知给您
+"wr_shortage_water_reminder_desc" = "打开提醒后，当检查水源并“水压不足，无水时“通知给您";
+
+// 打开提醒后，当检测到天气不满足任务执行条件时，将通知给您
+"wr_weather_reminder_desc" = "打开提醒后，当检测到天气不满足任务执行条件时，将通知给您";
+
+// 没有记录
+"common_no_record" = "没有记录";
+
+// 请链接[IrriSense]后查询
+"wr_please_link_irrigating_machine_to_inquire" = "请链接[IrriSense]后查询";
+
+// 总次数
+"wr_total_number_of_times" = "总次数";
+
+// 总用水量
+"wr_total_water_consumption" = "总用水量";
+
+// 平均用水量
+"wr_average_water_consumption" = "平均用水量";
+
+// 灌溉耗时
+"wr_time_consuming_of_water" = "灌溉耗时";
+
+// 灌溉用水
+"wr_water_for_irrigation" = "灌溉用水";
+
+// 任务状态
+"wr_task_status" = "任务状态";
+
+// 完成
+"common_complete" = "完成";
+
+// 停止
+"common_stop" = "停止";
+
+// 缺水
+"wr_lack_of_water" = "缺水";
+
+// 单周灌溉深度
+"wr_irrigation_depth_per_week" = "单周灌溉深度";
+
+// 单次灌溉圈数
+"wr_number_of_single_irrigation_cycles" = "单次灌溉圈数";
+
+// 选择您一周想要灌溉多少水
+"wr_choose_how_much_irrigate_water_week" = "选择您一周想要灌溉多少水";
+
+// 自研阀版本
+"wr_custom_valve_version" = "自研阀版本";
+
+// 请通过按钮调节水落点到2米位置后点击保存
+"wr_please_adjust_water_point_to_2m" = "请通过按钮调节水落点到2米位置后点击保存";
+
+// 请确保水落点与IrriSense的距离为2m
+"wr_please_ensure_distance_water_drop_and_machine" = "请确保水落点与IrriSense的距离为2m";
+
+// 请选择时间
+"wr_please_select_time" = "请选择时间";
+
+// 周期任务
+"wr_cycle_task" = "周期任务";
+
+// 灌溉总面积
+"wr_irrigation_total_area" = "灌溉总面积";
+
+// 点位过近，无法创建点位
+"wr_add_point_fail_near_toast" = "点位过近，无法创建点位";
+
+// 下一次浇灌计划
+"wr_irrigation_plan_next" = "下一次浇灌计划";
+
+// 遥控操作超时，请重新进入遥控模式
+"wr_manual_remote_timeout_alert" = "遥控操作超时，请重新进入遥控模式";
+
+// 长时间未控制，已退出地图设置，请重新进入编辑
+"wr_create_map_timeout_alert" = "长时间未控制，已退出地图设置，请重新进入编辑";
+
+// 是否重置区域进行重新编辑
+"common_reset_map_alert" = "是否重置区域进行重新编辑";
+
+// 至少保留一个
+"common_choose_at_least_one" = "至少保留一个";
+
+// 欢迎使用IrriSense安装引导
+"common_wr_install_guide_welcome" = "欢迎使用IrriSense安装引导";
+
+// 为确保灌溉效果和信号强度，请严格遵守如下要求安装指引，否则可能需要重新安装
+"common_wr_install_guide_welcome_details" = "为确保灌溉效果和信号强度，请严格遵守如下要求安装指引，否则可能需要重新安装";
+
+// 开始安装
+"common_start_install" = "开始安装";
+
+// 安装位置选择
+"common_select_position_install" = "安装位置选择";
+
+// 帮你确认安装位置
+"common_help_confirm_position" = "帮你确认安装位置";
+
+// 可选择光圈位置闭合
+"common_map_close_taost" = "可选择光圈位置闭合";
+
+// 确认在此点位闭合区域？如果不是请取消提示继续移动创建其他点位
+"common_create_map_area_close_alert" = "确认在此点位闭合区域？如果不是请取消提示继续移动创建其他点位";
+
+// 浇灌时间
+"wr_irrigation_time_title" = "浇灌时间";
+
+// 为防止地表径流，建议您设置至少一周3次
+"wr_task_set_reminder" = "为防止地表径流，建议您设置至少一周3次";
+
+// 编辑
+"common_edit" = "编辑";
+
+// 请先选择需要编辑的任务
+"wr_please_select_task" = "请先选择需要编辑的任务";
+
+// 可设置AM03:00-12:00时间段内的浇灌时间
+"wr_task_irrigation_time_reminder_am" = "可设置AM03:00-12:00时间段内的浇灌时间";
+
+// 可设置PM13:00-23:00时间段内的浇灌时间
+"wr_task_irrigation_time_reminder_pm" = "可设置PM13:00-23:00时间段内的浇灌时间";
+
+// 可设置AM03:00-12:00时间段内的浇灌时间
+"wr_task_irrigation_time_reminder_am_12" = "可设置AM03:00-12:00时间段内的浇灌时间";
+
+// 可设置PM13:00-23:00时间段内的浇灌时间
+"wr_task_irrigation_time_reminder_pm_12" = "可设置PM13:00-23:00时间段内的浇灌时间";
+
+// 为达到最佳草坪浇灌的效果，减少水分蒸发和风的影响，建议在早晨喷灌 可以为上午、下午分别设定各自的浇灌时间，以确保浇灌计划的顺利执行。
+"wr_task_create_reminder" = "为达到最佳草坪浇灌的效果，减少水分蒸发和风的影响，建议在早晨喷灌可以为上午、下午分别设定各自的浇灌时间，以确保浇灌计划的顺利执行。";
+
+// 用水限制
+"wr_water_limit" = "用水限制";
+
+// 每周重复
+"wr_weekly_repeated" = "每周重复";
+
+// 暂不设置
+"wr_task_not_set_yet" = "暂不设置";
+
+// 雨淋感应
+"wr_rain_sensor" = "雨淋感应";
+
+// 打开开关，雨淋传感器会在浇灌任务中检测降雨情况
+"wr_rain_sensor_faq" = "打开开关，雨淋传感器会在浇灌任务中检测降雨情况";
+
+//1.IrriSense联网时，开启天气感应，将在遇到（降雨，大风等）的天气，将向你推送天气信息,并自动跳过喷灌计划
+//2.IrriSense未联网时，开启天气感应，将在遇到（降雨，大风等）的天气，提醒您调整任务
+"wr_weather_sensor_faq" = "1. IrriSense联网时，开启天气感应，将在遇到（降雨，大风等）的天气，将向你推送天气信息,并自动跳过喷灌计划.
+2. IrriSense未联网时，开启天气感应，将在遇到（降雨，大风等）的天气，提醒您调整任务.";
+
+//1.IrriSense联网时，开启天气感应，将在遇到（降雨，大风等）的天气，将向你推送天气信息,并自动跳过喷灌计划
+"wr_weather_sensor_faq_1" = "1. IrriSense联网时，开启天气感应，将在遇到（降雨，大风等）的天气，将向你推送天气信息,并自动跳过喷灌计划.";
+
+//打开提醒后，当检查到进入寒冷天气后将会通知给您进行浇灌单元的排水
+"wr_winter_mode_reminder_desc" = "打开提醒后，当检查到进入寒冷天气后将会通知给您进行浇灌单元的排水";
+
+// 请选择您想要的数量
+"wr_irrigate_depth_reminder" = "请选择您想要的数量";
+
+// 节约
+"wr_conserve" = "节约";
+
+// 一般的
+"wr_general" = "一般的";
+
+// 充足的
+"wr_ample" = "充足的";
+
+// 重的
+"wr_heavy" = "重的";
+
+// 适合凉爽季节或地区
+"wr_irrigate_depth_reminder_desc_conserve" = "适合凉爽季节或地区";
+
+// 适用于大多数草坪
+"wr_irrigate_depth_reminder_desc_general" = "适用于大多数草坪";
+
+// 适合炎热季节或地区
+"wr_irrigate_depth_reminder_desc_ample" = "适合炎热季节或地区";
+
+// 适用于干燥天气和严重缺水地区
+"wr_irrigate_depth_reminder_desc_heavy" = "适用于干燥天气和严重缺水地区";
+
+// 不执行
+"wr_next_task_nonexecution" = "不执行";
+
+// 周用水量
+"wr_week_water_yield" = "周用水量";
+
+// 总节水量
+"wr_total_water_saving" = "总节水量";
+
+// 节省（1L）矿泉水
+"wr_save_mineral_water" = "节省（1L）矿泉水";
+
+// 瓶
+"common_bottle" = "瓶";
+
+// 灌溉面积
+"wr_irrigation_area" = "灌溉面积";
+
+// 浇灌完成
+"wr_irrigation_complete" = "浇灌完成";
+
+
+
+
+
+// / ----------- 2024.12.20 - 泳池 未翻译 ------------
+///\n泳池尺寸
+"common_pool_dimensions" = "泳池尺寸";
+
+// 深度
+"common_depth" = "深度";
+// 当前密码长度超过限制
+"common_pw_rule_length_over" = "当前密码长度超过限制";
+// 当前密码长度超过限制
+"common_tip_pwd_length_exceeds_limit" = "当前密码长度超过限制";
+// 密码包含非法特殊字符
+"common_pw_rule_have_special" = "密码包含非法特殊字符";
+
+// 全局
+"device_hero_mode" = "全局";
+// 水面
+"x9_surface_mode" = "水面";
+// 水下
+"device_underwater_mode" = "水下";
+// 自动
+"x9_clean_mode_auto" = "自动";
+
+
+
+
+
+// / ----------- 2024.12.18 - 框架 ------------
+///\n若需使用该设备，请先升级设备固件
+"common_device_force_ota_alert" = "若需使用该设备，请先升级设备固件";
+
+// 如需使用当前设备，需升级到当前版本，退出OTA后将返回首页，是否继续退出？
+"common_no_save_ota_alert" = "如需使用当前设备，需升级到当前版本，退出固件升级后将返回首页，是否继续退出？";
+
+// 去升级
+"common_goto_ota" = "去升级";
+
+// 继续升级
+"common_continue_ota" = "继续升级";
+
+// 返回首页
+"common_back_home" = "返回首页";
+
+// 水下通讯版本
+"device_acoustic_firmware_version" = "水下通讯版本";
+// 启用计划
+"common_enable_schedule" = "启用计划";
+// 总清洁面积
+"common_total_cleaning_area" = "总清洁面积";
+// 明天
+"common_tomorrow" = "明天";
+
+// 设备离线，操作失败
+"common_operation_failed_tip_offline" = "设备离线，操作失败";
+
+// / ----------- 2025.01.08 - 远程控制 ------------
+///\n设备控制请求
+"common_control_request" = "设备控制请求";
+
+// Aiper云平台正在请求对【设备名称】的控制权限，是否同意平台对您的设备进行控制？
+"common_remote_request_alert" = "Aiper云平台正在请求对%@的控制权限，是否同意平台对您的设备进行控制？";
+
+// 远程控制开始
+"common_start_remote_alert" = "远程控制开始";
+
+// 远程控制结束
+"common_stop_remote_alert" = "远程控制结束";
+
+// Aiper云平台正在控制你的设备
+"common_controlling_remote_alert" = "Aiper云平台正在控制你的设备";
+
+// Aiper云平台结束了对您的设备的控制
+"common_finish_remote_alert" = "Aiper云平台结束了对您的设备的控制";
+
+// 请将设备放入水中，平台将结束对设备的控制
+"common_finish_auth_cloud_alert" = "请将设备放入水中，平台将结束对设备的控制";
+
+// 结束
+"common_finish" = "结束";
+
+// 同意
+"common_agree" = "同意";
+
+// 拒绝
+"common_reject" = "拒绝";
+
+
+
+// 其他
+"common_other" = "其他";
+// 恢复出厂设置
+"common_factory_reset" = "恢复出厂设置";
+// 请选择测试脚本
+"device_select_script" = "请选择测试脚本";
+// 变频
+"device_variable_frequency" = "变频";
+// 直线运动
+"device_linear_motion" = "直线运动";
+// 防跌落脚本
+"device_fall_protection_script" = "防跌落脚本";
+// 横移脚本
+"device_traversing_script" = "横移脚本";
+// 上浮&下潜
+"device_floating_diving" = "上浮&下潜";
+// 沿边距离设置
+"device_edge_distance" = "沿边距离设置";
+// 清洁时长
+"common_clean_duration" = "清洁时长";
+// 池壁清洁时长
+"device_wall_clean_duration" = "池壁清洁时长";
+// 水线清洁时长
+"device_waterline_clean_duration" = "水线清洁时长";
+// 极限沿边
+"device_extreme_edge" = "极限沿边";
+// 池底沿边时尽可能贴合池壁
+"device_extreme_edge_desc" = "池底沿边时尽可能贴合池壁";
+// 宽距沿边
+"device_wide_edge_distance" = "宽距沿边";
+// 池底沿边时与池壁保持一定的间隔
+"device_wide_edge_distance_desc" = "池底沿边时与池壁保持一定的间隔";
+// 超级节能
+"device_super_eco" = "超级节能";
+// 可有效提高机器人的续航能力，但会影响清洁效率，不建议在泳池过于浑浊时使用。
+"device_super_eco_desc" = "可有效提高机器人的续航能力，但会影响清洁效率，不建议在泳池过于浑浊时使用。";
+// 随机模式
+"device_random_route" = "随机模式";
+// 根据泳池环境随机采取清洁路径，能有效提升复杂泳池环境下的清洁覆盖率。
+"device_random_route_desc" = "根据泳池环境随机采取清洁路径，能有效提升复杂泳池环境下的清洁覆盖率。";
+// 电量偏低
+"device_low_battery_title" = "电量偏低";
+// 低电量可能会造成设备运动不稳定、速度变慢，是否开始执行任务？
+"device_low_battery_msg" = "低电量可能会造成设备运动不稳定、速度变慢，是否开始执行任务？";
+
+// 发送成功
+"common_operate_success" = "发送成功";
+//维护成功
+"common_operate_parts_maintenance_success" = "维护成功";
+
+//更换成功
+"common_operate_parts_replacement_success" = "更换成功";
+
+
+// 请输入1-200之间的数字
+"common_number_between_tip" = "请输入1-%@之间的数字";
+// 请输入2位以内的小数
+"common_decimal_2_tip" = "请输入2位以内的小数";
+
+// 请输入1-200之间的数字
+"common_number_between_tip2" = "请输入%@-%@之间的数字";
+
+// 功能检测
+"device_functional_test" = "功能检测";
+// 自动检测
+"device_auto_test" = "自动检测";
+// 手动检测
+"device_manual_test" = "手动检测";
+// 测试脚本
+"device_test_script" = "测试脚本";
+// 深度清洁设置
+"device_deep_clean_settings" = "深度清洁设置";
+// 传感器设置
+"device_sensor_settings" = "传感器设置";
+// 阈值设置
+"device_motor_threshold_settings" = "阈值设置";
+// 速度设置
+"common_speed_settings" = "速度设置";
+
+// 今天不再提醒
+"common_not_remind_again_today" = "今天不再提醒";
+
+// 找不到可用的WiFi ?
+"common_can_not_find_wifi" = "找不到可用的WiFi ?";
+
+// 暂无保存的列表
+"common_no_saved_list" = "暂无保存的列表";
+
+// 此型号设备仅支持蓝牙连接，请使用蓝牙查找设备后连接
+"device_only_support_ble" = "此型号设备仅支持蓝牙连接，请使用蓝牙查找设备后连接";
+
+
+
+// / ----------- 2025.02.13 - 框架 ------------
+///\n设备已被Aiper云平台解绑
+"common_clound_auth_unbind_device_alert" = "设备已被Aiper云平台解绑";
+
+// 需要访问位置信息以显示附近天气
+"common_need_use_location_tip" = "需要访问位置信息以显示附近天气";
+
+// 每日天气预报
+"common_daily_weather_forecast" = "每日天气预报";
+
+// 最低
+"common_lowest" = "最低";
+
+// 最高
+"common_highest" = "最高";
+
+// 天气详情
+"common_weather_detail" = "天气详情";
+
+
+// / ----------- 2025.02.19 - 框架 ------------
+///\n计划
+"deivce_scheduled_mode" = "计划清洁";
+
+// 自动
+"device_clean_mode_auto_short" = "自动";
+
+// 请确认机器人和基站保持在线
+"common_bound_link_result_device_online_tip" = "请确认机器人和基站保持在线";
+
+
+// 云端处理异常，请重试
+"common_bound_link_result_remote_fail" = "云端处理异常，请重试";
+
+
+
+
+// / ----------- 2025.03.25 - W2药剂 ------------
+///\n水质治理
+"w2_water_improvement" = "水质治理";
+
+// 科学的泳池护理从这里开始，计算您泳池所需的准确化学药剂。
+"w2_water_improvement_describe" = "科学的泳池护理从这里开始，计算您泳池所需的准确化学药剂。";
+
+// 当前pH
+"w2_agent_current_ph" = "当前pH";
+
+// 目标pH
+"w2_agent_target_ph" = "目标pH";
+
+// 推荐目标范围是7.2-7.8，建议保持在7.5。
+"w2_agent_target_ph_describe" = "推荐目标范围是7.2-7.8，建议保持在7.5。";
+
+// 泳池注水量
+"w2_agent_volume_water" = "泳池注水量";
+
+// 当前泳池的pH值
+"w2_agent_current_ph_placeholder" = "当前泳池的pH值";
+
+// 输入目标pH值
+"w2_agent_target_ph_placeholder" = "输入目标pH值";
+
+// 当前泳池注水量
+"w2_agent_volume_water_placeholder" = "当前泳池注水量";
+
+// 目标余氯增量
+"w2_agent_target_chlorine_title" = "目标余氯增量";
+
+// 目标范围是1-4ppm
+"w2_agent_target_range_tip" = "目标范围是%@-%@ppm";
+
+// 药剂氯含量
+"w2_agent_content" = "药剂氯含量";
+
+// 所使用药剂的氯含量百分比
+"w2_agent_content_percentage_tip" = "所使用药剂的氯含量百分比";
+
+// 请输入XXX-XXX之间的值
+"w2_agent_input_range_value" = "请输入%@-%@之间的值";
+
+// 当前泳池的总碱度
+"w2_agent_total_alkalinity_title" = "当前泳池的总碱度";
+
+// 总碱度直接影响化学药剂的用量，建议先使用总碱度检测工具进行检测，然后填入最新且准确的总碱度。
+"w2_agent_total_alkalinity_alter_content" = "总碱度直接影响化学药剂的用量，建议先使用总碱度检测工具进行检测，然后填入最新且准确的总碱度。";
+
+// 推荐药剂
+"w2_agents_recommended" = "推荐药剂";
+
+// pH升高剂/苏打/纯碱/洗涤碱
+"w2_agents_result_increaser" = "pH升高剂/苏打/纯碱/洗涤碱";
+
+// 主要成分是碳酸钠（苏打、纯碱、洗涤碱或碱灰），可以用于提升泳池的pH值和总碱度。
+"w2_agents_result_increaser_describe" = "主要成分是碳酸钠（苏打、纯碱、洗涤碱或碱灰），可以用于提升泳池的pH值和总碱度。";
+
+// pH降低剂/干酸
+"w2_agents_result_reducer" = "pH降低剂/干酸";
+
+// 主要成分是硫酸氢钠（干酸），可以用于降低水的pH值和碱度。
+"w2_agents_result_reducer_describe" = "主要成分是硫酸氢钠（干酸），可以用于降低水的pH值和碱度。";
+
+// 氯基消毒剂/氯片
+"w2_agents_chlorine_calculate_result_title" = "氯基消毒剂/氯片";
+
+// 含氯消毒剂/漂白剂或者氯片，能有效抑制藻类和细菌的生长，使泳池变得清澈。
+"w2_agents_chlorine_calculate_result_tip" = "含氯消毒剂/漂白剂或者氯片，能有效抑制藻类和细菌的生长，使泳池变得清澈。";
+
+// 氯基消毒剂的氯含量通常情况下为50%，具体含量请以产品包装或标签标注信息为准。
+"w2_agents_chlorine_percentage_alter_content" = "氯基消毒剂的氯含量通常情况下为50%，具体含量请以产品包装或标签标注信息为准。";
+
+// 指本次需补充的游离氯浓度值。
+"w2_agents_target_chlorine_alter_content" = "指本次需补充的游离氯浓度值。";
+
+// 重新计算
+"w2_agents_calculate_again" = "重新计算";
+
+// 推荐配方
+"w2_agents_formula_recommended" = "推荐配方";
+
+// 记住本次结果
+"w2_agents_record_result" = "记住本次结果";
+
+// 已记录本次结果
+"w2_agents_record_complete" = "已记录本次结果";
+
+// 原始pH值
+"w2_agents_original_ph" = "原始pH值";
+
+// 主成分含量
+"w2_agents_major_component" = "主成分含量";
+
+// 余氯变化
+"w2_agents_chlorine_change" = "余氯变化";
+
+// 时间
+"w2_agents_record_details_time" = "时间";
+
+// 计算
+"w2_agents_calculate" = "计算";
+
+// 当前总碱度
+"w2_agents_current_alkalinity" = "当前总碱度";
+
+// 酸碱度
+"w2_pH_level" = "酸碱度";
+
+// 余氯
+"w2_residual_chlorine" = "余氯";
+
+// 云端处理异常，请重试
+"common_bound_link_result_remote_fail" = "云端处理异常，请重试.";
+
+// / ----------- 2025.03.17 - 框架 ------------
+///\n隐私与安全
+"common_privacy_security" = "隐私与安全";
+
+// 用户体验改进计划
+"common_user_exprience_program" = "用户体验改进计划";
+
+// 访问地理位置
+"common_access_geographical_locations" = "访问地理位置";
+
+// 蓝牙
+"common_bluetooth" = "蓝牙";
+
+// 访问相册
+"common_access_photos" = "访问相册";
+
+// 访问相机
+"common_access_camera" = "访问相机";
+
+// 法律信息
+"com_legal_information" = "法律信息";
+
+// 系统权限
+"common_system_permissions" = "系统权限";
+
+// 服务权限
+"common_service_permissions" = "服务权限";
+
+// 设备日志拉取
+"common_retrieving_device_logs" = "设备日志拉取";
+
+// 已开启
+"common_enabled" = "已开启";
+
+// 已关闭
+"common_disabled" = "已关闭";
+
+// 开启设备日志拉取权限后，Aiper云平台可拉取您的设备日志用于解决您设备的相关问题，是否继续开启？
+"common_enable_device_log_permission_dialog_message" = "开启设备日志拉取权限后，Aiper云平台可拉取您的设备日志用于解决您设备的相关问题，是否继续开启？";
+
+// 我们诚挚的邀请您加入Aiper用户体验改进计划，以帮助我们提升我们的产品和服务
+"common_join_user_experience_program_desc" = "我们诚挚的邀请您加入Aiper用户体验改进计划，以帮助我们提升我们的产品和服务";
+
+// 加入用户体验改进计划
+"common_join_user_experience_program" = "加入用户体验改进计划";
+
+// 退出用户改进计划
+"common_not_join_user_experience_program" = "退出用户改进计划";
+
+// 感谢您加入用户改进计划
+"common_thanks_join_user_experience_program" = "感谢您加入用户改进计划";
+
+// 是否确认退出用户体验改进计划？
+"common_comfirm_not_join_user_experience_program" = "是否确认退出用户体验改进计划？";
+
+// 关闭设备日志拉取权限后，Aiper云平台不可拉取您的设备日志用于解决您设备的相关问题，是否继续关闭？
+"common_disable_retrieving_device_logs_dialog_message" = "关闭设备日志拉取权限后，Aiper云平台不可拉取您的设备日志用于解决您设备的相关问题，是否继续关闭？";
+
+// 当前账户有未办结答服工单，请联系答服完成工单后再进行注销当前账户有未办结答服工单，请联系答服完成工单后再进行注销
+"common_delete_account_dialog_have_workOrder" = "当前账户有未办结答服工单，请联系答服完成工单后再进行注销当前账户有未办结答服工单，请联系答服完成工单后再进行注销";
+
+// 账户注销中...
+"common_deleting_account" = "账户注销中...";
+
+// 我们已经发送确认邮件到
+"common_deleting_account_desc_header" = "我们已经发送确认邮件到";
+
+// 按照电子邮件中的说明操作，完成操作后即可删除当前账户。
+"common_deleting_account_desc_tail" = "按照电子邮件中的说明操作，完成操作后即可删除当前账户。";
+
+// 用户体验计划更新内容
+"common_user_exprience_pprogram_update_notice" = "用户体验计划更新内容";
+
+// 8-20个字符
+"common_pw_rule_length_20" = "8-20个字符";
+
+// 至少包含字母、数字、特殊字符中的两种
+"common_pw_rule_two_more_formats" = "必须包含「字母、数字、特殊字符」中的至少两种";
+
+// 特殊字符可包含~!@#$%^&*()-+*.=?<>_ |/:
+"common_pw_rule_support_characters" = "使用允许的特殊字符：~!@#$%^&*()-+*.=?<>_ |/:";
+
+
+
+
+// 手动检测
+"device_manual_test" = "手动检测";
+// 阈值设置
+"device_motor_threshold_settings" = "阈值设置";
+// 速度设置
+"common_speed_settings" = "速度设置";
+// 设置测试条件
+"common_test_condition_settings" = "设置测试条件";
+// 角速度
+"device_angular_velocity" = "角速度";
+// 水泵转速
+"device_pump_rotational_speed" = "水泵转速";
+// 水泵角度
+"device_pump_angle" = "水泵角度";
+// 方向
+"common_direction" = "方向";
+// 检测中
+"common_testing" = "检测中";
+// 测试结果
+"common_test_result" = "测试结果";
+// 上传日志
+"common_log_upload" = "上传日志";
+// 驱动轮阈值
+"device_driving_wheels_threshold" = "驱动轮阈值";
+// 水泵电机阈值
+"device_pump_motor_threshold" = "水泵电机阈值";
+// 转向电机阈值
+"device_steering_motor_threshold" = "转向电机阈值";
+
+
+// 移除泡沫条
+"device_foam_noodle_remove_title" = "移除泡沫条";
+// 安装泡沫条
+"device_foam_noodle_install_title" = "安装泡沫条";
+// 开始体验
+"common_get_start" = "开始体验";
+
+// 正在上传日志
+"common_log_uploading" = "正在上传日志";
+// 日志上传过程请保持设备网络连接正常，设备将自动完成日志的上传。
+"common_log_uploading_detail" = "日志上传过程请保持设备网络连接正常，设备将自动完成日志的上传。";
+// 连接异常，请重新检测
+"manual_test_connect_error" = "连接异常，请重新检测";
+// 重新检测
+"manual_test_detect_again" = "重新检测";
+// 清洁区域
+"manual_test_clean_area" = "清洁区域";
+// 由于长时间未操作，设备已自动退出检测模式，请推出本页面后重试。
+"manual_test_time_out" = "由于长时间未操作，设备已自动退出检测模式，请推出本页面后重试。";
+
+// 选择重复日期
+"common_select_repeat_weeks" = "选择重复日期";
+
+// 选择清洁时间
+"common_select_clean_task_duration" = "选择清洁时间";
+
+// 开始时间
+"common_device_start_time" = "开始时间";
+
+// 结束时间
+"common_device_end_time" = "结束时间";
+
+// 为确保彻底清洁效果，建议每次作业时间不少于2小时
+"device_clean_task_plan_Suggestion" = "为确保彻底清洁效果，建议每次作业时间不少于3.5小时";
+
+// 创建计划
+"device_create_clean_schedule" = "创建计划";
+
+// 编辑计划
+"device_update_clean_plan" = "编辑计划";
+
+// 泡沫条（白色/橙色）包含在设备的过滤盒中。2. 使用前从过滤盒中取出泡沫条，以免滚刷卡住
+"device_foam_noodle_remove_tip" = "1. 泡沫条（白色/橙色）包含在设备的过滤盒中.
+2. 使用前从过滤盒中取出泡沫条，以免滚刷卡住.";
+
+// 移除泡沫条
+"device_foam_noodle_remove_title" = "移除泡沫条";
+
+// 安装泡沫条
+"device_foam_noodle_install_title" = "安装泡沫条";
+
+// 将泡沫条放在游泳池的撇渣器端口中，以免卡住。
+"device_foam_noodle_install_tip" = "将泡沫条放在游泳池的撇渣器端口中，以免卡住。";
+
+// 仅一次
+"common_only_once" = "仅一次";
+
+// 现在还没有创建清洁计划
+"common_no_clean_schedule_message" = "现在还没有创建清洁计划";
+
+// 您已创建了允许的最大计划。请删除未使用的计划以创建新计划。
+"common_toast_plans_max_limit" = "您已创建了允许的最大计划。请删除未使用的计划以创建新计划。";
+
+// 自适应路径
+"device_clean_path_adaptive_title" = "自适应路径";
+// 自适应路径非常适合碗形、菱形或复杂的池底。该模式可防止死循环和遗漏点，最大限度地扩大不规则布局的清洁范围。
+"device_clean_path_adaptive_desc" = "自适应路径非常适合碗形、菱形或复杂的池底。该模式可防止死循环和遗漏点，最大限度地扩大不规则布局的清洁范围。";
+// 植被降温
+"wr_cooling_mode" = "植被降温";
+
+// 快速扫掠您的草坪，达到降温效果
+"wr_cooling_mode_detail" = "快速扫掠您的草坪，达到降温效果";
+
+
+// / ----------- 2025.05.15 - 新增 ------------
+// 进入设备
+"home_enter_device" = "进入设备";
+// 我的泳池
+"home_my_pool" = "我的泳池";
+// 请输入您的账号需要绑定的邮箱
+"comon_cn_account_bind_email_prompt" = "请输入您的账号需要绑定的邮箱.";
+// 重量单位
+"common_weight_unit" = "重量单位";
+// 深度单位
+"common_depth_unit" = "深度单位";
+
+// / ----------- 2025.05.26 - 新增 ------------
+// 暴风雪
+"weather_blizzard" = "暴风雪";
+
+// 扬沙
+"weather_blowing_dust" = "扬沙";
+
+// 高吹雪
+"weather_blowing_snow" = "高吹雪";
+
+// 和风
+"weather_breezy" = "和风";
+
+// 晴朗
+"weather_clear" = "晴朗";
+
+// 阴天
+"weather_cloudy" = "阴天";
+
+// 毛毛雨
+"weather_drizzle" = "毛毛雨";
+
+// 小雪阵
+"weather_flurries" = "小雪阵";
+
+// 雾天
+"weather_foggy" = "雾天";
+
+// 冻毛毛雨
+"weather_freezing_drizzle" = "冻毛毛雨";
+
+// 冻雨
+"weather_freezing_rain" = "冻雨";
+
+// 严寒
+"weather_frigid" = "严寒";
+
+// 冰雹
+"weather_hail" = "冰雹";
+
+// 霾
+"weather_haze" = "霾";
+
+// 大雨
+"weather_heavy_rain" = "大雨";
+
+// 大雪
+"weather_heavy_snow" = "大雪";
+
+// 高温
+"weather_hot" = "高温";
+
+// 飓风
+"weather_hurricane" = "飓风";
+
+// 局部雷暴
+"weather_isolated_thunderstorms" = "局部雷暴";
+
+// 大部晴朗
+"weather_mostly_clear" = "大部晴朗";
+
+// 大部多云
+"weather_mostly_cloudy" = "大部多云";
+
+// 局部多云
+"weather_partly_cloudy" = "局部多云";
+
+// 雨
+"weather_rain" = "雨";
+
+// 零星雷暴
+"weather_scattered_thunderstorms" = "零星雷暴";
+
+// 雨夹雪
+"weather_sleet" = "雨夹雪";
+
+// 烟雾
+"weather_smoky" = "烟雾";
+
+// 雪
+"weather_snow" = "雪";
+
+// 强风暴
+"weather_strong_storms" = "强风暴";
+
+// 晴间小雪
+"weather_sun_flurries" = "晴间小雪";
+
+// 太阳雨
+"weather_sun_showers" = "太阳雨";
+
+// 雷暴
+"weather_thunderstorms" = "雷暴";
+
+// 热带风暴
+"weather_tropical_storm" = "热带风暴";
+
+// 大风
+"weather_windy" = "大风";
+
+// 冬季混合降水
+"weather_wintry_mix" = "冬季混合降水";
+
+
+
+// / ----------- 2025.05.29 - 新增 ------------
+// 正在唤醒
+"device_status_waking_up" = "正在唤醒";
+// 故障码
+"common_code" = "故障码";
+// 由于检测到复杂的水池地形，本次任务采用深度清洁模式，因此无法绘制清洁轨迹。
+"device_clean_path_unavailable_tip" = "由于检测到复杂的水池地形，本次任务采用深度清洁模式，因此无法绘制清洁轨迹。";
+// 发现 XX 个异常
+"device_abnormal_summary_title" = "发现 %d 个异常";
+// 请根据以下提示检查或处理异常
+"device_abnormal_summary_subtitle" = "请根据以下提示检查或处理异常";
+// 池底沿边时智能感知并调整与池壁的距离
+"device_adaptive_edge_desc" = "池底沿边时智能感知并调整与池壁的距离";
+// 更多清洁模式
+"device_more_cleaning_modes" = "更多清洁模式";
+// 启用后，清洁面板中会提供更多清洁模式以供选择。
+"device_more_cleaning_modes_desc" = "启用后，清洁面板中会提供更多清洁模式以供选择。";
+// 随机清洁
+"device_random_cleaning" = "随机清洁";
+// 沿随机方向进行池底和池壁清洁，适合复杂泳池环
+"device_random_cleaning_desc" = "沿随机方向进行池底和池壁清洁，适合复杂泳池环境下使用。";
+// 随机
+"common_random" = "随机";
+// 问题描述
+"common_problem_description" = "问题描述";
+// 请描述当前设备的异常现象
+"device_describe_abnormal_case" = "请描述当前设备的异常现象";
+// 日志上传过程请保持设备网络连接正常，全程大约需要3-10分钟。
+"common_upload_help_text" = "日志上传过程请保持设备网络连接正常，全程大约需要3-10分钟。";
+// 终止
+"common_upload_terminated" = "终止";
+// 上传成功
+"common_upload_success" = "上传成功";
+// 上传失败
+"common_upload_fail" = "上传失败";
+// IrriSense正在启动中，请稍作等待
+"wr_irriSense_starting" = "IrriSense正在启动中，请稍作等待";
+// 启动中
+"wr_starting" = "启动中";
+// 水压不足，无法正常出水，请检查水源
+"wr_alert_lack_of_water" = "水压不足，无法正常出水，请检查水源";
+// 最多添加99个点
+"wr_reached_maximum_point" = "最多添加99个点";
+// 删除地图（map）后不影响正在执行的灌溉计划，不会执行已设置未来的灌溉计划
+"common_delete_map_content_0" = "删除地图（map）后不影响正在执行的灌溉计划，不会执行已设置未来的灌溉计划";
+// 如要继续执行未来的灌溉计划，需要创建一张新的地图（map）
+"common_delete_map_content_1" = "如要继续执行未来的灌溉计划，需要创建一张新的地图（map）";
+// 编辑点位
+"wr_edit_point" = "编辑点位";
+// 删除点位
+"wr_delete_point" = "删除点位";
+// 创建点位
+"wr_create_point" = "创建点位";
+// 正在标定过程中请勿操作
+"wr_editing_dot_operation" = "正在标定过程中请勿操作";
+// “aiper“想要使用您的定位权限来获取天气信息
+"这个需要添加到权限里面" = "“aiper“想要使用您的定位权限来获取天气信息";
+// 请先将地图连接成封闭图形
+"wr_tap_save_map_no_closed_alert" = "请先将地图连接成封闭图形";
+// 现在来设置浇灌计划吧
+"wr_tip_set_up_schedule" = "现在来设置浇灌计划吧";
+// 浇灌深度
+"wr_irrigation_depth" = "浇灌深度";
+// 删除地图
+"common_delete_map" = "删除地图";
+// 时间计划
+"wr_time_schedule" = "时间计划";
+// 添加时间
+"wr_ad_time" = "添加时间";
+// IrriSense会根据周用水量自动执行已设置的灌溉计划
+"wr_week_irrigation_plan_desc" = "IrriSense会根据周用水量自动执行已设置的灌溉计划";
+// 请先连接Wi-Fi
+"common_connect_to_wifi" = "请先连接Wi-Fi";
+
+// 仅支持wifi升级，请使设备WiFi在线后尝试
+"common_ota_only_wifi_tip" = "仅支持wifi升级，请使设备WiFi在线后尝试";
+// 工况页已工作时间
+"common_usage_time" = "工况页已工作时间";
+// 未检测到异常
+"common_no_abnormalities" = "未检测到异常";
+
+// 请确认喷嘴口上方是否有 "AU" 标识
+"wr_nozzle_tip_au_title" = "请确认喷嘴口上方是否有 \"AU\" 标识";
+
+// 带 "AU" 标识的是适配低水压工况的喷嘴，请仔细阅读附赠的Jet Nozzle包装说明并替换
+"wr_nozzle_tip_au_details" = "带 \"AU\" 标识的是适配低水压工况的喷嘴，请仔细阅读附赠的Jet Nozzle包装说明并替换";
+
+// 请重新建图以便校准远距离喷嘴控制精度
+"wr_tip_rebuild_map_title" = "请重新建图以便校准远距离喷嘴控制精度";
+
+// 喷头管理
+"wr_nozzle_management" = "喷头管理";
+
+// Standard Nozzle
+"wr_standard_nozzle" = "Standard Nozzle";
+
+// 适用于普遍水源工况，机器出厂默认配置
+"wr_standard_nozzle_desc" = "适用于普遍水源工况，机器出厂默认配置";
+
+// Jet Nozzle
+"wr_jet_nozzle" = "Jet Nozzle";
+
+// 适用于低水压工况的远距离喷嘴
+"wr_nozzle_low_water_details" = "适用于低水压工况的远距离喷嘴";
+
+// e.g. 水压 29psi / 2.0bar，水流量15L/min时，射程9.5m / 31ft；
+"wr_nozzle_low_water_details_1" = "e.g. 水压 29psi / 2.0bar，水流量15L/min时，射程9.5m / 31ft；";
+
+// 水压 45psi / 3.1bar，水流量 22L/min 时，射程 12.5m / 41ft；
+"wr_nozzle_low_water_details_2" = "水压 45psi / 3.1bar，水流量 22L/min 时，射程 12.5m / 41ft；";
+
+// 极限射程 13m / 43ft"
+"wr_nozzle_low_water_details_3" = "极限射程 13m / 43ft。";
+
+// 请更新至最新固件后使用
+"common_please_update_firmware" = "请更新至最新固件后使用";
+
+// 机器在水下工作时WiFi信号会中断，断联期间机器仍按预设任务工作，出水后将自动恢复连接
+"common_device_inwater_disconnect_tip" = "机器在水下工作时Wi-Fi信号会中断，断联期间机器仍按预设任务工作，出水后将自动恢复连接";
+
+
+// 零元购
+"t1_important_notice" = "零元购";
+
+// / ----------- 2025.06.18 - 部件管理 ------------ ///
+"common_component_replacement" = "部件更换";
+// 部件管理
+"common_component_management" = "部件管理";
+// 部件详情
+"common_component_details" = "部件详情";
+// 部件维护
+"common_component_maintenance" = "部件维护";
+// 倒计时
+"common_consumables_countdown" = "倒计时";
+// 剩余：%@小时
+"common_consumables_remaining" = "剩余：%@小时";
+// 倒计时%@小时
+"common_consumables_guide_article_countdown" = "倒计时%@小时";
+// 已更换
+"common_consumables_replaced" = "更换";
+// 已维护
+"common_consumables_maintained" = "维护";
+// 确认已完成更换，后点击“确定”将会重置倒计时。
+"common_consumables_replacement_tip" = "确认已完成更换，后点击“确定”将会重置倒计时。";
+// 确认已完成维护，后点击“确定”将会重置倒计时。
+"common_consumables_maintenance_tip" = "确认已完成维护，后点击“确定”将会重置倒计时。";
+// 需要更换
+"common_consumables_replacement_required" = "需要更换";
+// 需要维护
+"common_consumables_maintenance_required" = "需要维护";
+// 建议定期维护
+"common_consumables_regular_maintenance" = "建议定期维护";
+
+// 计量体系
+"app_measurement_system" = "计量体系";
+
+// 美制单位
+"app_us_customary_units" = "美制单位";
+
+// 公制单位
+"app_metric_units" = "公制单位";
+
+// 英制单位
+"app_imperial_units" = "英制单位";
+
+// 推荐您启用清洁计划，设备将按您的设定自动执行清洁任务。
+"s2_recommend_enabled_plan_title" = "推荐您启用清洁计划，设备将按您的设定自动执行清洁任务。";
+
+
+/// ----------- 2025.07.25 - 部件管理 ------------ ///
+
+// 分钟
+"common_minute_abbr" = "分钟";
+// 小时
+"common_hour_abbr" = "小时";
+// 天
+"common_day_abbr" = "日";
+
+
+/// ----------- 2025.08.11 - S2清洁路径 ------------ ///
+
+// 全覆盖模式
+"surface_full_coverage_mode" = "全覆盖模式";
+
+// 边缘保护模式
+"surface_edge_protection_mode" = "边缘保护模式";
+
+// 适用于大多数泳池，此模式可提供更广的清洁覆盖范围，并确保更彻底的清洁效果。
+"surface_full_coverage_mode_desc" = "适用于大多数泳池，此模式可提供更广的清洁覆盖范围，并确保更彻底的清洁效果。";
+
+// 适用于边缘突出的泳池。该设备在清洁时不会撞击泳池侧壁，有助于防止划痕，并保护设备和泳池。
+"surface_edge_protection_mode_desc" = "适用于边缘突出的泳池。该设备在清洁时不会撞击泳池侧壁，有助于防止划痕，并保护设备和泳池。";
+
+// 专利号
+"device_common_patent_information" = "专利号";
+
+
+
+
+/// ----------- 2025.08.14 - APP框架 ------------ ///
+// 水量
+"common_water_volume" = "水量";
+
+// 已经有账户了？
+"common_have_account" = "已经有账户了？";
+// 验证码有效期为5分钟
+"common_period_of_verification_code" = "验证码有效期为5分钟";
+// 没有收到验证码？
+"common_not_receive_verification_code" = "没有收到验证码？";
+// 请设置密码并重新输入确认。
+"common_enter_and_confirm_password" = "请设置密码并重新输入确认。";
+// 或
+"common_or" = "或";
+// 用户协议和隐私政策
+"common_user_agreement_and_privacy_policy" = "Aiper 服务条款及隐私声明";
+// 用户协议和隐私政策更新
+"common_user_agreement_and_privacy_policy_update" = "用户协议和隐私政策更新";
+// 今天不要提醒我
+"common_today_not_remind_me" = "今天不要提醒我";
+// 更新时间:
+"common_update_time" = "更新时间：";
+// 更新内容:
+"common_update_content" = "更新内容：";
+// 您所在的国家或地区
+"common_current_country" = "您所在的国家或地区";
+// 协议
+"common_agreement" = "协议";
+// XXXs 后重新发送
+"common_resend_second_after" = "%ds 后重新发送";
+// 仅允许输入长度为63位以内的密码
+"common_wifi_password_length_allowed_64" = "仅允许输入长度为63位以内的密码";
+// 当前地区
+"common_current_region" = "当前地区";
+// 节能模式
+"device_clean_mode_eco_short" = "节能模式";
+// 以 3 小时工作、3 小时休眠的方式循环运行
+"common_power_save_mode_desc" = "以 3 小时工作、3 小时休眠的方式循环运行";
+
+
+
+/// ----------- 2025.10.16 - WR3.0 ------------ ///
+// 注
+"wr_note" = "注";
+
+// 请先选择区域
+"wr_please_select_region" = "请先选择区域";
+
+// 请先设置名称
+"wr_please_set_name" = "请先设置名称";
+
+// 已存在此名称
+"wr_name_already_exist" = "已存在此名称";
+
+// 请输入区域名称
+"wr_please_enter_region_name" = "请输入区域名称";
+
+// 区域名称
+"wr_region_name" = "区域名称";
+
+// 最多快捷显示三个
+"wr_max_quick_region" = "最多快捷显示5个";
+
+// 快捷区域
+"wr_quick_region" = "快捷区域";
+
+// 未启用快捷区域
+"wr_quick_region_disable" = "未启用快捷区域";
+
+// 面型区域图
+"wr_face_region" = "面型区域图";
+
+// 按创建的面积，进行区域性的浇灌，面积内浇灌的更均匀，适合大型草坪
+"wr_face_region_details" = "按创建的面积，进行区域性的浇灌，面积内浇灌的更均匀，适合大型草坪";
+
+// 线型区域图
+"wr_line_region" = "线型区域图";
+
+// 可以按创建的线型进行，随型浇灌，适合灌木条形区域
+"wr_line_region_details" = "可以按创建的线型进行，随型浇灌，适合灌木条形区域";
+
+// 点型区域
+"wr_dot_region" = "点型区域";
+
+// 可以按创建的图形点，进行单点浇灌，适合小型的花坛
+"wr_dot_region_details" = "可以按创建的图形点，进行单点浇灌，适合小型的花坛";
+
+// 至少需要一个点位
+"wr_least_one_point" = "至少需要一个点位";
+
+// 至少需要两个点位
+"wr_least_two_point" = "至少需要两个点位";
+
+// 开始编辑
+"wr_start_edit" = "开始编辑";
+
+// 确定删除所有的点位？
+"wr_confirm_delete_all_point" = "确定删除所有的点位？";
+
+// 地图达到上限
+"wr_map_limit_reached" = "地图达到上限";
+
+// 名称编辑
+"wr_edit_name" = "名称编辑";
+
+// 区域编辑
+"wr_edit_region_point" = "区域编辑";
+
+// 未创建浇灌区域
+"wr_please_create_region" = "未创建浇灌区域";
+
+// 请先选择浇灌时长
+"wr_please_select_duration" = "请先选择浇灌时长";
+
+//保存地图中，请耐心等待
+"wr_region_saving" = "Saving the map, please wait patiently";
+//选择点位浇灌时长
+"wr_select_dot_duration" = "Select the watering time of each point";
+//选择任务的浇灌时长
+"wr_select_task_duration" = "Select the watering duration for the task";
+//Duration代表点区域内每个点的运行时间
+"wr_dot_duration_details" = "Duration represents the running time of each point in the point area";
+//请保留至少一个点位
+"wr_need_one_point" = "Please reserve at least one spot";
+//区域选择
+"wr_select_region" = "Select Region";
+//浇灌中
+"wr_watering" = "Watering...";
+//选择要使用多少水
+"wr_select_water" = "Select how much water you want to apply";
+//区域设置
+"wr_region_setting" = "Regional Settings";
+//点
+"wr_dot" = "Dot";
+//线
+"wr_line" = "Line";
+//面
+"wr_face" = "Face";
+//专利信息
+"common_patent_information" = "专利信息";
+
+
+
+
+/// ----------- 2024.11.11 - N30N31 ------------ ///
+
+// 视觉
+"common_visual" = "视觉";
+
+// 切换
+"common_device_n30_switch" = "切换";
+
+// 任务编辑
+"common_device_edit_task" = "任务编辑";
+
+// 智能托管
+"common_device_n30_AI_navium" = "智能托管";
+
+// 仅清洁池底
+"device_clean_mode_floor_description" = "仅清洁池底";
+
+// 仅清洁池壁
+"device_clean_mode_wall_description" = "仅清洁池壁";
+
+// 仅清洁水线
+"device_clean_mode_waterline_description" = "仅清洁水线";
+
+// 清洁池底和池壁
+"device_clean_mode_floor_wall_description" = "清洁池底和池壁";
+
+// 此模式下Aiper 视觉摄像头将启动，仅清洁泳池池底，可精准识别杂物，实现高效定点清洁，并主动规避障碍物。
+"device_mode_desc_visual" = "此模式下Aiper 视觉摄像头将启动，仅清洁泳池池底，可精准识别杂物，实现高效定点清洁，并主动规避障碍物。";
+
+// 文案调整：先通过视觉识别并清扫脏污，再对池底进行全覆盖清洁
+"device_mode_desc_ainavium" = "文案调整：先通过视觉识别并清扫脏污，再对池底进行全覆盖清洁";
+
+// AI Navium™ Mode
+"device_n31_ai_Navium" = "AI Navium™ Mode";
+
+// 清洁计划
+"common_device_n30_clean_plan_title" = "清洁计划";
+
+// 设置清洁计划进行设备预约清洁
+"common_device_n30_clean_plan_description" = "设置清洁计划进行设备预约清洁";
+
+// 执行时长
+"common_device_n30_clean_plan_execution_duration" = "执行时长";
+
+// 智能托管
+"common_device_n30_clean_plan_visual_hosting" = "智能托管";
+
+// 可任意选择执行周期
+"common_device_n30_clean_plan_execution_optional" = "可任意选择执行周期";
+
+// 自定义清洁计划
+"common_device_n30_clean_plan_customer_cleaning_schedule" = "自定义清洁计划";
+
+// 执行周期
+"common_device_n30_clean_plan_customer_execution_period" = "执行周期";
+
+// 当前周期选择不能超过4个
+"common_device_n30_clean_plan_more_than_4" = "当前周期选择不能超过4个";
+
+// 当前周期选择不能超过3个
+"common_device_n30_clean_plan_more_than_3" = "当前周期选择不能超过3个";
+
+// 当前周期选择不能超过2个
+"common_device_n30_clean_plan_more_than_2" = "当前周期选择不能超过2个";
+
+// 开始时间
+"common_device_n30_clean_plan_select_start_time" = "开始时间";
+
+// 一周内可执行4次清洁
+"common_device_n30_clean_plan_performed_within_week_4" = "一周内可执行4次清洁";
+
+// 一周内可执行3次清洁
+"common_device_n30_clean_plan_performed_within_week_3" = "一周内可执行3次清洁";
+
+// 一周内可执行2次清洁
+"common_device_n30_clean_plan_performed_within_week_2" = "一周内可执行2次清洁";
+
+// 选择时间
+"common_device_n30_clean_plan_select_time" = "选择时间";
+
+// 已启用清洁计划
+"common_device_n30_clean_plan_cleaning_schedule_enabled" = "已启用清洁计划";
+
+// 已关闭清洁计划
+"common_device_n30_clean_plan_cleaning_schedule_disabled" = "已关闭清洁计划";
+
+// 计划任务正在执行，是否终止当前任务并更新计划？
+"common_device_n30_clean_plan_dialog_task_progress_stop" = "计划任务正在执行，是否终止当前任务并更新计划？";
+
+// 清洁记录
+"device_clean_record" = "清洁记录";
+
+// 总清洁次数
+"common_device_clean_record_total_number" = "总清洁次数";
+
+// 总清洁面积
+"common_device_clean_record_total_area" = "总清洁面积";
+
+// 清洁完成
+"common_device_clean_record_clean_complete" = "清洁完成";
+
+// 未完成-异常终止
+"common_device_clean_record_incomplete_abnormal" = "未完成-异常终止";
+
+// 未完成-低电中止
+"common_device_clean_record_incomplete_low_battery" = "未完成-低电中止";
+
+// 未完成-手动结束
+"common_device_clean_record_incomplete_manually_terminated" = "未完成-手动结束";
+
+// 未完成-任务过期
+"common_device_clean_record_incomplete_expired" = "未完成-任务过期";
+
+// 清洁时长
+"common_device_clean_record_clean_time" = "清洁时长";
+
+// 清洁面积
+"common_device_clean_record_clean_area" = "清洁面积";
+
+// 避障次数
+"common_device_clean_record_obstacle_avoidance_times" = "避障次数";
+
+// 脱困次数
+"common_device_clean_record_number_escapes" = "脱困次数";
+
+// 消耗电量
+"common_device_clean_record_power_consumption" = "消耗电量";
+
+// 识别了xx个垃圾
+"common_device_clean_record_identify_garbage" = "识别了%d个垃圾";
+
+// 即时任务
+"common_device_clean_record_immediate_task" = "即时任务";
+
+// 计划任务
+"common_device_clean_record_scheduled_task" = "计划任务";
+
+// 托管任务
+"common_device_clean_record_ai_navium_task" = "托管任务";
+
+// 暂无清洁记录
+"common_device_clean_record_empty_cleaning_records" = "暂无清洁记录";
+
+// 池底清洁路径
+"common_clean_setting_pool_bottom" = "池底清洁路径";
+
+// 十字弓型路径
+"common_clean_path_content" = "十字弓型路径";
+
+// 适用于复杂的泳池形状，清洁覆盖率高，但智能清洁能力偏弱，清洁效率一般。
+"common_clean_path_content_desc" = "适用于复杂的泳池形状，清洁覆盖率高，但智能清洁能力偏弱，清洁效率一般。";
+
+// 随机路径
+"common_clean_path_random" = "随机路径";
+
+// 根据泳池环境随机采取清洁路径，能有效提升复杂泳池环境下的清洁覆盖率。
+"common_clean_path_random_desc" = "根据泳池环境随机采取清洁路径，能有效提升复杂泳池环境下的清洁覆盖率。";
+
+// 摄像头
+"common_clean_setting_ai_camera" = "摄像头";
+
+// 开启摄像头识别能力，可以在清洁中自动识别脏污。
+"common_clean_setting_ai_camera_desc" = "开启摄像头识别能力，可以在清洁中自动识别脏污。";
+
+// 查看隐私条款
+"common_clean_setting_ai_camera_privacy_policy" = "查看隐私条款";
+
+// 通知提醒
+"common_device_notification_reminder_title" = "通知提醒";
+
+// 接收设备告警、任务状态、固件更新等设备相关消息。
+"common_device_notification_reminder_desc" = "接收设备告警、任务状态、固件更新等设备
+相关消息。";
+
+// 允许通知的时间
+"common_device_notification_time_title" = "允许通知的时间";
+
+// 设备故障
+"common_device_notification_equipment_failure" = "设备故障";
+
+// 设备状态
+"common_device_notification_equipment_status" = "设备状态";
+
+// 任务结束
+"common_device_notification_after_start_task" = "任务结束";
+
+// 任务开始前
+"common_device_notification_before_start_task" = "任务开始前";
+
+// 请将机器人捞出水面后操作
+"common_device_remove_robot_form_water_to_continue" = "请将机器人捞出水面后操作";
+
+// 智能托管需打开摄像头，是否打开？
+"common_device_n31_requires_camera" = "智能托管需打开摄像头，是否打开？";
+
+// AI Navium™
+"common_device_n31_ainavum_title" = "AI Navium™";
+
+// 智能分析
+"common_device_n31_ainavum_setting_second_title" = "智能分析";
+
+// 天气分析
+"common_device_n31_ainavum_weather_analysis_title" = "天气分析";
+
+// 通过分析近期天气情况创建更科学的清洁计划
+"common_device_n31_ainavum_weather_analysis_desc" = "通过分析近期天气情况创建更科学的清洁计划";
+
+// 自适应清洁
+"common_device_n31_ainavum_self_adaptive_clean_title" = "自适应清洁";
+
+// 根据泳池环境自动调整清洁策略
+"common_device_n31_ainavum_self_adaptive_clean_desc" = "根据泳池环境自动调整清洁策略";
+
+// 使用习惯分析
+"common_device_n31_ainavum_usage_pattern_analysis_title" = "使用习惯分析";
+
+// 结合日常清洁习惯自动调整清洁策略
+"common_device_n31_ainavum_usage_pattern_analysis_desc" = "结合日常清洁习惯自动调整清洁策略";
+
+// 个人偏好
+"common_device_n31_ainavum_setting_preferences_title" = "个人偏好";
+
+// 清洁开始时间
+"common_device_n31_ainavum_start_time_of_cleaning_title" = "清洁开始时间";
+
+// 设备每天在此时间开始执行清洁任务
+"common_device_n31_ainavum_start_time_of_cleaning_desc" = "设备每天在此时间开始执行清洁任务";
+
+// 生成计划
+"common_device_n31_ainavum_generate_schedule" = "生成计划";
+
+// 泳池信息不全，是否完善泳池信息？
+"common_device_insufficient_swimming_pool_information" = "泳池信息不全，是否完善泳池信息？";
+
+// 数据量较少，请先使用一段时间再开启
+"common_device_insufficient_data_quantity" = "数据量较少，请先使用一段时间再开启";
+
+// 正在准备智能托管
+"common_device_n31_create_ainavum_progress_step_1" = "正在准备智能托管";
+
+// 正在分析作业环境
+"common_device_n31_create_ainavum_progress_step_2" = "正在分析作业环境";
+
+// 正在创建清洁计划
+"common_device_n31_create_ainavum_progress_step_3" = "正在创建清洁计划";
+
+// 开启智能托管
+"common_device_n31_enable_ai_navium" = "开启智能托管";
+
+// 机器人会根据您的使用习惯和泳池情况自动进行清洁，维持泳池干净
+"common_device_n31_ainavum_task_list_desc" = "机器人会根据您的使用习惯和泳池情况自动进行清洁，维持泳池干净";
+
+// 暂无计划
+"common_device_empty_schedule_yet" = "暂无计划";
+
+// 视觉模组固件版本号
+"device_visual_module_firmware_version" = "视觉模组固件版本号";
+
+// 通知内容
+"common_device_notification_content" = "通知内容";
+
+// 计划清洁中，是否更新计划？
+"common_device_n30_clean_plan_dialog_task_progress_stop" = "计划清洁中，是否更新计划？";
+
+// 智能托管需打开摄像头，是否打开？
+"common_device_n31_requires_camera" = "智能托管需打开摄像头，是否打开？";
+
+// 是否立即结束清洁计划？
+"common_device_n31_finish_cycle_clean_mode" = "是否立即结束清洁计划？";
+
+// 计划清洁中
+"common_cycle_clean_desc" = "计划清洁中";
+
+// 正在执行清洁计划，是否结束并开始智能托管？
+"common_device_switch_ai_navium_mode_message" = "正在执行清洁计划，是否结束并开始智能托管？";
+
+// 是否立即结束智能托管？
+"common_device_n31_finish_ai_navium_mode" = "是否立即结束智能托管？";
+
+// 智能托管中
+"common_ai_navium_desc" = "智能托管中";
+
+// 正在智能托管，是否结束并执行清洁计划？
+"common_device_switch_cycle_mode_message" = "正在智能托管，是否结束并执行清洁计划？";
+
+// 下个任务将于%s%开始
+"common_device_n31_next_task_start_time" = "下个任务将于%@ %@开始";
+
+// 预计xx：xx完成
+"common_device_task_at_completed_time" = "预计 %@ %@完成";
+
+// 运行时长：%s%分钟
+"common_device_n31_ai_task_runtime_time" = "运行时长：%d分钟";
+
+// 因天气原因未执行
+"common_device_n31_skip_weather" = "因天气原因未执行";
+
+// 此模式下Aiper 视觉摄像头将启动，仅清洁泳池池底，可精准识别杂物，实现高效定点清洁，并主动规避障碍物。
+"common_device_n31_visionPath_mode_desc_alert" = "此模式下Aiper 视觉摄像头将启动，仅清洁泳池池底，可精准识别杂物，实现高效定点清洁，并主动规避障碍物。";
+
+// 此模式不可变更，将执行一次池壁和水线清洁
+"common_device_n31_auto_mode_desc_alert" = "此模式不可变更，将执行一次池底和池壁";
+
+// 此模式不可变更，将执行一次池底清洁
+"common_device_n31_floor_mode_desc_alert" = "此模式不可变更，将执行一次池底清洁";
+
+// 此模式不可变更，将执行一次池壁清洁
+"common_device_n31_wall_mode_desc_alert" = "此模式不可变更，将执行一次池壁清洁";
+
+// 此模式不可变更，将执行一次水线清洁
+"common_device_n31_waterline_mode_desc_alert" = "此模式不可变更，将执行一次水线清洁";
+
+// 关闭摄像头
+"common_device_close_camera_title_alert" = "关闭摄像头";
+
+// 关闭摄像头后，当前已开启Vision Path的任务将以普通清洁模式执行，且会自动退出托管模式
+"common_device_close_camera_desc_alert" = "关闭摄像头后，当前已开启Vision Path的任务将以普通清洁模式执行，且会自动退出托管模式";
+
+// AI Patrol Mode需要启用摄像头，确认开启摄像头？
+"common_device_open_camera_desc_alert" = "AI Patrol Mode需要启用摄像头，确认开启摄像头？";
+
+// VisionPath需要启用摄像头以识别脏污，确认开启摄像头？
+"common_device_visionPath_open_camera_desc" = "VisionPath需要启用摄像头以识别脏污，确认开启摄像头？";
+
+// 查看隐私协议
+"common_device_camera_privacy_policy" = "查看隐私协议";
+
+// 摄像头正在工作
+"common_device_camera_title_tip" = "摄像头正在工作";
+
+// 摄像头在清洁任务中提供脏污识别并提升避障能力
+"common_device_camera_desc_tip" = "摄像头在清洁任务中提供脏污识别并提升避障能力";
+
+
+
+
+
+// 保存地图中，请耐心等待
+"wr_region_saving" = "保存地图中，请耐心等待";
+
+// 选择点位浇灌时长
+"wr_select_dot_duration" = "选择点位浇灌时长";
+
+// 选择任务的浇灌时长
+"wr_select_task_duration" = "选择任务的浇灌时长";
+
+// Duration代表点区域内每个点的运行时间
+"wr_dot_duration_details" = "Duration代表点区域内每个点的运行时间";
+
+// 请保留至少一个点位
+"wr_need_one_point" = "请保留至少一个点位";
+
+// 选择区域
+"wr_select_region" = "选择区域";
+
+// 浇灌中
+"wr_watering" = "浇灌中";
+
+// 选择要使用多少水
+"wr_select_water" = "选择要使用多少水";
+
+// 区域设置
+"wr_region_setting" = "区域设置";
+
+// 点
+"wr_dot" = "点";
+
+// 线
+"wr_line" = "线";
+
+// 面
+"wr_face" = "面";
+
+// 创建地图
+"wr_create_map" = "创建地图";
+
+// 点击开始绘制浇灌区域
+"wr_click_to_create_map" = "点击开始绘制浇灌区域";
+
+// 区域
+"wr_region" = "区域";
+
+// 选择
+"common_select" = "选择";
+
+// 建图中
+"device_status_mapping" = "建图中";
+
+// 预约任务前会实时获取最新预报降雨量和风速，若满足设定值，将跳过当天所有预约任务并推送通知，被跳过任务可通过关闭此开关恢复。
+"wr_sense_explain" = "预约任务前会实时获取最新预报降雨量和风速，若满足设定值，将跳过当天所有预约任务并推送通知，
+被跳过任务可通过关闭此开关恢复。";
+
+// 大风天气
+"wr_strong_wind" = "大风天气";
+
+// 降雨天气
+"wr_rainfall" = "降雨天气";
+
+// 预约务当天会持续检测是否下中强度雨，若满足触发条件，则会跳过当天所有的预约任务并推送通知，若要将跳过的任务恢复执行，可关闭此开关
+"wr_sense_rain_explain" = "预约务当天会持续检测是否下中强度雨，若满足触发条件，则会跳过当天所有的预约任务并推送通知，若要将跳过的任务恢复执行，可关闭此开关";
+
+// 感应通知（降雨）
+"wr_sense_weather_rain" = "感应通知（降雨）";
+
+// 感应通知（大风）
+"wr_sense_weather_wind" = "感应通知（大风）";
+
+// 雨淋感应通知（降雨）
+"wr_sense_rain" = "雨淋感应通知（降雨）";
+
+// 未完成
+"wr_incomplete" = "未完成";
+
+// 完成
+"wr_complete" = "完成";
+
+// 未完成-异常终止
+"wr_incomplete_error" = "未完成-异常终止";
+
+// 未完成-大风跳过
+"wr_incomplete_wind_skip" = "未完成-大风跳过";
+
+// 未完成-降雨跳过
+"wr_incomplete_rainfall_skip" = "未完成-降雨跳过";
+
+// 未完成-雨淋跳过
+"wr_incomplete_rain_skip" = "未完成-雨淋跳过";
+
+// 未完成-重叠跳过
+"wr_incomplete_overlap_skip" = "未完成-重叠跳过";
+
+// 未完成-手动停止
+"wr_incomplete_manual_stop" = "未完成-手动停止";
+
+// 未完成-缺水停止
+"wr_incomplete_water_shortage_stop" = "未完成-缺水停止";
+
+// 未完成-手动任务跳过
+"wr_incomplete_manual_task_skip" = "未完成-手动任务跳过";
+
+// 未完成-用户行为冲突跳过
+"wr_incomplete_action_conflict_skip" = "未完成-用户行为冲突跳过";
+
+// 任务类型
+"common_task_type" = "任务类型";
+
+// 米/秒
+"common_wind_speed_m" = "米/秒";
+
+// 英寸/秒
+"common_wind_speed_ft" = "英寸/秒";
+
+// 未连接设备，请连接设备以获取最新记录
+"wr_content_device_get_latest_record" = "未连接设备，请连接设备以获取最新记录";
+
+// 实际浇灌时长
+"wr_actual_irrigation_duration" = "实际浇灌时长";
+
+// 云台模块
+"common_rotate_module" = "云台模块";
+
+// 水阀模块
+"common_valve_module" = "水阀模块";
+
+// 药液模块
+"common_chemical_module" = "药液模块";
+
+// 主控模块
+"common_main_control_module" = "主控模块";
+
+// None
+"None" = "None";
+
+// 您的地图发生改变后，请及时确认是否需要变更任务执行区域，避免影响任务执行
+"common_map_changed_details" = "您的地图发生改变后，请及时确认是否需要变更任务执行区域，避免影响任务执行";
+
+// 未完成-雨淋停止
+"wr_incomplete_rainfall_stop" = "未完成-雨淋停止";
+
+// 完成排水
+"complete_drainage" = "完成排水";
+
+// 任务中-请先结束任务后再次尝试
+"common_ota_fail_reason_task" = "任务中-请先结束任务后再次尝试";
+
+// 遥控中-请先退出遥控状态后再次尝试
+"common_ota_fail_reason_remote" = "遥控中-请先退出遥控状态后再次尝试";
+
+// 建图中-请先结束建图后再次尝试
+"common_ota_fail_reason_mapping" = "建图中-请先结束建图后再次尝试";
+
+// 故障中-请重启设备无故障状态后再次尝试
+"common_ota_fail_reason_malfunction" = "故障中-请重启设备无故障状态后再次尝试";
+
+// 无法更新设备，必须在下列条件中进行更新：
+"common_ota_update_fail_condition_title" = "无法更新设备，必须在下列条件中进行更新：";
+
+// 1.设备电源处于连接中且开机2.保持蓝牙连接设备或是设备wifi在线
+"common_ota_update_fail_condition_details" = "1.设备电源处于连接中且开机
+2.保持蓝牙连接设备或是设备wifi在线";
+
+// 升级中-请等待结束后再次尝试
+"common_ota_fail_reason_upgrading" = "升级中-请等待结束后再次尝试";
+
+// 选择浇灌位置
+"select_irrigation_region" = "选择浇灌位置";
+
+// 请选择平台、无障碍物的位置、并确保可连接水管和电源线。请先不要安装定位器和固定设备，随指引确定合适位置后再安装
+"select_irrigation_region_desc" = "请选择平台、无障碍物的位置、并确保可连接水管和电源线。请先不要安装定位器和固定设备，随指引确定合适位置后再安装";
+
+// 接电源&amp;配网
+"device_connect_power_and_pair_device" = "接电源&amp;配网";
+
+// 连接花园软管
+"connect_garden_hose" = "连接花园软管";
+
+// 被跳过任务会恢复执行
+"skipped_task_resumes_execute" = "被跳过任务会恢复执行";
+
+// 打开后将会在任务前获取大风天气信息，当满足设定值时，将自动跳过计划任务
+"wr_sense_weather_wind_open_tip" = "打开后将会在任务前获取大风天气信息，当满足设定值时，将自动跳过计划任务";
+
+// 打开后将会在任务前获取降雨天气信息，当满足设定值时，将自动跳过计划任务
+"wr_sense_weather_rain_open_tip" = "打开后将会在任务前获取降雨天气信息，当满足设定值时，将自动跳过计划任务";
+
+// 打开雨淋感应会在预约任务当天持续检测降雨量，若满足触发条件会跳过或终止任务
+"wr_rain_sensor_faq_new" = "打开雨淋感应会在预约任务当天持续检测降雨量，若满足触发条件会跳过或终止任务";
+
+//浇灌测试
+"wr_irrigation_range_test" = "浇灌测试";
+
+//1.测试射程
+"wr_distance_test" = "1.测试射程";
+
+//确保浇灌范围内无障碍物
+"wr_distance_test_tip_1" = "确保浇灌范围内无障碍物";
+
+//请完全地打开水龙头
+"wr_distance_test_tip_2" = "请完全地打开水龙头";
+
+//测试水流最远距离是否能覆盖区域边界并灵活调整设备位置，确认后点击完成按钮
+"wr_distance_test_tip_3" = "测试水流最远距离是否能覆盖区域边界并灵活调整设备位置，确认后点击完成按钮";
+
+//落水点
+"wr_create_mapping_guide_tip_1" = "落水点";
+
+//前后遥控浇灌距离
+"wr_create_mapping_guide_tip_2" = "前后遥控浇灌距离";
+
+//左右调整浇灌角度
+"wr_create_mapping_guide_tip_3" = "左右调整浇灌角度";
+
+//点击生成一个边界点，生成后继续遥控落水点进行其他边界点的生成
+"wr_create_mapping_guide_tip_4" = "点击生成一个边界点，生成后继续遥控落水点进行其他边界点的生成";
+
+//点击会撤销一个最新设置的边界点
+"wr_create_mapping_guide_tip_5" = "点击会撤销一个最新设置的边界点";
+
+//观察落水点覆盖要浇灌的位置，如果不是请调整设备位置后尝试
+"wr_create_mapping_guide_tip_6" = "观察落水点覆盖要浇灌的位置，如果不是请调整设备位置后尝试";
+
+//点击【删除icon】一键删除所有边界点位（Contour Point）
+"wr_create_mapping_guide_tip_7" = "点击\"@png\"一键删除所有边界点位";
+
+//点击添加”√”完成灌溉地图（map）的创建
+"wr_create_mapping_guide_tip_8" = "点击添加\"@png\"完成灌溉地图的创建";
+
+//开始测试
+"common_start_test" = "开始测试";
+
+//完成测试
+"common_completed_test" = "完成测试";
+
+//确认安装完成
+"common_confirm_install" = "确认安装完成";
+
+//查看操作指令
+"common_view_operation_instructions" = "查看操作指令";
+
+//2.请详细查看建图引导
+"common_carefully_read_mapping_guide" = "2.请详细查看建图引导";
+
+//设备初始化中
+"common_device_initializing" = "设备初始化中";
+
+//异常高水压
+"wr_abnormal_high_water_pressure" = "异常高水压";
+
+//异常低水压
+"wr_abnormal_low_water_pressure" = "异常低水压";
+
+//请勿创建相同时间段的任务
+"common_do_not_create_task_for_same_time_period" = "请勿创建相同时间段的任务";
+
+//待机器准备就位后加点
+"wr_map_fail_machine_ready" = "待机器准备就位后加点";
+
+//当前不满足最小建点范围，请调大点位和设备间距离后尝试
+"wr_map_fail_mini_create_range" = "当前不满足最小建点范围，请调大点位和设备间距离后尝试";
+
+//水压异常，当前建点无效请减小点位距离后尝试
+"wr_map_fail_abnormal_waterpress_max" = "水压异常，当前建点无效请减小点位距离后尝试";
+
+//水压异常，当前建点无效请增大点位距离后尝试
+"wr_map_fail_abnormal_waterpress_min" = "水压异常，当前建点无效请增大点位距离后尝试";
+
+//遥控已到最小距离
+"wr_map_fail_distance_min" = "遥控已到最小距离";
+
+//遥控已到最大距离
+"wr_map_fail_distance_max" = "遥控已到最大距离";
+
+// 操作引导
+"common_operation_guide" = "操作引导";
+
+//任务通知
+"common_task_notify" = "任务通知";
+//打开任务提醒开关，将在任务执行过程中给您发送任务相关通知
+"common_task_notify_desc" = "打开任务提醒开关，将在任务执行过程中给您发送任务相关通知";
+
+// 本周
+"common_this_week" = "本周";
+
+// 本月
+"common_this_month" = "本月";
+
+// 药液管理
+"wr_solution_management" = "药液管理";
+
+// 草坪修复剂（名词术语）
+"wr_SoilPulse" = "草坪修复剂（名词术语）";
+
+// 尚未激活
+"wr_Inactive" = "尚未激活";
+
+// 激活记录
+"wr_activation_records" = "激活记录";
+
+// 激活时间
+"wr_activation_time" = "激活时间";
+
+// 您还没有安装IrriSense可使用的药液
+"wr_no_install_solution" = "您还没有安装IrriSense可使用的药液";
+
+// 每次使用药液功能前，请扫描包装上的二维码确认后再使用，以确保配方匹配与使用安全。
+"wr_solution_scan_confirm" = "每次使用药液功能前，请扫描包装上的二维码确认后再使用，以确保配方匹配与使用安全。";
+
+// • 为确保药液配方正确、安全使用，请每次使用前确认您是否更换了新的药液袋。
+"wr_solution_scan_tip_0" = "• 为确保药液配方正确、安全使用，请每次使用前确认您是否更换了新的药液袋。";
+
+// •如果已更换，请扫描新药液袋上的二维码完成识别。
+"wr_solution_scan_tip_1" = "•如果已更换，请扫描新药液袋上的二维码完成识别。";
+
+// •若仍使用上次的药液袋，请重新插入原药液袋后再继续。
+"wr_solution_scan_tip_2" = "•若仍使用上次的药液袋，请重新插入原药液袋后再继续。";
+
+// 扫码激活
+"wr_scan_activate" = "扫码激活";
+
+// 购买
+"wr_purchase" = "购买";
+
+// 请对准识别包装上的二维码识别添加药液
+"wr_solution_scan_add_tip" = "请对准识别包装上的二维码识别添加药液";
+
+// 输入
+"wr_enter" = "输入";
+
+// 输入药液SN编号
+"wr_enter_sn" = "输入药液SN编号";
+
+// 请输入包装上的SN编号添加药液
+"wr_enter_sn_tip" = "请输入包装上的SN编号添加药液";
+
+// 未找到相关产品信息，请联系客服
+"wr_solution_scan_error_no_information_service" = "未找到相关产品信息，请联系客服";
+
+// 药液已过期，无法进行激活使用
+"wr_solution_scan_error_expired" = "药液已过期，无法进行激活使用";
+
+// 药液已无剩余药液，请勿重复更换
+"wr_solution_scan_error_no_remains" = "药液已无剩余药液，请勿重复更换";
+
+// 药液已经被激活过，如要继续使用此药液请点击确认，取消不进行药液的更换
+"wr_solution_scan_error_been_activated" = "药液已经被激活过，如要继续使用此药液请点击确认，取消不进行药液的更换";
+
+// 已有同类型药液在使用中，是否继续激活更换为当前药液，继续请点击确认，取消不进行激活
+"wr_solution_scan_error_same_type" = "已有同类型药液在使用中，是否继续激活更换为当前药液，继续请点击确认，取消不进行激活";
+
+// 已经被其他账户识别激活
+"wr_solution_scan_error_bind" = "已经被其他账户识别激活";
+
+// 未找到相关产品信息
+"wr_solution_scan_error_no_information" = "未找到相关产品信息";
+
+// 不是相同规格药液，请前往对应的规格进行更换或激活
+"wr_solution_scan_error_no_same_type" = "不是相同规格药液，请前往对应的规格进行更换或激活";
+
+// 外观检查
+"wr_solution_install_step_0" = "外观检查";
+
+// •打开药液袋前请检查看到有漏液、破损的情况。
+"wr_solution_install_step_0_tip_0" = "•打开药液袋前请检查看到有漏液、破损的情况。";
+
+// •异常操作：若出现漏液，请勿使用，并拍照留档上报
+"wr_solution_install_step_0_tip_1" = "•异常操作：若出现漏液，请勿使用，并拍照留档上报";
+
+// 气味检查
+"wr_solution_install_step_1" = "气味检查";
+
+// •打开后应有轻微糖浆味。
+"wr_solution_install_step_1_tip_0" = "•打开后应有轻微糖浆味。";
+
+// •异常操作：若出现酸臭味、霉味或刺激性气味，请弃用。
+"wr_solution_install_step_1_tip_1" = "•异常操作：若出现酸臭味、霉味或刺激性气味，请弃用。";
+
+// 安装注意事项
+"wr_solution_install_step_2" = "安装注意事项";
+
+// • 请先撕下药液袋袋底部贴纸和袋嘴贴纸
+"wr_solution_install_step_2_tip_0" = "• 请先撕下药液袋袋底部贴纸和袋嘴贴纸";
+
+// •药液口袋需完全扣入支架对应扣位，装入设备仓体内部直到不动为止。
+"wr_solution_install_step_2_tip_1" = "•药液口袋需完全扣入支架对应扣位，装入设备仓体内部直到不动为止。";
+
+// •药液应完全插入、无倾斜、无渗漏
+"wr_solution_install_step_2_tip_2" = "•药液应完全插入、无倾斜、无渗漏";
+
+// • 检查连接处是否密封良好
+"wr_solution_install_step_2_tip_3" = "• 检查连接处是否密封良好";
+
+// 使用注意事项
+"wr_solution_install_step_3" = "使用注意事项";
+
+// • 使用前请充分摇晃
+"wr_solution_install_step_3_tip_0" = "• 使用前请充分摇晃";
+
+// • 请在清晨、傍晚或夜间施用，以避免阳光中的UV 和高温对产品中的微生物造成伤害
+"wr_solution_install_step_3_tip_1" = "• 请在清晨、傍晚或夜间施用，以避免阳光中的UV 和高温对产品中的微生物造成伤害";
+
+// • 请勿使用雨水混合本产品使用
+"wr_solution_install_step_3_tip_2" = "• 请勿使用雨水混合本产品使用";
+
+// • 禁止在使用前、中、后施用以下物质：除草剂、肥料、杀虫剂杀菌剂或任何含氯产品
+"wr_solution_install_step_3_tip_3" = "• 禁止在使用前、中、后施用以下物质：除草剂、肥料、杀虫剂杀菌剂或任何含氯产品";
+
+// • 使用后若暂不使用，应立即密封放回阴凉处
+"wr_solution_install_step_3_tip_4" = "• 使用后若暂不使用，应立即密封放回阴凉处";
+
+// 安全防护注意事项
+"wr_solution_install_step_4" = "安全防护注意事项";
+
+// •避免皮肤长时间接触
+"wr_solution_install_step_4_tip_0" = "•避免皮肤长时间接触";
+
+// • 避免儿童误食
+"wr_solution_install_step_4_tip_1" = "• 避免儿童误食";
+
+// • 避免接触眼睛、开放性伤口或溃疡。
+"wr_solution_install_step_4_tip_2" = "• 避免接触眼睛、开放性伤口或溃疡。";
+
+// •避免吸入粉尘。
+"wr_solution_install_step_4_tip_3" = "•避免吸入粉尘。";
+
+// •接触后请彻底清洗。
+"wr_solution_install_step_4_tip_4" = "•接触后请彻底清洗。";
+
+// 存储注意事项
+"wr_solution_install_step_5" = "存储注意事项";
+
+// • 药液需避光储存，严禁阳光直射
+"wr_solution_install_step_5_tip_0" = "• 药液需避光储存，严禁阳光直射";
+
+// • 理想储存温度为50 至 86 华氏度
+"wr_solution_install_step_5_tip_1" = "• 理想储存温度为50 至 86 华氏度";
+
+// • 保质期：2年（86华氏度以下）
+"wr_solution_install_step_5_tip_2" = "• 保质期：2年（86华氏度以下）";
+
+// • 生产日期：见包装此面打印处
+"wr_solution_install_step_5_tip_3" = "• 生产日期：见包装此面打印处";
+
+// 药液任务引导
+"wr_solution_guide" = "药液任务引导";
+
+// 注意事项
+"wr_notes" = "注意事项";
+
+// IrriSense会依据药液特性和区域面积，智能计算单次施用用量，建议植被生长期内施用6次
+"wr_solution_guide_step_0_tip_0" = "IrriSense会依据药液特性和区域面积，智能计算单次施用用量，建议植被生长期内施用6次";
+
+// 避免雨天、高温、大风天气使用
+"wr_solution_guide_step_0_tip_1" = "避免雨天、高温、大风天气使用";
+
+// 为保障药液任务的有效进行
+"wr_solution_guide_step_1_tip_0" = "为保障药液任务的有效进行";
+
+// 需要确认是否为上次使用的药液袋，如果不是建议进行扫码安装后使用
+"wr_solution_guide_step_1_tip_1" = "需要确认是否为上次使用的药液袋，如果不是建议进行扫码安装后使用";
+
+// 选择要使用的药液和需要浇灌的区域，触发开始进行药液任务的执行
+"wr_solution_guide_step_2_tip_0" = "选择要使用的药液和需要浇灌的区域，触发开始进行药液任务的执行";
+
+// 在推荐周期内药剂用量达标的区域将不可触发药液任务，避免对草坪造成异常的情况
+"wr_solution_reminder_tip_dosage_meets_in_task" = "在推荐周期内药剂用量达标的区域将不可触发药液任务，避免对草坪造成异常的情况";
+
+// 药液提示
+"wr_solution_reminder" = "药液提示";
+
+// 已满足单次施用周期用量，请35天周期后再次施用
+"wr_solution_reminder_tip_dosage_meet" = "已满足单次施用周期用量，请35天周期后再次施用";
+
+// 您有区域缺少药液浇灌，为保持草坪健康，请打开药液任务查看，并进行药液浇灌
+"wr_solution_reminder_tip_dosage_lack" = "您有区域缺少药液浇灌，为保持草坪健康，请打开药液任务查看，并进行药液浇灌";
+
+// 推荐对区域1进行XX药液的补充浇灌，使其用量达到区域最佳状态
+"wr_solution_reminder_tip_recommend_irrigation" = "推荐对区域1进行XX药液的补充浇灌，使其用量达到区域最佳状态";
+
+// 施用已停止，请检查药液袋是否安装到位
+"wr_solution_reminder_tip_stop_solution" = "施用已停止，请检查药液袋是否安装到位";
+
+// 您有药液余量不足，请及时进行更换
+"wr_solution_reminder_tip_solution_low_you" = "您有药液余量不足，请及时进行更换";
+
+// 药液余量不足，请及时进行更换
+"wr_solution_reminder_tip_solution_low" = "药液余量不足，请及时进行更换";
+
+// 打开药液提醒将在药液使用过程中向您发送药液任务和用量等相关通知
+"wr_solution_reminder_desc" = "打开药液提醒将在药液使用过程中向您发送药液任务和用量等相关通知";
+
+// 药液量
+"wr_liquid_volume" = "药液量";
+
+// 剩余[xx]%
+"common_remain_s" = "剩余 %d%%";
+
+// 药液详情
+"wr_liquid_detail" = "药液详情";
+
+// 节水量
+"wr_water_saved_volume" = "节水量";
+
+// 我已知晓
+"common_i_aware" = "我已知晓";
+
+// 仅支持面区域
+"wr_only_supported_surface" = "仅支持面区域";
+
+// 稍后处理
+"common_later_process" = "稍后处理";
+
+// 激活历史: [xX]次
+"common_activate_history_s" = "激活历史: %d次";
+
+// 警告
+"common_caution" = "警告";
+
+// 请确认药液剩余量是否为零，如果再次使用需要重新扫码识别
+"wr_confirm_remaining_is_zero" = "请确认药液剩余量是否为零，如果再次使用需要重新扫码识别";
+
+// 药液安装引导
+"wr_liquid_installation_guide" = "药液安装引导";
+
+// 安装引导 - 替换上面
+"wr_liquid_installation_guide" = "安装引导";
+
+// 药液通知
+"wr_solution_reminder" = "药液通知";
+
+// 药液任务
+"wr_liquid_task" = "药液任务";
+
+// 药液类型
+"wr_type_of_solution" = "药液类型";
+
+//请选择药液
+"wr_please_select_liquid" = "请选择药液";
+
+// 排水引导
+"wr_drainage_guide" = "排水引导";
+
+// 排水模式：
+"wr_drainage_mode" = "排水模式：";
+// 在寒冷天气需要收纳设备时以及设备需要迁移时，可以帮助您排出管路中的残留药液和剩余水量
+"wr_drainage_alert_desc" = "在寒冷天气需要收纳设备时以及设备需要迁移时，可以帮助您排出管路中的残留药液和剩余水量";
+// 排水过程中，会有管路中的水会浇灌到你得草坪区域上
+"wr_drainage_guide_desc" = "排水过程中，会有管路中的水会浇灌到你得草坪区域上";
+// 1.关闭水阀
+"wr_drainage_step1" = "1.关闭水阀";
+// 2.取出尚未使用完的药液袋
+"wr_drainage_step2" = "2.取出尚未使用完的药液袋";
+// 3.保持设备的电源链接
+"wr_drainage_step3" = "3.保持设备的电源链接";
+// 排水中
+"wr_drainaging" = "排水中";
+// 浇灌单位阀门全开，将会在地图范围内排水
+"wr_drainage_valve_tip" = "浇灌单位阀门全开，将会在地图范围内排水";
+// 排水失败
+"wr_drainage_failed" = "排水失败";
+// 请取出药液后重新尝试
+"wr_drainage_retry_tip" = "请取出药液后重新尝试";
+// 确认取消排水？
+"wr_drainage_cancel_confirm" = "确认取消排水？";
+// 排水完成
+"wr_drainage_complete" = "排水完成";
+// 排水完成，管路仍会有残余水流，请拆卸水管后手动排出
+"wr_drainage_complete_tip" = "排水完成，管路仍会有残余水流，请拆卸水管后手动排出";
+// 排水超时
+"wr_drainage_timeout" = "排水超时";
+// 你的水源可能没有完全关闭，请检查关闭水源
+"wr_drainage_failed_noClosed_tip" = "你的水源可能没有完全关闭，请检查关闭水源";
+// 排水失败
+"wr_drainage_failed_again" = "排水失败";
+// 请确认药液已经取出并检查关闭水源
+"wr_drainage_failed_solution_tip" = "请确认药液已经取出并检查关闭水源";
+// 暂时无法使用排水功能，请等待设备空闲后再尝试。
+"wr_drainage_unavailable_alert" = "暂时无法使用排水功能，请等待设备空闲后再尝试。";
+// 还未添加点位，请在点击【+】确认变更点位后保存
+"wr_map_edit_no_point_add_tip" = "还未添加点位，请在点击【+】确认变更点位后保存";
+
+//专利信息
+"common_patent_information" = "专利信息";
+
+
+
+
+/// ----------- 2026.03.19 - 场地 ------------ ///
+
+// 家庭管理
+"common_family_manager" = "家庭管理";
+
+// 家庭名称
+"common_family_name" = "家庭名称";
+
+// 修改家庭名称
+"common_rename_family" = "修改家庭名称";
+
+// 家庭位置
+"common_family_location" = "家庭位置";
+
+// 设置家庭位置
+"common_set_family_location" = "设置家庭位置";
+
+// xx 台设备
+"common_family_devices_sufix" = "%d 台设备";
+
+// 删除场地前请先移除场地内设备后尝试
+"common_remove_device_before_delete" = "删除场地前请先移除场地内设备后尝试";
+
+// 选择场地类型
+"common_select_area_type" = "选择场地类型";
+
+// 泳池
+"common_pool" = "泳池";
+
+// 草坪
+"common_lawn" = "草坪";
+
+// 选择场地
+"common_select_size" = "选择场地";
+
+// 草坪信息
+"common_lawn_info" = "草坪信息";
+
+// 泳池信息
+"common_pool_info" = "泳池信息";
+
+// 请输入草坪名称
+"common_enter_lawn_name_tip" = "请输入草坪名称";
+
+// 星期选择
+"common_select_weekdays" = "星期选择";
+
+// 可多选循环周期
+"common_select_multiple_cycye" = "可多选循环周期";
+
+// 为了设备更好的提供服务请完成以下信息填写
+"common_place_info_desc" = "为了设备更好的提供服务请完成以下信息填写 ";
+
+// 跳过将不保存已填信息，是否继续
+"common_place_skip_tips" = "跳过将不保存已填信息，是否继续";
+
+// 信息保存成功
+"common_info_save_success" = "信息保存成功";
+
+// XXX未填写
+"common_place_info_required" = "%@未填写";
+
+// 设备展示设置
+"common_device_display_setting" = "展示设置";
+
+// 新建场地
+"common_add_site" = "新建场地";
+
+
+// 卡片
+"common_display_card" = "卡片";
+
+// 列表
+"common_display_list" = "列表";
+
+// 切换
+"common_switch" = "切换";
+
+// 位置未设置
+"common_location_not_set" = "位置未设置";
+
+// 创建场地数量已达上限，不允许创建
+"common_create_place_max_num_tip" = "创建场地数量已达上限，不允许创建";
+
+// 请输入家庭名称
+"common_please_enter_family_name" = "请输入家庭名称";
+
+// 长度限制为 25 个字符
+"common_length_limit_characters_25" = "长度限制为 25 个字符";
+
+// 请输入新的家庭名称
+"common_please_enter_new_family_name" = "请输入新的家庭名称";
+
+// Length limit 200 characters
+"common_length_limit_characters_200" = "Length limit 200 characters";
+
+// 请选择场地类型
+"comon_please_select_area_type" = "请选择场地类型";
+
+/// ----------- 2025.12.30 - 四代配网 ------------ ///
+
+// 添加设备
+"common_gen4_connect_add_device_title" = "添加设备";
+
+// 请确保设备已经开启电源，手机位于要添加的设备及附近
+"common_gen4_connect_ensure_powered_on_by_add" = "请确保设备已经开启电源，手机位于要添加的设备及附近";
+
+// 搜索中
+"common_searching" = "搜索中";
+
+// 搜索结束
+"common_search_end" = "搜索结束";
+
+// 没有发现设备
+"common_search_device_failure" = "没有发现设备";
+
+// 你可以尝试以下操作
+"common_gen4_connect_try_step_title" = "你可以尝试以下操作";
+
+// 1.确保设备以开机并将手机靠近设备
+"common_gen4_connect_try_step_1" = "1.确保设备以开机并将手机靠近设备";
+
+// 2.将设备重置后再次连接，蓝牙指示灯闪烁
+"common_gen4_connect_try_step_2" = "2.将设备重置后再次连接，蓝牙指示灯闪烁";
+
+// 3.确保其他人已经断开连接
+"common_gen4_connect_try_step_3" = "3.确保其他人已经断开连接";
+
+// 4.在手机设置中关闭蓝牙后再打开
+"common_gen4_connect_try_step_4" = "4.在手机设置中关闭蓝牙后再打开";
+
+// 仍无法解决，请查看[搜索不到你的设备]或联系售后
+"common_gen4_connect_try_step_5" = "仍无法解决，请查看[搜索不到你的设备]或联系售后";
+
+// 发现X台可添加设备
+"common_found_devices" = "发现%@台可添加设备";
+
+// 手动添加
+"common_add_manually" = "手动添加";
+
+// 扫码添加
+"common_add_QR" = "扫码添加";
+
+// 允许“Aiper App”使用蓝牙权限
+"common_aiper_use_ble_permission" = "允许“Aiper App”使用蓝牙权限";
+
+// 请在系统设置中开启“Aiper App”的蓝牙使用权限
+"common_ble_permission_setting" = "请在系统设置中开启“Aiper App”的蓝牙使用权限";
+
+// 允许“Aiper App”使用定位权限
+"common_aiper_use_location_permission" = "允许“Aiper App”使用定位权限";
+
+// 请在系统设置中开启“Aiper App”的定位使用权限
+"common_location_permission_setting" = "请在系统设置中开启“Aiper App”的定位使用权限";
+
+// 打开蓝牙开关
+"common_turn_on_ble" = "打开蓝牙开关";
+
+// 如何打开蓝牙请参考搜索帮助
+"common_how_turn_on_ble" = "如何打开蓝牙请参考搜索帮助";
+
+// 帮助
+"common_help" = "帮助";
+
+// 搜索帮助
+"common_search_help" = "搜索帮助";
+
+// 查看兼容设备
+"common_btn_compatible_devices" = "查看兼容设备";
+
+// 请确保设备你的设备与应用兼容
+"common_search_help_details_0" = "请确保设备你的设备与应用兼容";
+
+// 请确保设备已经开机并进入配对状态
+"common_search_help_details_1" = "请确保设备已经开机并进入配对状态";
+
+// 兼容产品
+"common_compatible_products" = "兼容产品";
+
+// 配置向导
+"common_configuration_wizard" = "配置向导";
+
+// 内容加载失败，请检查网络连接后重试
+"common_load_content_fail" = "内容加载失败，请检查网络连接后重试";
+
+// 重新加载
+"common_reload" = "重新加载";
+
+// 已确认上述操作
+"common_confirm_above_step" = "已确认上述操作";
+
+// 将设备的二维码与屏幕对齐
+"common_QR_align_screen" = "将设备的二维码与屏幕对齐";
+
+// 网络配置
+"common_network_config" = "网络配置";
+
+// 设置 WiFi 并输入密码，仅支持 2.4GHz
+"common_network_config_hz_24" = "设置 WiFi 并输入密码，仅支持 2.4GHz";
+
+// 设置 WiFi 并输入密码，仅支持 5GHz
+"common_network_config_hz_5" = "设置 WiFi 并输入密码，仅支持 5GHz";
+
+// 设置 WiFi 并输入密码，支持 2.4GHz和5GHz
+"common_network_config_hz_all" = "设置 WiFi 并输入密码，支持 2.4GHz和5GHz";
+
+// 切换Wi-Fi
+"common_switch_wifi" = "切换Wi-Fi";
+
+// 开始配置网络
+"common_start_network_config" = "开始配置网络";
+
+// 将手机和要绑定的设备设备靠近，并确保手机网络信号良好
+"common_connect_network_ble_ap_tip_0" = "• 将手机的蓝牙打开和要绑定的设备靠近，并确保手机网络信号良好";
+
+// 将手机的 WiFi 连接设备热点，并和要绑定的设备靠近
+"common_connect_network_ble_ap_tip_1" = "• 将手机的 WiFi 连接设备热点，并和要绑定的设备靠近";
+
+// 绑定过程中请不要把App切换至后台或退出应用
+"common_network_config_tip_1" = "• 绑定过程中请不要把App切换至后台或退出应用";
+
+// 手机连接设备中
+"common_network_config_step_0_ing" = "手机连接设备中  ";
+
+// 手机连接设备失败
+"common_network_config_step_0_fail" = "手机连接设备失败";
+
+// 手机连接设备成功
+"common_network_config_step_0_success" = "手机连接设备成功";
+
+// 设备进行认证
+"common_network_config_step_1" = "设备进行认证";
+
+// 设备进行认证中
+"common_network_config_step_1_ing" = "设备进行认证中";
+
+// 设备进行认证成功
+"common_network_config_step_1_success" = "设备进行认证成功";
+
+// 设备进行认证失败
+"common_network_config_step_1_fail" = "设备进行认证失败";
+
+// 设备正在尝试连接网络
+"common_network_config_step_2_ing" = "设备正在尝试连接网络";
+
+// 设备连接网络失败
+"common_network_config_step_2_fail" = "设备连接网络失败";
+
+// 设备连接网络成功
+"common_network_config_step_2_success" = "设备连接网络成功";
+
+// 账号绑定中
+"common_network_config_step_3_ing" = "账号绑定中";
+
+// 账号绑定成功
+"common_network_config_step_3_success" = "账号绑定成功";
+
+// 账号绑定失败
+"common_network_config_step_3_fail" = "账号绑定失败";
+
+// 退出
+"common_network_exit" = "退出";
+
+// 设备绑定中
+"common_connect_network_title" = "设备绑定中";
+
+// 您的手机蓝牙未开启，请前往开启手机蓝牙后重试
+"netconfig_fail_turn_off_ble" = "您的手机蓝牙未开启，请前往开启手机蓝牙后重试";
+
+// 请确认您的手机连接到【设备蓝牙名称】
+"netconfig_fail_connect_timeout" = "请确认您的手机连接到 %@";
+
+// 用户在多台手机上同时对同一设备发起绑定请求，导致冲突
+"netconfig_fail_multiple_bind" = "用户在多台手机上同时对同一设备发起绑定请求，导致冲突";
+
+// 设备未处于配网模式，请按配置引导操作设备进入配对状态后重试
+"netconfig_fail_not_in_pairing_mode" = "设备未处于配网模式，请按配置引导操作设备进入配对状态后重试";
+
+// 网络异常，请检查手机网络连接情况后重试
+"netconfig_fail_network_error" = "网络异常，请检查手机网络连接情况后重试";
+
+// 设备上报数据异常，请联系客服支持
+"netconfig_fail_reported_abnormal" = "设备上报数据异常，请联系客服支持";
+
+// 未查询到设备信息，请联系客服支持
+"netconfig_fail_no_infomation" = "未查询到设备信息，请联系客服支持";
+
+// 设备请求数据错误，请联系客服支持
+"netconfig_fail_request_data_error" = "设备请求数据错误，请联系客服支持";
+
+// 当前设备已经被绑定，请重置设备后重试
+"netconfig_fail_did_bind" = "当前设备已经被绑定，请重置设备后重试";
+
+// 您的设备暂时无法正常使用相关功能，若有疑问，可联系客服处理
+"netconfig_fail_cannot_use_functions" = "您的设备暂时无法正常使用相关功能，若有疑问，可联系客服处理";
+
+// Wi-Fi 信息传输失败，请保持设备处于配对模式，并将手机与设备靠近
+"netconfig_fail_infomation_transmission_fail" = "Wi-Fi 信息传输失败，请保持设备处于配对模式，并将手机与设备靠近";
+
+// 请确认输入了正确的 WiFi 的名称，设备仅支持 2.4GHz
+"netconfig_fail_error_wifi_name_hz_24" = "请确认输入了正确的 WiFi 的名称，设备仅支持 2.4GHz";
+
+// 请确认输入了正确的 WiFi 的名称，设备支持 2.4GHz 和 5GHz
+"netconfig_fail_error_wifi_name_hz_all" = "请确认输入了正确的 WiFi 的名称，设备支持 2.4GHz 和 5GHz";
+
+// WiFi密码错误
+// 请确认输入了正确的WiFi密码
+"netconfig_fail_error_wifi_pd" = "WiFi密码错误
+请确认输入了正确的WiFi密码";
+
+// WiFi 信号弱，请将设备靠近路由器以保证信号质量
+"netconfig_fail_weak_wifi" = "WiFi 信号弱，请将设备靠近路由器以保证信号质量";
+
+// 无法连接到服务器，请将设备靠近路由器以保证信号质量
+"netconfig_fail_unable_connect_server" = "无法连接到服务器，请将设备靠近路由器以保证信号质量";
+
+// 服务器连接超时，请将设备靠近路由器以保证信号质量
+"netconfig_fail_timeout_connect_server" = "服务器连接超时，请将设备靠近路由器以保证信号质量";
+
+// 设备认证失败，请联系客服
+"netconfig_fail_authentication_fail" = "设备认证失败，请联系客服";
+
+// 无法解析 Aiper 服务器地址，请检查网络配置
+"netconfig_fail_unable_resolve_server_address" = "无法解析 Aiper 服务器地址，请检查网络配置";
+
+// 无法连接到 Aiper 服务器，请将设备靠近路由器以保证信号质量
+"netconfig_fail_unable_connect_aiper_server" = "无法连接到 Aiper 服务器，请将设备靠近路由器以保证信号质量";
+
+// 当前服务繁忙，请稍后重试
+"netconfig_fail_service_busy" = "当前服务繁忙，请稍后重试";
+
+// 更换网络中
+"common_switch_network" = "更换网络中";
+
+// 已跳过网络配置，后续可在设备设置中进行配网
+"common_skip_network_config_title" = "已跳过网络配置，后续可在设备设置中进行配网";
+
+// 网络设置
+"common_network_settings_title" = "网络设置";
+
+// 设备绑定
+"common_network_device_binding" = "设备绑定";
+
+// 设备绑定中，确认退出吗？
+"common_device_binding_goback_tip" = "设备绑定中，确认退出吗？";
+
+// 开始联网
+"common_start_connect_wifi" = "开始联网";
+
+// 点击开始联网，进行设备网络设置
+"common_start_wifi_tip_0" = "点击开始联网，进行设备网络设置";
+
+// 未连接上WLAN，请重新尝试\n还未成功，请重置设备后尝试
+"common_fail_start_wifi_tip_0" = "未连接上WLAN，请重新尝试\n还未成功，请%@后尝试";
+
+// 请将手机WiFi连接到%@并返回至Aiper APP
+"common_start_wifi_tip_1" = "请将手机WiFi连接到%@并返回至Aiper APP";
+
+// 当前连接的WiFi是%@
+"common_start_wifi_tip_2" = "当前连接的WiFi是%@";
+
+// 如果没有成功，请返回尝试APP其他方式
+"common_start_wifi_tip_3" = "如果没有成功，请返回尝试APP其他方式";
+
+// 连接超时，请检查设备状态，重新尝试连接
+"common_fail_start_wifi_tip_1" = "连接超时，请检查设备状态，重新尝试连接";
+
+// 扫描二维码
+"common_scan_qr_code" = "扫描二维码";
+
+// 更换WiFi
+"common_change_network_switch_wifi" = "更换WiFi";
+
+// 推荐：使用信号强度良好及以上等级的 WiFi
+"common_change_network_signal_strength_tip" = "推荐：使用信号强度良好及以上等级的 WiFi";
+
+// 设备当前链接wifi
+"common_change_network_current_wifi" = "设备当前链接wifi";
+
+// 信号强度
+"common_change_network_signal_strength" = "信号强度";
+
+// 连接成功
+"common_network_connect_success" = "连接成功";
+
+// 连接失败
+"common_network_connect_fail" = "连接失败";
+
+// 重置设备
+"common_network_connect_reset_device" = "重置设备";
+
+// 优秀
+"common_change_network_wifi_excellent" = "优秀";
+
+// 良好
+"common_change_network_wifi_good" = "良好";
+
+// 一般
+"common_change_network_wifi_fair" = "一般";
+
+// 微弱
+"common_change_network_wifi_week" = "微弱";
+
+// 信号稳定适合使用
+"common_change_network_wifi_excellent_tip" = "信号稳定适合使用";
+
+// 信号适合使用
+"common_change_network_wifi_good_tip" = "信号适合使用";
+
+// 信号强度一般，不适合使用
+"common_change_network_wifi_fair_tip" = "信号强度一般，不适合使用";
+
+// 信号强度差，不适合使用
+"common_change_network_wifi_week_tip" = "信号强度差，不适合使用";
+
+// 暂无相机权限
+"common_no_camera_permission" = "暂无相机权限";
+
+///--------------2026/01/09 登录注册流程中文案更正--------------///
+
+//设置账户密码
+"common_create_account_pwd" = "设置账户密码";
+//请设置你的账户密码，并重新输入以验证一致性。
+"common_enter_and_confirm_account_pwd" = "请设置你的账户密码，并重新输入以验证一致性。";
+//账户密码
+"common_account_pwd" = "账户密码";
+//确认密码
+"common_re_enter_pwd" = "确认密码";
+
+// 运行时长
+"common_running_duration" = "运行时长";
+
+// 最后一次清洁时间
+"common_last_cleaning_time" = "最后一次清洁时间";
+
+//叶子
+"common_leaf" = "叶子";
+//果实
+"common_fruit" = "果实";
+//楼梯
+"common_staircase" = "楼梯";
+//台阶
+"common_step" = "台阶";
+//换水口
+"common_water_return_inlet" = "换水口";
+//地漏
+"common_floor_drain" = "地漏";
+//灯
+"common_light" = "灯";
+//游泳圈
+"common_swim_ring" = "游泳圈";
+//撇渣器
+"common_skimmer" = "撇渣器";
+//缓释器
+"common_chlorine_dispenser" = "缓释器";
+//玩具
+"common_toy" = "玩具";
+
+//部分完成
+"common_partially_completed" = "部分完成";
+//任务失败
+"common_task_failed" = "任务失败";
+//发现脏污/障碍
+"common_dirt_detected" = "发现脏污/障碍";
+//时间线
+"common_timeline" = "时间线";
+//设备入水
+"common_entering_water" = "设备入水";
+//下潜
+"common_diving" = "下潜";
+//设备自检
+"common_self_test" = "设备自检";
+//沿边清扫
+"common_edge_sweeping" = "沿边清扫";
+//平台感知
+"common_platform_detection" = "平台感知";
+//电量预估
+"common_estimated_runtime" = "电量预估";
+//以下结果基于单个模式的使用场景测算，不适用于多个模式组合。
+"common_battery_estimated_des" = "以下结果基于单个模式的使用场景测算，不适用于多个模式组合。";
+//电池信息
+"common_battery_information" = "电池信息";
+//电池健康度
+"common_battery_health" = "电池健康度";
+//电量使用情况
+"common_battery_usage" = "电量使用情况";
+//详情
+"common_details" = "详情";
+
+//全面
+"device_aio_mode_4" = "全面";
+//水下
+"device_underwater_mode_4" = "水下";
+//池底
+"device_floor_mode_4" = "池底";
+//池壁
+"device_wall_mode_4" = "池壁";
+//AI托管（智能托管）
+"device_ai_navium_mode_4" = "AI托管（智能托管）";
+//AI巡检
+"device_ai_patrol_mode_4" = "AI巡检";
+//水面Ai巡检
+"device_surface_patrol_mode_4" = "水面Ai巡检";
+//池底Ai巡检
+"device_floor_patrol_mode_4" = "池底Ai巡检";
+//池底加水面Ai巡检
+"device_surface_floor_patrol_mode_4" = "池底加水面Ai巡检";
+//随机模式
+"device_random_mode_4" = "随机模式";
+//个性化
+"device_custom_mode_4" = "个性化";
+//遥控
+"device_remote_control_mode_4" = "遥控";
+//完成一次全面的泳池清洁
+"device_aio_mode_4_desc" = "完成一次全面的泳池清洁";
+//完成一次池底+池壁清洁
+"device_underwater_mode_4_desc" = "完成一次池底+池壁清洁";
+//通过视觉识别泳池脏污情况，自动规划并执行清洁任务。
+"device_ai_patrol_mode_4_desc" = "通过视觉识别泳池脏污情况，自动规划并执行清洁任务。";
+//沿随机方向进行池底和池壁清洁，适合复杂泳池环境下使用。
+"device_random_mode_4_desc" = "沿随机方向进行池底和池壁清洁，适合复杂泳池环境下使用。";
+//适用于具有多个大型台阶或平台区域的泳池
+"device_multizone_mode_4_desc" = "适用于具有多个大型台阶或平台区域的泳池";
+//启用视觉识别能力，增强脏污识别能力。
+"device_ai_patrol_mode_4_tip" = "启用视觉识别能力，增强脏污识别能力。";
+//启用AI Navium™ 后，您只需要将设备保持放置在泳池中，设备将根据天气、泳池环境、脏污情况自动调节清洁策略，定制最适合您的清洁计划。
+"device_ai_navium_mode_4_desc" = "启用AI Navium™ 后，您只需要将设备保持放置在泳池中，设备将根据天气、泳池环境、脏污情况自动调节清洁策略，定制最适合您的清洁计划。";
+//您只需要将设备保持放置在泳池中，设备将根据智能策略定期更新清洁计划并自动执行清洁任务。
+"device_ai_navium_mode_4_tip" = "您只需要将设备保持放置在泳池中，设备将根据智能策略定期更新清洁计划并自动执行清洁任务。";
+//正在启动智能托管
+"start_smart_hosting" = "正在启动智能托管";
+//正在分析作业环境
+"analyzing_area" = "正在分析作业环境";
+//正在创建清洁计划
+"creating_cleaning_schedule" = "正在创建清洁计划";
+//没有计划
+"common_no_schedule" = "没有计划";
+//托管设置
+"preference_hosting" = "托管设置";
+//气候分析
+"climate_analysis" = "气候分析";
+//通过分析近期天气情况创建更科学的清洁计划
+"climate_analysis_desc" = "通过分析近期天气情况创建更科学的清洁计划";
+//自适应清洁
+"self_adaptive_cleaning" = "自适应清洁";
+//根据泳池环境自动调节清洁策略
+"self_adaptive_cleaning_desc" = "根据泳池环境自动调节清洁策略";
+//习惯偏好
+"cleaning_habits" = "习惯偏好";
+//根据日常清洁习惯自动调节清洁策略
+"cleaning_habits_desc" = "根据日常清洁习惯自动调节清洁策略";
+//将设备放入水中
+"place_device_into_water" = "将设备放入水中";
+
+//语音提示
+"common_voice_prompt" = "语音提示";
+//音量
+"common_volume" = "音量";
+//拖动滑块以调节音量并试听
+"common_operate_desc" = "拖动滑块以调节音量并试听";
+//男声
+"common_male_voice" = "男声";
+//女声
+"common_female_voice" = "女声";
+//语言
+"common_language" = "语言";
+
+//关键传感器异常，本次任务以随机模式执行。
+"sensor_abnormal_alert" = "关键传感器异常，本次任务以随机模式执行。";
+//气舱状态异常，请校准气舱。
+"air_chamber_abnormal_alert" = "气舱状态异常，请校准气舱。";
+//发现云端备份
+"backup_found" = "发现云端备份";
+//发现云端备份，是否恢复你的偏好设置？
+"backup_found_desc" = "发现云端备份，是否恢复你的偏好设置？";
+//恢复
+"common_restore" = "恢复";
+//备份与恢复
+"back_and_recovery" = "备份与恢复";
+//没有备份数据
+"no_backup_data" = "没有备份数据";
+//备份
+"common_backup" = "备份";
+//备份内容
+"backup_content" = "备份内容";
+//清洁模式偏好和排序
+"cleaning_mode_backup_desc" = "清洁模式偏好和排序";
+//智能托管相关偏好设置
+"smart_hosting_backup_desc" = "智能托管相关偏好设置";
+//备份清洁路径偏好、召回位置偏好、补光灯开关、摄像头开关、实验室设置偏好。
+"more_setting_backup_desc" = "备份清洁路径偏好、召回位置偏好、补光灯开关、摄像头开关、实验室设置偏好。";
+
+//进气孔堵塞或气舱漏气
+"chameber_fail_desc" = "进气孔堵塞或气舱漏气";
+//气舱校准
+"chamber_calibration" = "气舱校准";
+//当气舱异常时，通过本功能重置气舱状态。
+"chamber_calibration_desc" = "当气舱异常时，通过本功能重置气舱状态。";
+//校准气压舱前，请确认符合以下条件：
+"chameber_condition_tip" = "校准气压舱前，请确认符合以下条件：";
+//设备已连接。
+"chameber_condition_1_desc" = "设备已连接。";
+//设备已开机，并且处于充电状态。
+"chameber_condition_2_desc" = "设备已开机，并且处于充电状态。";
+//校准过程需要1-2分钟，校准期间请勿将设备放入泳池或关闭电源，以避免设备损坏。
+"chameber_process_desc" = "校准过程需要1-2分钟，校准期间请勿将设备放入泳池或关闭电源，以避免设备损坏。";
+//开始校准
+"start_calibration" = "开始校准";
+//请在充电状态下操作
+"operate_while_charging" = "请在充电状态下操作";
+
+//水面AI巡检时长
+"device_ai_surfer_clean_time" = "水面AI巡检时长";
+//池底AI巡检时长
+"device_ai_floor_clean_time" = "池底AI巡检时长";
+//摄像头与补光灯
+"camera_and_fill_light" = "摄像头与补光灯";
+//开启摄像头识别能力，可以在清洁中
+"camera_and_fill_light_desc" = "开启摄像头识别能力，可以在清洁中
+识别脏污和自动避障。";
+//AI巡检需要启用摄像头以识别脏污，确认开启摄像头？
+"camera_and_fill_light_tip" = "AI巡检需要启用摄像头以识别脏污，确认开启摄像头？";
+//您的设备已断开连接，可能是以下原因：
+"x30_disconnect_dialog_message" = "您的设备已断开连接，可能是以下原因：
+
+设备在水下
+将设备从水中捞出，点击电源按钮重新启动，以恢复通讯。
+
+电量不足
+如果点击设备的电源按钮时无法开机，请充电后重试。
+
+信号不稳定：
+1.确认路由器工作正常，并且设备在 WiFi 的覆盖范围内。
+2. 确认手机蓝牙已启用，并且设备距离手机在25米以内。
+
+通讯被占用：
+当前设备被其他用户连接，通讯被占用。
+
+固件升级中：
+请等待，固件升级完成后网络连接将自动恢
+复。";
+
+//智慧按钮设置
+"custom_button" = "智慧按钮设置
+自定义按钮";
+//将自定义按钮设置为以下功能
+"custom_button_desc" = "将自定义按钮设置为以下功能";
+
+//最多选择2个区域
+"common_select_up_2_areas" = "最多选择2个区域";
+//昨天
+"common_yerterday" = "昨天";
+//电池
+"common_battery" = "电池";
+//音色
+"device_tone" = "音色";
+//恢复备份
+"device_restore_backup" = "恢复备份";
+//确认将当前设备的设置项还原为备份时的设定？
+"device_confirm_restore_device_dialog_msg" = "确认将当前设备的设置项还原为备份时的设定？";
+//备份中...
+"common_backing_up" = "备份中...";
+//正在恢复...
+"common_restoring" = "正在恢复...";
+//最后一次备份：
+"common_last_back_prefix" = "最后一次备份：";
+//备份成功
+"common_backup_successful" = "备份成功";
+//备份失败
+"common_backup_failed" = "备份失败";
+//恢复成功
+"common_restore_successful" = "恢复成功";
+//恢复失败
+"common_restore_failed" = "恢复失败";
+//助手
+"common_assistant" = "助手";
+
+//通知时间设置
+"common_notification_time_settings" = "通知时间设置";
+
+// 已连接
+"common_connected" = "已连接";
+
+// 已断联
+"common_disconnected" = "已断联";
+
+// 灯光
+"device_light" = "灯光";
+
+// 喷泉
+"device_fountain" = "喷泉";
+
+// 音效
+"device_equalizer" = "音效";
+
+// 串联
+"device_soundlink" = "串联";
+
+// 确认关机？
+"common_confirm_the_shutdown" = "确认关机？";
+
+// 关机
+"common_shutdown" = "关机";
+
+// EQ模式
+"device_equalizer_mode" = "EQ模式";
+
+// 预设模式
+"device_default_mode" = "预设模式";
+
+// 标准
+"device_standard" = "标准";
+
+// 户外
+"device_outdoor" = "户外";
+
+// 流行
+"device_pop" = "流行";
+
+// 摇滚
+"device_rock" = "摇滚";
+
+// 爵士
+"device_jazz" = "爵士";
+
+// 古典
+"device_classic" = "古典";
+
+// 自定义均衡器
+"device_custom_equalizer" = "自定义均衡器";
+
+// 创建均衡器
+"device_create_equalizer" = "创建均衡器";
+
+// 自定义
+"common_custom" = "自定义";
+
+// 灯光设置
+"device_light_settings" = "灯光设置";
+
+// 灯光开关
+"device_light_switch" = "灯光开关";
+
+// 灯光强度
+"device_light_strength" = "灯光强度";
+
+// 高
+"common_high" = "高";
+
+// 中
+"common_middle" = "中";
+
+// 低
+"common_low" = "低";
+
+// 灯光模式
+"device_light_mode" = "灯光模式";
+
+// 音乐旋转律动
+"device_music_rotation_rhythm" = "音乐旋转律动";
+
+// 音乐节奏跳动
+"device_music_rhythm_moving" = "音乐节奏跳动";
+
+// 红蓝变换
+"device_red_blue_transform" = "红蓝变换";
+
+// 七彩渐变
+"device_colorful_transform" = "七彩渐变";
+
+// 纯色
+"device_monochrome" = "纯色";
+
+// 喷泉设置
+"device_fountain_settings" = "喷泉设置";
+
+// 喷泉高度
+"device_fountain_high" = "喷泉高度";
+
+// 喷泉模式
+"device_fountain_mode" = "喷泉模式";
+
+// 喷泉开关
+"device_fountain_switch" = "喷泉开关";
+
+// 音乐喷泉
+"device_musical_fountain" = "音乐喷泉";
+
+// 花式喷泉
+"device_fancy_fountain" = "花式喷泉";
+
+// 固定喷泉
+"device_fixed_fountain" = "固定喷泉";
+
+// 定时
+"common_scheduled" = "定时";
+
+// 设备串联
+"device_tandem" = "设备串联";
+
+// 同时连接多个蓝牙音箱，实现同步播放。让丰富的旋律包围每个角落，为您打造真正身临其境的听觉体验。
+"device_tandem_function_description" = "同时连接多个蓝牙音箱，实现同步播放。让丰富的旋律包围每个角落，为您打造真正身临其境的听觉体验。";
+
+// 查看教程
+"device_view_the_tutorial" = "查看教程";
+
+// 当前已连接：
+"device_currently_connected" = "当前已连接：";
+
+// 刷新
+"device_refresh" = "刷新";
+
+// 自定义名称
+"common_custom_name" = "自定义名称";
+
+// 暂无定时任务
+"device_no_scheduled_tasks_yet" = "暂无定时任务";
+
+// 功能
+"common_function" = "功能";
+
+// 与现有任务冲突“XX:XX -XX:XX XX”
+"device_conflict_with_existing_tasks" = "与现有任务冲突%@   ";
+
+// 1.确认设备已开机，将需要串联的设备靠近主设备（≤50cm），短按需要连接的产品串连键“ 🔗”
+"device_tandem_tutorial_step_one" = "1.确认设备已开机，将需要串联的设备靠近主设备（≤50cm），短按需要连接的产品串连键\"🔗\" ";
+
+// 2.等待设备蓝色灯闪烁后即连接成功。
+"device_tandem_tutorial_step_two" = "2.等待设备蓝色灯闪烁后即连接成功。";
+
+// 建立关联
+"device_establish_link" = "建立关联";
+
+// 确认串联设备已开机，短按需要解除串联的设备串联键“🔗”
+"device_unlink_tips" = "确认串联设备已开机，短按需要解除串联的设备串联键\"🔗\"";
+
+// 重置
+"common_reset" = "重置";
+
+// 不支持输入特殊字符
+"common_input_no_support_tip" = "不支持输入特殊字符";
+
+
+
+
+
+
+///--------------2026/02/04 长续航--------------///
+// 长续航
+"device_eco_mode" = "长续航";
+
+// 支持使用Filter Box (不支持 ultra-fine filter)  清洁轻度脏污的池底
+"device_eco_mode_desc" = "支持使用Filter Box (不支持 ultra-fine filter)  清洁轻度脏污的池底 ";
+
+// 仅支持使用Filter Box (Not for ultra-fine filter)  清洁轻度脏污的池底 。
+//可提升机器的续航能力，适用于面积更大的泳池。但清洁强度会下降，如需要深度清洁，请选择常规清洁模式。
+"device_eco_mode_tips" = "仅支持使用Filter Box (Not for ultra-fine filter)  清洁轻度脏污的池底 。可提升机器的续航能力，适用于面积更大的泳池。但清洁强度会下降，如需要深度清洁，请选择常规清洁模式。";
+
+// 请选择执行时间
+"device_cycle_select_time_tip" = "请选择执行时间";
+
+// 请选择执行周期
+"device_cycle_select_cycle_tip" = "请选择执行周期";
+
+// 开启周期清洁
+"device_cycle_open_schedule" = "开启周期清洁";
+
+
+
+
+///--------------2026/03/09 N30 --------------///
+// 设备未开机或已入水。机器在水下工作时蓝牙信号会中断，断联期间机器仍按预设任务工作，出水后将自动恢复连接
+"common_device_n30_offline_help_tip" = "设备未开机或已入水。机器在水下工作时蓝牙信号会中断，断联期间机器仍按预设任务工作，出水后将自动恢复连接";
+
+
+// 设备入水信号中断，当前显示为推测数据，设备出水后自动恢复实时连接
+"common_device_underwater_offline_when_resume_device_connect_aiper_tips" = "设备入水信号中断，当前显示为推测数据，设备出水后自动恢复实时连接";
+
+
+// 低电量水线停靠
+"common_device_low_battery_docking" = "低电量水线停靠";
+
+// 关闭后，提升续航，但设备低电量会沉入池底
+"common_device_low_battery_docking_desc" = "关闭后，提升续航，但设备低电量会沉入池底";
+
+// 开启后，可选择长续航清洁模式，该模式会提升清洁时长，但会降低清洁强度，适合轻度清洁
+"common_device_n30_eco_mode_desc" = "开启后，可选择长续航清洁模式，该模式会提升清洁时长，但会降低清洁强度，适合轻度清洁";
+
+
+
+// 选择清洁模式
+"common_device_n30_panel_guide_step_tip_1" = "选择清洁模式";
+
+// 点击开始，并将设备放入水中
+"common_device_n30_panel_guide_step_tip_2" = "点击开始，并将设备放入水中";
+
+// 点击智能托管按钮
+"common_device_n30_panel_guide_step_tip_3" = "点击智能托管按钮";
+
+// 请根据个人偏好配置托管模式
+"common_device_n30_ai_guide_step_tip_1" = "请根据个人偏好配置托管模式";
+
+// 智能托管中，再次点击智能托管图标可查看托管计划
+"common_device_n30_ai_guide_step_tip_2" = "智能托管中，再次点击智能托管图标可查看托管计划";
+
+///--------------2026/03/19 节水运营 --------------///
+// 官方
+"common_official" = "官方";
+// 参与人数
+"common_participantCount" = "参与人数";
+// 总节水量
+"common_totalWaterSaved" = "总节水量";
+// 查看详情
+"common_viewDetail" = "查看详情";
+// 进行中
+"common_inProgress" = "进行中";
+// 已达成
+"common_achieved" = "已达成";
+// 已结束
+"common_completed" = "已结束";
+// 待执行
+"common_pendingExecute" = "待执行";
+// 执行中
+"common_executing" = "执行中";
+// 执行完毕
+"common_executeCompleted" = "执行完毕";
+// 项目已完成
+"common_projectCompleted" = "项目已完成";
+// 项目已结束
+"common_projectEnded" = "项目已结束";
+// 项目背景
+"common_projectBackground" = "项目背景";
+// 展开更多
+"common_expandMore" = "展开更多";
+// 执行进度
+"common_executeProgress" = "执行进度";
+// 项目情况
+"common_projectStatus" = "项目情况";
+// 距离项目截止日期：
+"common_deadlineDays" = "距离项目截止日期：";
+// 节水目标
+"common_waterSaveTarget" = "节水目标";
+// 累计节水
+"common_cumulativeWaterSaved" = "累计节水";
+// 累计参与人数
+"common_cumulativeParticipants" = "累计参与人数";
+// 捐赠列表
+"common_donationList" = "捐赠列表";
+// 加载更多
+"common_loadMore" = "加载更多";
+// 正在加载中
+"common_loading" = "正在加载中";
+// 没有更多了
+"common_noMore" = "没有更多了";
+// 暂无执行进度
+"common_noExecuteProgress" = "暂无执行进度";
+// 暂无记录
+"common_noRecord" = "暂无记录";
+// 活动状态
+"common_activityStatus" = "活动状态";
+// 支持此项目
+"common_supportProject" = "支持此项目";
+// 已支持项目
+"common_supportedProjects" = "已支持项目";
+// 参加项目至项目截止时间内，您所累积的节水量都将在本项目中汇总，确认参加项目
+"common_confirmParticipantTip" = "参加项目至项目截止时间内，您所累积的节水量都将在本项目中汇总，确认参加项目";
+// 取消
+"common_cancel" = "取消";
+// 确定
+"common_confirm" = "确定";
+// 分享
+"common_share" = "分享";
+// 我参加的项目
+"common_my_projects" = "我参加的项目";
+// 更多项目
+"common_more_projects" = "更多项目";
+// 公益项目
+"common_public_welfare_projects" = "公益项目";
+// 请输入分享的内容
+"common_enter_share_content" = "请输入分享的内容";
+// 请先输入分享的内容
+"common_enter_share_content_first" = "请先输入分享的内容";
+// 捐赠值
+"common_donation_value" = "捐赠值";
+// 个人
+"common_individual" = "个人";
+// 未完成
+"common_incomplete" = "未完成";
+// 前往
+"common_view" = "前往";
+// 当前用户捐赠值
+"common_you_saved" = "您的捐赠值";
+//商店
+"common_store" = "商店";
+// 暂无天气数据
+"common_no_weather" = "暂无天气数据";
+
+// 全部
+"common_all_data" = "全部";
+
+//查看详情
+"common_view_details" = "查看详情";
+//智能推荐
+"common_smart_recommend" = "智能推荐";
+//暂无消息
+"common_no_messages_yet" = "暂无消息";
+//账户安全
+"common_account_security" = "账户安全";
+//你Aiper账户在陌生设备登录/异地登录，若非本人操作建议修改密码
+"common_remote_login_tip" = "你Aiper账户在陌生设备登录/异地登录，若非本人操作建议修改密码";
+//你的账号存在异常登录尝试，若非本人操作建议尝试修改密码
+"common_abnormal_login_tip" = "你的账号存在异常登录尝试，若非本人操作建议尝试修改密码";
+//开启通知权限
+"common_open_notification_permissions" = "开启通知权限";
+//开启通知权限，避免错过重要信息
+"common_open_notification_permissions_tips" = "开启通知权限，避免错过重要信息";
+
+
+
+
+
+
+///--------------2026/04/08 W2迭代 --------------///
+// 为确保检测准确度，请先校准水质检测探头。
+"w2_detection_probe_fisrt_message" = "为确保检测准确度，请先校准水质检测探头。";
+
+// 用流动清水冲洗传感器球泡
+"w2_start_probe_calibrate_rinse_ph_sensor" = "用流动清水冲洗传感器球泡";
+// 注意：设备入水后将通讯会中断，出水后自动恢复连接
+"device_clean_in_unoccupied_pool_note_tip" = "注意：设备入水后将通讯会中断，出水后自动恢复连接";
+
+// 预计有雨
+"common_device_n31_rain_expected" = "预计有雨";
+
+
+
+// Aiper Care
+"aiper_care" = "Aiper Care";
+
+// 为您的泳池机器人提供全方位的保护，让清洁体验无忧无虑
+"aiper_care_content" = "为您的设备选择合适的保障计划。享受全面的服务，让您高枕无忧。";
+
+// 查看
+"aiper_care_view" = "查看";
+
+// 了解更多
+"aiper_learn_more" = "了解更多";
+
+// 当前账户暂无订阅套餐
+"aiper_care_no_data" = "当前账户暂无订阅套餐";
+
+// 我的服务
+"aiper_my_service" = "我的服务";
+
+// 已生效
+"aiper_effective" = "已生效";
+
+// 已失效
+"aiper_expired" = "已失效";
+
+// 服务记录
+"care_service_records" = "服务记录";
+
+// 套餐权益
+"care_package_benefits" = "套餐权益";
+
+// 有效期:
+"care_valid_until" = "有效期: ";
+
+// 剩余次数:
+"care_remaining_attempts" = "剩余次数: ";
+
+// 已申请
+"care_applied" = "已申请";
+
+// 正在处理
+"care_processing" = "正在处理";
+
+// 已完成
+"care_completed" = "已完成 ";
+
+// 申请配件
+"care_request_accessories" = "申请配件";
+
+// 免费领取包含在您的服务计划中的消耗品和更换零件。提交您的请求以继续。
+"care_replace_parts_content" = "免费领取包含在您的服务计划中的消耗品和更换零件。提交您的请求以继续。";
+
+// 已取消
+"care_cancelled" = "已取消";
+
+// 服务详情
+"care_service_details" = "服务详情";
+
+// 服务名称
+"care_service_name" = "服务名称";
+
+// 配件
+"care_accessory" = "配件";
+
+// 备注
+"care_remark" = "备注";
+
+// 服务 ID
+"care_order_id" = "服务 ID";
+
+// 进度
+"care_order_progress" = "进度";
+
+// 申请时间
+"care_date_submitted" = "申请时间";
+
+// 结束时间
+"care_completion_date" = "结束时间";
+
+// 选择配件
+"care_accessories" = "选择配件";
+
+// 添加配件
+"care_add_accessories" = "添加配件";
+
+// 选择需要申请的配件
+"care_select_accessories" = "选择需要申请的配件";
+
+// 请输入备注信息
+"care_input_content" = "请输入备注信息";
+
+// 未选配件
+"care_warn" = "未选配件";
+
+// 设备更换
+"care_replacement_service" = "设备更换";
+
+// 性能故障无需维修，直接更换全新设备
+"care_replacement_service_content" = "性能故障无需维修，直接更换全新设备";
+
+// 上传附件
+"care_upload_attachments" = "上传附件";
+
+// 维修服务
+"care_repair_service" = "维修服务";
+
+// 提交故障设备维修申请，享受VIP优先支持。
+"care_repair_service_content" = "提交故障设备维修申请，享受VIP优先支持。";
+
+// 上传设备异样的照片或APP截图，jpg、png、webp 格式，10MB 以内
+"care_upload_pic_content" = "上传设备异样的照片或APP截图, jpg, png, webp格式,10MB以内";
+
+// 您的申请已提交系统审核，我们会在24小时内通过邮件给您反馈，感谢耐心等待！您可以在30分钟后在服务记录中查看进度
+"care_submit_ok" = "您的申请已提交系统审核, 我们会在24小时内通过邮件给您反馈, 感谢耐心等待!\n您可以在30分钟后在服务记录中查看进度";
+
+// 请输入问题描述
+"care_problem_input_content" = "请输入问题描述";
+
+// 删除
+"care_delete" = "删除";
+
+// 权益已失效
+"care_have_expired" = "权益已失效";
+
+// 上传的图片不能超过10M
+"care_cannot_exceed_10m" = "上传的图片不能超过10M";
+
+// 每增加一个配件消耗一次权益（剩余：
+"care_free_accessory" = "每增加一个配件消耗一次权益 (剩余:";
+
+// 请选择配件
+"care_choose_accessories" = "请选择配件";
+
+// 请填写问题描述
+"care_write_problem_describe" = "请填写问题描述";
+
+// 文件格式不支持
+"care_file_no_support" = "文件格式不支持";
+
+
+
+//设备休眠中，轻按设备电源键即可唤醒
+"device_sleep_mode_wake_tip" = "设备休眠中，轻按设备电源键即可唤醒";
+//设备正在进行静态监测，一旦检测到新的污垢，将自动恢复清洁。
+"device_static_monitoring_auto_resume_tip" = "设备正在进行静态监测，一旦检测到新的污垢，将自动恢复清洁。";

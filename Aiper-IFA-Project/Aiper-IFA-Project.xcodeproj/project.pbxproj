@@ -8,18 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		9B5B5D86568BCFA652877F90 /* Pods_Aiper_IFA_Project.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80DEEA68F40FBA12FA0C4061 /* Pods_Aiper_IFA_Project.framework */; };
+		E10F58532FD7B598000B4013 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E10F58522FD7B598000B4013 /* Localizable.strings */; };
+		E15390472FD8002100678A6F /* AppConfigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15390462FD8002100678A6F /* AppConfigs.swift */; };
+		E153904F2FD8032A00678A6F /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = E15390492FD8032A00678A6F /* test.html */; };
+		E15390502FD8032A00678A6F /* AIFWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E15390482FD8032A00678A6F /* AIFWebView.swift */; };
+		E15390512FD8032A00678A6F /* AIFSocketManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E153904B2FD8032A00678A6F /* AIFSocketManager.swift */; };
+		E15390522FD8032A00678A6F /* AIFRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E153904D2FD8032A00678A6F /* AIFRootViewController.swift */; };
 		E1BCC3D42FD27CC7007C459E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */; };
 		E1BCC3D62FD27CC7007C459E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3CE2FD27CC7007C459E /* LaunchScreen.storyboard */; };
 		E1BCC3D82FD27CC7007C459E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */; };
-		E1BCC3DC2FD2995E007C459E /* AIFRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */; };
-		E1BCC3E32FD2AC09007C459E /* AIFSocketManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */; };
-		E1BCC3F42FD2B3C2007C459E /* AIFWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */; };
-		E1BCC3F62FD2B4E2007C459E /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = E1BCC3F52FD2B4E2007C459E /* test.html */; };
-		E1BCC4032FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */; };
 		E1E747462FD7A2B0009E7D9B /* ImportFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747452FD7A2B0009E7D9B /* ImportFile.swift */; };
 		E1E7474A2FD7A452009E7D9B /* Dictionary+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */; };
 		E1E7474B2FD7A452009E7D9B /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E747482FD7A452009E7D9B /* String+Extension.swift */; };
-		E1E7474D2FD7A519009E7D9B /* AppConfigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */; };
 		E1E747512FD7A581009E7D9B /* Data+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,20 +27,23 @@
 		0D406DEFAA6BA6BEEDF5DF67 /* Pods-Aiper-IFA-Project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiper-IFA-Project.release.xcconfig"; path = "Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project.release.xcconfig"; sourceTree = "<group>"; };
 		18F42CBB3C24E4A2E8983789 /* Pods-Aiper-IFA-Project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Aiper-IFA-Project.debug.xcconfig"; path = "Target Support Files/Pods-Aiper-IFA-Project/Pods-Aiper-IFA-Project.debug.xcconfig"; sourceTree = "<group>"; };
 		80DEEA68F40FBA12FA0C4061 /* Pods_Aiper_IFA_Project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Aiper_IFA_Project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E10F58512FD7B598000B4013 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		E10F58542FD7B5B2000B4013 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		E10F585D2FD7B802000B4013 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		E10F585E2FD7B805000B4013 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		E15390462FD8002100678A6F /* AppConfigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigs.swift; sourceTree = "<group>"; };
+		E15390482FD8032A00678A6F /* AIFWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFWebView.swift; sourceTree = "<group>"; };
+		E15390492FD8032A00678A6F /* test.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
+		E153904B2FD8032A00678A6F /* AIFSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFSocketManager.swift; sourceTree = "<group>"; };
+		E153904D2FD8032A00678A6F /* AIFRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFRootViewController.swift; sourceTree = "<group>"; };
 		E1BCC3922FD27C5B007C459E /* Aiper-IFA-Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aiper-IFA-Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1BCC3CC2FD27CC7007C459E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1BCC3CD2FD27CC7007C459E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFRootViewController.swift; sourceTree = "<group>"; };
-		E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFSocketManager.swift; sourceTree = "<group>"; };
-		E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFWebView.swift; sourceTree = "<group>"; };
-		E1BCC3F52FD2B4E2007C459E /* test.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
-		E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIBluetoothProvisioningVC.swift; sourceTree = "<group>"; };
 		E1E747452FD7A2B0009E7D9B /* ImportFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportFile.swift; sourceTree = "<group>"; };
 		E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dictionary+Extension.swift"; sourceTree = "<group>"; };
 		E1E747482FD7A452009E7D9B /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
-		E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigs.swift; sourceTree = "<group>"; };
 		E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +76,33 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		E153904A2FD8032A00678A6F /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				E15390482FD8032A00678A6F /* AIFWebView.swift */,
+				E15390492FD8032A00678A6F /* test.html */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		E153904C2FD8032A00678A6F /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				E153904B2FD8032A00678A6F /* AIFSocketManager.swift */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		E153904E2FD8032A00678A6F /* AIFAWebView */ = {
+			isa = PBXGroup;
+			children = (
+				E153904A2FD8032A00678A6F /* Other */,
+				E153904C2FD8032A00678A6F /* Tools */,
+				E153904D2FD8032A00678A6F /* AIFRootViewController.swift */,
+			);
+			path = AIFAWebView;
+			sourceTree = "<group>";
+		};
 		E1BCC3892FD27C5A007C459E = {
 			isa = PBXGroup;
 			children = (
@@ -95,11 +125,9 @@
 			isa = PBXGroup;
 			children = (
 				E1E747492FD7A452009E7D9B /* IFA */,
-				E1BCC3DD2FD29D9C007C459E /* Other */,
-				E1BCC3DE2FD29D9C007C459E /* Tools */,
 				E1BCC3CA2FD27CC7007C459E /* AppDelegate.swift */,
-				E1BCC3DB2FD2995A007C459E /* AIFRootViewController.swift */,
-				E1BCC4022FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift */,
+				E153904E2FD8032A00678A6F /* AIFAWebView */,
+				E10F58522FD7B598000B4013 /* Localizable.strings */,
 				E1E747452FD7A2B0009E7D9B /* ImportFile.swift */,
 				E1BCC3CB2FD27CC7007C459E /* Assets.xcassets */,
 				E1BCC3CC2FD27CC7007C459E /* Info.plist */,
@@ -108,36 +136,11 @@
 			path = "Aiper-IFA-Project";
 			sourceTree = "<group>";
 		};
-		E1BCC3DD2FD29D9C007C459E /* Other */ = {
-			isa = PBXGroup;
-			children = (
-				E1BCC3F32FD2B3AE007C459E /* AIFWebView.swift */,
-				E1BCC3F52FD2B4E2007C459E /* test.html */,
-			);
-			path = Other;
-			sourceTree = "<group>";
-		};
-		E1BCC3DE2FD29D9C007C459E /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-				E1BCC3E02FD29F29007C459E /* Manager */,
-			);
-			path = Tools;
-			sourceTree = "<group>";
-		};
-		E1BCC3E02FD29F29007C459E /* Manager */ = {
-			isa = PBXGroup;
-			children = (
-				E1BCC3E22FD2AC06007C459E /* AIFSocketManager.swift */,
-			);
-			path = Manager;
-			sourceTree = "<group>";
-		};
 		E1E747492FD7A452009E7D9B /* IFA */ = {
 			isa = PBXGroup;
 			children = (
 				E1E7474E2FD7A581009E7D9B /* Data+Extension.swift */,
-				E1E7474C2FD7A519009E7D9B /* AppConfigs.swift */,
+				E15390462FD8002100678A6F /* AppConfigs.swift */,
 				E1E747472FD7A452009E7D9B /* Dictionary+Extension.swift */,
 				E1E747482FD7A452009E7D9B /* String+Extension.swift */,
 			);
@@ -190,6 +193,14 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
+				de,
+				es,
+				fr,
+				it,
+				nl,
+				"pt-BR",
+				"pt-PT",
 			);
 			mainGroup = E1BCC3892FD27C5A007C459E;
 			minimizedProjectReferenceProxies = 1;
@@ -207,9 +218,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E153904F2FD8032A00678A6F /* test.html in Resources */,
 				E1BCC3D42FD27CC7007C459E /* Assets.xcassets in Resources */,
+				E10F58532FD7B598000B4013 /* Localizable.strings in Resources */,
 				E1BCC3D62FD27CC7007C459E /* LaunchScreen.storyboard in Resources */,
-				E1BCC3F62FD2B4E2007C459E /* test.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,26 +299,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1BCC3DC2FD2995E007C459E /* AIFRootViewController.swift in Sources */,
 				E1BCC3D82FD27CC7007C459E /* AppDelegate.swift in Sources */,
-				E1BCC3F42FD2B3C2007C459E /* AIFWebView.swift in Sources */,
-				E1BCC4032FD6AD4C007C459E /* AIBluetoothProvisioningVC.swift in Sources */,
+				E15390472FD8002100678A6F /* AppConfigs.swift in Sources */,
 				E1E747512FD7A581009E7D9B /* Data+Extension.swift in Sources */,
 				E1E747462FD7A2B0009E7D9B /* ImportFile.swift in Sources */,
 				E1E7474A2FD7A452009E7D9B /* Dictionary+Extension.swift in Sources */,
 				E1E7474B2FD7A452009E7D9B /* String+Extension.swift in Sources */,
-				E1BCC3E32FD2AC09007C459E /* AIFSocketManager.swift in Sources */,
-				E1E7474D2FD7A519009E7D9B /* AppConfigs.swift in Sources */,
+				E15390502FD8032A00678A6F /* AIFWebView.swift in Sources */,
+				E15390512FD8032A00678A6F /* AIFSocketManager.swift in Sources */,
+				E15390522FD8032A00678A6F /* AIFRootViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		E10F58522FD7B598000B4013 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E10F58512FD7B598000B4013 /* en */,
+				E10F58542FD7B5B2000B4013 /* zh-Hans */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		E1BCC3CE2FD27CC7007C459E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				E1BCC3CD2FD27CC7007C459E /* Base */,
+				E10F585D2FD7B802000B4013 /* zh-Hans */,
+				E10F585E2FD7B805000B4013 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -419,6 +441,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -482,6 +505,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
